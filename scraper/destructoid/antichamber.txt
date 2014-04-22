@@ -1,0 +1,41 @@
+What is Antichamber? Well, that’s a tough question. Antichamber is many things, all at once. It’s unique, surprising, lovingly crafted, and gorgeous. It is not conventional, straightforward, or ordinary.
+The less you know about Antichamber the better, so without further ado here are many words about Antichamber .
+
+Antichamber (Windows) 
+ Developer: Alexander Bruce 
+ Publisher: Demruth 
+ Release: January 31, 2013 
+ MSRP: $19.99 
+
+While it may not seem like it during the opening sequences, there is a semblance of a plot hidden somewhere within Antichamber . It isn’t intrusive; it isn’t really explained; but what little there is may have the player asking some important questions when all is said and done. It is also incredibly vague, and some players may completely ignore it and never look back.
+The true star of Antichamber is its level design. It’s a giant labyrinth of sorts, but is less coherent and has way less David Bowie. The level design isn’t what I’d call...conventional. In fact, it’s anything but.
+Imagine you’re walking down a series of hallways, one after another. Every turn you take only results in another hallway. You don’t even know where you’re going, but you do know that you don’t want to be there anymore. In an act of desperation, you turn around. Suddenly, the area behind you is completely new. It is most certainly not where you came from, but it is where you are going now. That is a simple example of one of Antichamber ’s tricks.
+jEmbed JS API   VIDEO PLAYER   jEmbed SCRIPT  $sb("dest007_7063c2f550568eae1d89da6967726ee4", {
+	"sbFeed": {
+		"cname":"destructoid",
+		"partnerId": 357,
+		"type": "youtube",
+		"contentId":"aGsnm2nOnso"
+	},
+	"style" : {
+		"height":376,
+		"width":620
+	}
+});
+Around each corner in Antichamber awaits a complete mystery; you never know what you’re going to get. Even when viewing something, it is hard to be certain what is there and what isn’t. It's because the game succeeds in using non-Euclidean geometry, or a set of geometric rules that aren't consistent in logic . Thinking of the level design as an M.C. Escher painting will help convey the sense of non-traditional architecture that Antichamber is brimming with.
+Learning the game's bizarre geometrical tricks is essential to navigating the various rooms, sometimes through trial and error. The game is rarely predictable with its tricks, though you do learn what to expect in some situations as time goes on since certain ideas get reused.
+
+While navigating terrain can be a puzzle in itself, there are also traditional puzzle elements strewn throughout. A gun is soon acquired with the ability to collect and shoot colored blocks. The puzzles start out innocent enough, blocking lasers or stopping doors, but as the labyrinth grows so do the gun’s abilities.
+As the gun gains new abilities, it is up to the player to utilize the right one to solve the puzzles they will encounter. These puzzles eventually get quite difficult, but many of them begin to rely on the same trick towards the later stages of the game. There are a handful of puzzles that have easy solutions with tedious execution. While I anticipated the next great level design mechanic, I almost loathed seeing another block puzzle. And then another. And then a few more.
+That being said, learning the devious little intricacies of Antichamber ’s puzzles, both block and level based, is a lot like taking a math class. Just because you learned something early on does not mean that you can forget about it later. Every little bit of information just keeps building up.
+
+After each puzzle there are brief hints accompanied by a picture. Although it may seem curious to place hints after the solution is determined, remember that it is imperative not to leave information behind as if it is no longer needed. Sometimes, running across a previous hint on accident after getting lost is just what the doctor ordered.
+Calling them hints almost feels like selling them short. They are snippets of advice, applicable in many more situations than playing Antichamber .
+The starting area contains a map of all the rooms and how they connect, each room revealed only as it is encountered. This main lobby area can be accessed at any time by pressing the Esc key. This becomes useful in a handful of situations, since it shows the room you were last in. It also allows you to teleport to any previously visited area, without traversing the maze and puzzles again.
+Options can also be changed here, and the controls are displayed on the wall, as there are no menus. That’s just the kind of game that Antichamber is.
+
+Antichamber looks fantastic. Bright, vivid colors against pale white walls creates an incredible visual style. Objects grab your attention from a distance and entice you in, sometimes intentionally distracting you from the bigger picture. The look is simple, a staunch contrast to the confusing and complex layout of the rooms.
+The score is subtle, adding ambiance as you explore the labyrinth’s corridors. It’s unobtrusive and incredibly fitting, sometimes adding a bit of tension to the more harrowing puzzles. Some of the sound effects are actually, believe it or not, in spoiler territory, but they are certainly unexpected and a bit...inspiring.
+
+Antichamber is a perfect example of how a player learns to play videogames. There’s no gameplay tutorial, no loading screen tips (or loading screens, for that matter), just good ole' fashioned learn-as-you-play information aided by the in-game advice. There’s never a reference of mouse or keyboard, outside of the main lobby area.
+Antichamber is a unique and delightful first-person puzzle game that relies a bit too much on the wrong kind of puzzles. The plot is intentionally vague and some players may completely ignore it, but it hardly detracts from the overall experience. Antichamber looks great, is confusing in all the right ways, and may change the way people approach not only videogame puzzles, but real life obstacles as well.

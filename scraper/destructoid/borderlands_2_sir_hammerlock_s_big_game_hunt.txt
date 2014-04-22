@@ -1,0 +1,44 @@
+It’s a good thing that Borderlands 2 doesn’t often touch on real-world culture over the course of its kitschy, ostentatious sci-fi romp -- the times where it does have tended to be low points. I was disappointed to find the illiterate, incestuous, and NASCAR-obsessed Hodunk family roaming the Dust; I expect that Gearbox’ Irish audience weren’t thrilled to see the Zafords depicted as whiskey-addled leprechauns.
+These depictions are offensive at worst, and boring at best. Trotting out tired, well-worn stereotypes about poor people in Ireland and the American South is picking low-hanging fruit.
+Sir Hammerlock’s Big Game Hunt , the third downloadable campaign for Borderlands 2 , has the dubious honor of bringing that tradition into the new year. The premise sends our intrepid Vault Hunter to the yet-uncharted continent of Aegrus, which is populated by dark-skinned, facepainted, spear-wielding “savages,” whose vocabulary consists of “ooga” and “booga.”
+The "witch doctor" enemy class brings a touch of the Magical Negro stereotype, effectively rounding out Big Game Hunt ’s problematic vision of indigenous black people.
+jEmbed JS API   VIDEO PLAYER   jEmbed SCRIPT  $sb("dest007_27c64267977899f531362eca03701546", {
+	"sbFeed": {
+		"cname":"destructoid",
+		"partnerId": 357,
+		"type": "youtube",
+		"contentId":"ptzLprxivXA"
+	},
+	"style" : {
+		"height":376,
+		"width":620
+	}
+});
+Borderlands 2: Sir Hammerlock's Big Game Hunt (PC, PlayStation 3, Xbox 360 [reviewed]) 
+ Developer: Gearbox Software, Triptych Games 
+ Publisher: 2K Games 
+ Release: January 15, 2013 
+ MSRP: $9.99 / 800 Microsoft Points
+On the one hand, I understand the desire to use the safari adventure story as a jumping off point. Some of Borderlands 2 ’s best writing comes in the form of repurposed genre fiction, as evidenced by the Lynchwood and Captain Scarlett story arcs, and a hunt seems like the perfect, low-key excuse to shoot guns at terrifying creatures. Shooting a giant scorpion-esque monstrosity in the face is the ur- Borderlands , after all.
+On the other, Big Game Hunt pulls from a genre that’s rife with gross ideas -- phrenology and the White Man’s Burden -- used to justify American slavery and, somewhat later, British colonialism. The enemy character models for these “savages” are used unthinkingly and uncritically -- at no point does Big Game Hunt challenge, expose, or subvert the racist ideas that led to the creation of the stereotypes it so gleefully incorporates.
+In other words, the first thing that happens after fast-traveling to Aegrus is that my (white) Axton character jumps off a waterfall, marches into a village, and throws down a sentry turret. Less than thirty seconds later, that turret is surrounded by a half-dozen black men in loin-cloths, and I’m picking through their belongings like a conquering invader.
+It’s a harrowing moment despite, or because of, the fact that Borderlands 2 presents itself the majority of the time as a funny, non-serious game. Once the shock wears off -- and it does, and it’s horrifying how quickly that happens -- Big Game Hunt is uneven and uninspired.
+
+The campaign is ostensibly about hanging out with Sir Hammerlock for a long weekend of dick jokes, hunting, and zooming around in cool fan-boats, but the duo (or trio, or quintet, if you’re playing co-op) are foiled at every turn: Hammerlock runs out of dick jokes, a delusional Professor Nakayama interrupts the hunting, and the fan-boats are clunky, fragile, and ill-suited for Aegrus’ twisty passages and inordinately numerous cliff-faces.
+The Nakayama plot -- while well-scripted and voiced -- is unevenly paced and pretty perfunctory, a problem compounded by Big Game Hunt ’s map design and quest structure.
+The safari conceit that should match so well with Borderlands lies fallow for most of the campaign: what could have been a cool boss-rush mode turns into a checklist of fighting larger-than-normal-but-otherwise-uninteresting variants of the beasties you’ve killed dozens of times already. The presentation and execution of each hunt is simply bland.
+These enemies’ redeeming quality is that they can be respawned and farmed for the campaign’s unique loot. In something of a departure from past DLC packages, none of Big Game Hunt ’s coolest weapons are quest rewards -- they’re all tied to some infinitesimal drop rate.
+
+I’ve written before about the ways that the Borderlands 2 DLC is remixing and redefining the series’ goals by introducing instanced raid bosses and new in-game currencies. Big Game Hunt attempts, with limited success, to further change the formula, preferring to focus on exploration and emergent combat rather than deliberately paced sidequests or tightly constructed narratives.
+Big Game Hunt introduces two new types of enemy fauna -- boroks and scaylions -- and reintroduces the drifters from the original Borderlands ’ General Knoxx DLC , but these are relatively boring compared to the “savage” enemies.
+“Savages” tend to hide in the shadows and murky Aegran swamps, ambushing and surrounding Vault Hunters at each turn. This makes it impossible to set up cover or find convenient sniping positions without hacking through a ring of enemies first. The dark, oppressive environments dovetail well with the tension created by these surprise attacks.
+“Witch doctor”- and “shaman”-class enemies act as support for the legions of spearmen that accompany them: they can slag or paralyze players while leveling up enemy fighters. Borderlands 2 has always done a good job of rooting players out from under cover with melee- or grenade-based psychos, and Big Game Hunt ’s “savage warriors” fill the same role -- they just do it better.
+“Savage warriors” will bum rush players in groups of two or three, but they always break off in different directions at the last minute. Dynamic flanking, coupled with the bullet-sponge “witch doctors” constantly buffing his troops, makes Big Game Hun t an exercise in efficient target selection -- you may want to kill each shaman right away, but the bruiser who’s bearing down on you just gained three levels.
+It’s a fun-enough system, and it pushes Borderlands 2 ’s granular, moment-to-moment shooting in interesting ways -- battles are more dynamic and varied, and the importance of crowd-control, area of effect attacks, and elemental damage over time increases in lockstep with Big Game Hunt ’s higher difficulty. Still, these are small changes, and they mostly stand out by putting the rest of the game’s repetitive combat in relief.
+
+There’s something to be said for exploring Big Game Hunt ’s massive maps: the Pandoran environment oscillates between frozen tundra, endless desert, and ruined hellscape, so the murky, humid soup that is Aegrus is a welcome change. Each area -- and Hunter’s Grotto in particular -- is enormous, full of hidden caves, underground rivers, and winding passages through cliff-faces.
+Aegrus can be a fun place to get lost in, but the expansive maps and general uselessness of the fan-boat can make quest completion a slog -- all you want to do is kill Bulwark the Bullymong, but you’ve got a five-minute, on-foot trek through “savage”-infested villages first, and then another on your way back to the bounty board. The fun exploration always feels at odds with each quest’s pacing, which makes the campaign overall feel stunted and jerky.
+Of note is the level design in Roothill Village, a particularly frustrating tree-top enclave from which “witch doctors” and badass “savages” are more than happy to expel you. Happy climbing!
+
+Enjoying Sir Hammerlock’s Big Game Hunt is about managing expectations, about knowing what you want out of Borderlands 2 ’s constantly expanding menu -- its strong suits are the subtle twists on combat and enemy behavior, exploration, farming, and a hidden raid boss that costs almost 100 Eridium to spawn.
+Its narrative and mission structures are too loose and shambolic, though, and implemented with the same lack of care that led the designers to include a tribe of mind-controlled “savages” throwing spears at each other as the campaign’s principle enemy. Sir Hammerlock’s Big Game Hunt is, like each of the game’s expansions, more Borderlands 2 at its core, but it’s a shallow version of it, without any of the main game’s self-awareness or charm.

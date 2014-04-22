@@ -1,0 +1,36 @@
+For most of this generation, Nintendo existed as its own entity in the market. The Wii couldn't match the technical prowess of the Xbox 360 and PlayStation 3, while third-party publishers famously struggled when attempting to bring their wares to the system. As a result, the Wii's library remained anomalous and, to the eyes of some gamers, less than special.
+At least for one year, a Nintendo system now stands on equal footing with other leading consoles, and Batman: Arkham City Armored Edition exists to hammer that point home. One of the most critically acclaimed action titles on PC, Xbox 360, and PS3, Arkham City is now available on the Wii U, and it looks right at home.
+That's all it needed to do, really. What it didn't need was GamePad-specific features shoehorned into itself with no benefit granted to the end user. Sadly, it seems not even the Dark Knight can resist the lure of tech demo chicanery.
+
+Batman: Arkham City Armored Edition (Wii U) 
+ Developer: Warner Bros. Studios, Rocksteady Games 
+ Publisher: Warner Bros. 
+ Release: November 18, 2012 
+ MSRP: $59.99
+Batman: Arkham City Armored Edition mostly sticks true to the original incarnation released last year. Mostly. Taking place in an open world populated by Gotham's criminal element, Batman once again finds himself interred in Arkham City under the watchful gaze of Professor Hugo Strange, working as he does to uncover the secret of Protocol Ten, scupper the Joker's latest evil scheme, and punch a lot of things in the face.
+From its gripping story to the flowing combat and excellent predatory stealth segments, Arkham City is still good as it ever was when we bore down to its core. The Armored Edition gets its name from new combat suits worn by both Batman and Catwoman, suits that build kinetic energy as either playable protagonist successfully lands attacks on the mooks of Gotham. When the energy icon is full, tapping it on the touchscreen grants the player faster reflexes and extra attack power to finish fights more quickly.
+jEmbed JS API   VIDEO PLAYER   jEmbed SCRIPT  $sb("dest007_1d3a2f8036eb03b017b440bd2065f662", {
+	"sbFeed": {
+		"cname":"destructoid",
+		"partnerId": 357,
+		"type": "youtube",
+		"contentId":"TRr6JG15RK4"
+	},
+	"style" : {
+		"height":376,
+		"width":620
+	}
+});
+It's strange that this feature was not only added, but had the game named after it, since it really isn't a unique or interesting addition. It's not a bad addition, but I can't say I'm grateful for it either. It's just there , and tapping the icon to get a bit of a boost is no different from pretty much any action game with any sort of special power meter. I'm confused as to why this is seen as such a big deal, but at the very least, I can say that it's inoffensive.
+The other new changes, however, are a bit less subtle and much less welcome as far as this reviewer's concerned. Outside of general gameplay and combat, Armored Edition makes heavy use of the GamePad's touchscreen to the point of saturation. All in-game menu items, from map usage to leveling up to selecting gadgets, are done on the GamePad itself, and much of it feels like an unnecessary hassle. Leveling up Batman's gear is particularly irritating, as you now have to swipe your way through unresponsive rows of tiny icons and unintuitive screens. Unlike with my previous playthroughs of the game, I've found myself not immediately going into the WayneTech menu to upgrade, because I simply can't be bothered to fiddle with the menus.
+
+Gadgets themselves also insist on using the touchscreen, with the biggest offender being the hacking device. Whereas before, you'd rotated the analog sticks (or press keyboard keys) to solve puzzles, you now have to open up a whole new hacking minigame where you trace your finger on the touchscreen to find the right hotspot while avoiding a red line that intermittently sweeps past. I used to like how quick and efficient hacking was in Arkham City , bypassing the flow-breakage of dreary door-opening minigames found in other titles, but Armored Edition has spoiled that.
+Another issue is the gyroscope being used to aim Batarangs and the Batclaw. You can use the right stick to aim, but the gyroscope still registers and can throw the reticule off slightly. The remote Batarangs are also controlled via the GamePad screen, and again can be steered using motion or stick input, with similar conflicts. These issues are tiny, never really getting too much in the way, but they help hammer home just how much was changed simply for the sake of change, regardless of whether or not it improved the game.
+
+Batman: Arkham City Armored Edition simply tries too hard to be more than the port it honestly should've been. If you can implement new features and controls in ways that make the experience superior, then I'm all for it, but here we have a game that's fallen into the familiar trap of attempting to alter everything without regard for whether or not it actually improves anything. Dragging my finger slowly across a small screen to open a door is not gameplay -- it simply isn't. Fiddling with dragging gadgets to hotkey them, when opening a menu and hitting a button to select them would be quicker, is not an improvement -- it's a detriment. It's making things less efficient than they used to be an effort to impress us.
+Arkham City 's overall quality is hard to tarnish, and the original product still manages to shine despite the unbroken things that Warner Bros. Studios attempted to fix. While it would have been better had it remained unmolested, Rocksteady's work is solid as stone, and I still found it hard not to have a great time replaying one of the best licensed games around.
+
+In addition to the main game, Armored Edition sports all the content from the Game of the Year re-release, including Harley Quinn's Revenge and the Robin Pack . You do not, however, get the Batman: Year One animation that came with Game of the Year . Even so, you receive a fairly decent barrel of content for your buck, especially if you're a newcomer to the game.
+Batman: Arkham City Armored Edition fails to ruin what still is an admirable game, but there's no skipping around the issue of elements being forced in and serving only to render it inferior, making previously simple functions more complicated than they should be and dragging down the game's pace. While still a very good game at its core, this is not as good as the original, purer release. There's no shame in a Wii U title that doesn't shoehorn Wii U features into itself, and if the game would be better off without them, I'd really rather that be the route taken.
+
+Armored Edition didn't take that route. It took things that already worked perfectly and shook them until they cracked. Not shattered completely, but undoubtedly broken, just a little bit. If you only own Nintendo systems and love Batman, this remains a very worthy purchase, one that will give your hours of crimefighting enjoyment. If you've already played Arkham City , however, you'll be better off leaving it, because you already experienced the definitive version.

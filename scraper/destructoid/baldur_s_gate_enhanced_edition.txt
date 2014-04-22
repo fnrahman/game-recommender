@@ -1,0 +1,44 @@
+Baldur's Gate will forever be regarded as one of the classic PC RPGs. A lot of people never experienced it back in 1998, and it's not exactly the best-looking game anymore. To complicate things, it can be a pain to get the old game to run on newer machines, even after GOG.com began selling the title.
+Baldur's Gate: Enhanced Edition not only remedies these issues, it also adds a good amount of new content, making it way easier to recommend to someone who previously missed out.
+
+Baldur's Gate: Enhanced Edition (Android, iPad, Mac, PC [reviewed]) 
+ Developer: Overhaul Games 
+ Publisher: Beamdog / Atari 
+ Release: November 28, 2012 (PC) / December 2012 (Android, iPad, Mac) 
+ MSRP: $9.99 (Android, iPad) / $19.99 (Mac, PC) 
+
+The writing of Baldur's Gate has always been one of its strongest aspects. The story remains unchanged and still holds up.
+The main plot begins with bandits mysteriously trying to murder the main character in the midst of an iron shortage in the area. Enhanced Edition also includes the "Tales of the Sword Coast" expansion integrated into the main game. While the plot is good, I've always felt as if it were the characters and their interactions that really kept me going through the 50+ hours of gameplay.
+Protip: Include Minsc in your party.
+There were already a large amount of characters to recruit in the original game, but the Enhanced Edition adds three more into the mix: Rasaad the Monk, Neera the Wild Mage, and Dorn the Blackguard. Neera quickly became my favorite of the three and one of my favorite characters overall thanks to her unique spell, "Nahal's Reckless Dweomer," a last-ditch effort in which Neera chooses one of her other spells and attempts to cast it. However, this usually fails and the result is completely random; sometimes it's great, sometimes it wipes out the entire party.
+Rasaad and Dorn fit into the universe just fine and don't feel as if they're ham-fisted in for the sake of new content. You encounter all three new characters within the first two hours of gameplay, and just like with every other NPC, you can accept them into the party or refuse and continue without them. If they are in the party, they will occasionally feel the need to pester you and give you opportunities to ask about their history after resting or entering a new area. It's nice, but it sometimes happens about three or four times in a row, which gets quite annoying.
+jEmbed JS API   VIDEO PLAYER   jEmbed SCRIPT  $sb("dest007_fd442c5c30f67b5866c32b90faeb8d26", {
+	"sbFeed": {
+		"cname":"destructoid",
+		"partnerId": 357,
+		"type": "youtube",
+		"contentId":"egfgFZATd5E"
+	},
+	"style" : {
+		"height":376,
+		"width":620
+	}
+});
+The game itself runs on a better version of the Infinity Engine and boasts "over 400 improvements." It definitely runs more smoothly, though there are still some issues with path finding. The user interface is also cleaner and easier to comprehend, though it is far from perfect. Overall, it feels less "janky" than the original, which will definitely be a boon to new players.
+The AI in general is a bit hit-or-miss. You can tweak it to act according to preset actions, but sometimes there isn't one that fits exactly what you want. If perhaps there were a way to set specific reactions to events, a la Dragon Age: Origins , then the AI for ranged combatants and mages would be much better.
+
+There's also a modified in-game tutorial to help explain the Dungeons & Dragons systems at play. It will seem tedious for anyone who has played similar games in the past, yet plenty of game systems go untouched in the tutorial. There are two very lengthy manuals as well, so I'd recommend checking them out if you're confused.
+The game also crashed on me once during the main campaign, and I've heard other reports of crashes during The Black Pits. Though you should be doing it anyway, save often! The game is hard enough; you don't want to repeat a large segment of the game due to a crash.
+Oh, did I neglect to mention that this game is brutally, soul-crushingly hard? Allow me: this game is brutally, soul-crushingly hard . There we go.
+Character death isn't permanent in most cases, but reviving a character requires traveling to a Temple and paying gold to bring them back. But if you take too long to fulfill an NPC's quest, they might turn on you and try to murder you. On top of that, if your created character dies, it is officially game over.
+Save always. Pause during fights. And, as Minsc would say, "There is strength in numbers, and I am two or three, at least!"
+
+The biggest content addition is The Black Pits, an arena-based series of combat trials separate from the main game. It is possible to jump straight into The Black Pits without playing the main game, and it will assign you a party of six to play with. There are 15 arenas of increasingly difficult enemies to get through, which might sound like a complete chore at first.
+Luckily, the witty writing is still in full effect in The Black Pits. The wizard Baeloth has taken you to these pits and grows continually interested in yet disgusted by your ability to put on a show for the crowd and slay the enemies. In between rounds, you'll get the chance to rest and buy more items from vendors, each with a distinct personality and something to say about both Baeloth and the arena itself.
+It's a fun distraction from the main story and will take you a few hours to get through, depending on how well you handle yourself in the arena. It's also fully voiced, as opposed to the spotty "sometimes voiced, sometimes not" nature of the main game.
+
+Though it may be hard to tell from screenshots, Baldur's Gate: Enhanced Edition really has upped the visuals. Sure, they don't look ultra spectacular, but when you go back and play the original, you'll be shocked as to just how much of a difference there is. A large reason for the improved visuals is support for way more resolutions, including widescreen. The game looks better and you see more of it. Unless you zoom in. Don't zoom in.
+There are also new cutscenes, replacing the old 3D ones that most people would cringe at nowadays. These new cinematics are hand-drawn and though relatively infrequent and brief are a joy to witness. More character portraits and player voices round out this enhancement, both nice additions, especially if you've trod this ground before.
+
+Baldur's Gate was, is, and always will be an RPG classic. The writing is full of wit, the characters and their interactions are exceptional, and the tried-and-true D&D gameplay is deceivingly complex. Sure, there are some minor issues like character AI/pathing, overly chatty and intrusive party members, and the occasional crash, but they fall short of detracting from the overall RPG euphoria.
+Whether you've run through the game multiple times or have always wanted to, it's as easy as ever to recommend Baldur's Gate: Enhanced Edition to anyone.

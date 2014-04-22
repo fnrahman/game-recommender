@@ -1,0 +1,30 @@
+Half-Life is a great game, but it's been over ten years since its release. What if Half-Life were made in 2007 instead of 1999? Black Mesa is a re-imaging of Half-Life using Source, the engine powering Half-Life 2 . Valve has already created an HD remake of Half-Life called Half-Life Source, but that was a simple port over to the new engine. The textures, level design, and models remained the same. Black Mesa is more than a simple remake of the original game. It's a complete re-imaging of the core game with new level design, character models, textures, voice acting, and gameplay.
+It's an ambitious game that was created by a group of modders and fans over the course of seven years. While the core ideas of the levels are still here, each one has been completely recreated, resulting in an overall larger game. Half-Life was about twelve hours long while Black Mesa is easily over fifteen, and Black Mesa doesn't even yet include the original's final four levels. 
+High-definition remakes have been done before, but this is a creative recreation of a game. It's more than just sexy textures and layers of post-processing tricking us into thinking an old game is new again.
+
+Black Mesa (PC ) 
+ Developer: Black Mesa Modification Team 
+ Release: September 14, 2012 
+ MSRP: Free
+I started playing Black Mesa expecting a completely faithful recreation of Half-Life . I was expecting the same level design and puzzles. What I found instead was something that felt very familiar, but it was also very fresh. Now, I know that there are some people out there who might think that it's crazy to try and alter anything to do with Half-Life , but don't run away screaming just yet.
+Black Mesa does an amazing job of retelling the story. The levels are the same, you start at the same point, and you end at the same point. If I were to sit down and tell you how I played the game and what I did, it probably wouldn't sound too different, as the same essence is here. It's like watching a remake of a movie. Even if two people watched different versions of the same movie, they still have the same experience overall.
+jEmbed JS API   VIDEO PLAYER   jEmbed SCRIPT  $sb("dest007_859f084118afcda6c692feaa49cf3cec", {
+	"sbFeed": {
+		"cname":"destructoid",
+		"partnerId": 357,
+		"type": "youtube",
+		"contentId":"4_SmxkW33ZM"
+	},
+	"style" : {
+		"height":376,
+		"width":620
+	}
+});
+The above image is a top-down comparison of the the level "Inbound." They both have little crossroads, and some brownish-red stuff, but they look very different. The Source engine is capable of creating much bigger levels than the old engine ever could, and the developers wanted to incorporate that into the new Black Mesa Complex. It feels like a massive place now.
+Hallways are longer, rooms are bigger with higher ceilings, and outside areas are vast and expansive. It's not just empty space, either -- areas have been filled with extra rooms, more weapon stashes, and more bad guys to fight. While some things have been expanded on, other have been streamlined such as the level "On a Rail". This level is shorter and it require much less backtracking.
+
+The puzzle solutions are also a little bit different, too. Anyone who was hoping to blast through this because of how well they know Half-Life might have to stop and think for a bit here and there. I'm not going to dive into anything that could spoil the game for you, but I will say that the changes are well done and they fit the spirit of the original.
+Black Mesa has a lot to live up to, and it does an admirable job. The graphics look great, but the seven years in development make it look somewhat dated. The new voice acting sounds way better than the old digitized voice clips. Excluding a couple of moments where the frame rate dropped down drastically, the gameplay is otherwise smooth. At one point late in the game, it's almost unplayable for half a minute. Another annoying thing is the way jumping works: they tried to correct the insane old-school jumping mechanics by replacing it with a different (yet equally insane) method of jumping where you always have to press crouch and jump at the same time in order to get around.
+
+If you have never played Half-Life , you owe it to yourself to check out Black Mesa . It's a faithful recreation of an amazing game. You'll get the feeling and story of the original, but you won't have to try and play a 13-year-old shooter to do so. If you have played Half-Life before, you should still go play Black Mesa . It's a fresh take on a classic that's the closest thing you'll get to feeling like you're playing Half-Life for the first time again.
+No matter what level of experience you have with Half-Life , this is worth playing. It's a brilliant tribute to one of the greatest videogames ever made, and it's also a good game in its own right.

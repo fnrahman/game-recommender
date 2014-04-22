@@ -1,0 +1,44 @@
+The best downloadable content, in my experience, serves as a low-risk workshop to spitball and prototype new ideas. Sometimes those ideas pop up later in, say, sequels: it’s impossible to get from Dragon Age: Origins to Dragon Age II, for example, without incorporating some of the mechanics first introduced in Dragon Age: Awakenings .
+Or sometimes, DLC is a way to meet fan demands, to raise a level cap or introduce a weapons storage system into a loot-driven RPG. It’s a way to explore new areas of a game’s story or universe, or to fill in the gaps of some expository history.
+It’s also, I guess, a way to sell horse armor, alternate outfits, and snake oil to unsuspecting consumers.
+But the long view of the two Borderlands 2 DLC campaigns to date will show that Captain Scarlett and her Pirate Booty and the more recent Mr. Torgue’s Campaign of Carnage are addressing the fundamental question of what kind of franchise Borderlands wants to be.
+
+Borderlands 2: Mr. Torgue's Campaign of Carnage : (PC, PlayStation 3, Xbox 360 [reviewed]) 
+ Developer: Gearbox Software, Triptych Games 
+ Publisher: 2K Games 
+ Release: November 20, 2012 
+ MSRP: $9.99 / 800 Microsoft Points
+Borderlands is, by and large, about math, about procedurally generating things by filling in certain categories with certain values -- fire rates, monetary value, drop percentages. This happens largely in conjunction with other designs inherited first from PC role-playing games and then from MMORPGs.
+Loot drops -- in addition to boss farming -- have been a huge part Borderlands ’ continued success, the games’ internal random number generator driving players ever onward in search of the perfect gun or grenade mod. Torgue tokens, a new currency introduced by the Campaign of Carnage , changes that: you can now buy legendary, orange-level weapons right out of a vending machine.
+Torgue tokens are randomly dropped by powerful enemies, but they’re also rewarded to industrious Vault Hunters for completing missions. It takes 613 to buy a legendary, Torgue-brand weapon.
+The key here, though, is that these missions are short and repeatable. Under the right circumstances, you could grind out enough tokens for a legendary weapon in under an hour, which negates the need to farm these weapons from bosses elsewhere. With a little bit of dedication, anyone can have access to some of the best weapons in the game. The thrill of having the procedural stars align is gone, in favor of a flatter, more predictable system.
+jEmbed JS API   VIDEO PLAYER   jEmbed SCRIPT  $sb("dest007_c538f6154e0fd4c2f2c78a86dcbb2590", {
+	"sbFeed": {
+		"cname":"destructoid",
+		"partnerId": 357,
+		"type": "youtube",
+		"contentId":"uWdeDm4qfd8"
+	},
+	"style" : {
+		"height":376,
+		"width":620
+	}
+});
+This shift actually started in Captain Scarlett , with the introduction of Seraph Crystals and instanced raid bosses, but the concept is the same. Scarlett featured two optional, end-game bosses that a. dropped special crystals that could be traded for Seraph-level guns and b. could only be fought once per day. It takes between a week and ten days to farm for one Seraph gun. (Incidentally, the Campaign of Carnage introduces a new raid boss, Pyro Pete the Invincible, who also drops Seraph Crystals.)
+Carnage ’s new currency stands out even more because it’s so much easier to use -- the grindable missions are short and don’t have that awful one-boss-per-day instance limitation that Gearbox mind-blowingly placed on Captain Scarlett ’s best equipment. The democratization of Borderlands ’ loot drops reimagines some of its guiding principles and introduces the possibility for grinding that was never achievable before. It trades luck for patience.
+There’s an entire meta-economy of farmers, hoarders, looters, dupers, and modders that ply in the trade of Pandoran weapons, and they’ve had a tiny piece of rug pulled out from under them. The Torgue tokens don’t really affect how fun the Campaign of Carnage missions are or how funny the writing is, but it’s an important shift in the dynamics of the series.
+As Brendan Keogh points out , the guns in Borderlands have as much -- if not more -- character and variation as the humanoids do. Each one has a certain feel , independent of the complex calculus that spawned it. If you’re a Torgue loyalist, the easy access to explosive legendaries makes the Campaign of Carnage an easy choice. The same can be said for anyone specced to maximize explosive damage like, say, a Gunpowder-tree Axton player.
+
+The main Borderlands 2 story was generally well-balanced, mixing stupid violence with somewhat characterized, intentional action, but Campaign of Carnage shifts to pure bloodsport: the eponymous Torgue has organized a deathmatch to find Pandora's "number one badass," for whom a new Vault will open. Without characters like Roland and Lillith to balance things, Torgue becomes the tonal center of the story, and Campaign of Carnage wallows in his meatheaded machismo.
+It’s not that script or delivery aren’t funny (they are), it’s that Torgue tells the same joke over and over, a joke that was already a large part of Borderlands ’ goofy aesthetic. Where Captain Scarlett felt like Borderlands wrapped in a fresh theme, guided by Scarlett’s coquettishness, the Campaign of Carnag e feels like re-treaded ground.
+The arid desert landscape that surrounds Torgue’s Badass Crater of Badassitude doesn’t help that perception -- we get it, Pandora is a blighted wasteland -- nor does the reappearance of Moxxi, Tiny Tina, Scooter, and Sir Hammerlock. The dearth of new enemy types -- and one of the tournament’s bosses is just an Ellie re-skin -- drives it home.
+Again, Captain Scarlett worked because it introduced new characters and new types of places to explore, even while it remained mechanically identical to the main game; the Campaign of Carnage struggles in the same places.
+This is surprising for a campaign that goes out of its way to be self aware -- the tournament is structured as a “leaderboard,” and Torgue admits to spoiling plot twists and massaging the results to “maintain dramatic tension” for the televised event. One early sidequest tasks you with hunting down and mudering ECHOnet game reviewers who panned some of Torgue's favorites.
+The tournament structure only reinforces the weaknesses of Borderlands ’ MMO-derived, nested fetch-quests: it’s easy to justify all sorts of things when you’re saving the world, but being Torgue’s errand boy is harder to swallow. In other words, petty sidequests feel normal as part of Borderlands ' vibrant, sprawling world, but they feel out of place in what's supposed to be a focused, structured event like Torgue's badass tournament.
+
+Still, fans of the series who have come this far won’t be surprised that the quest structure has remained largely unchanged. Indeed, repetition is part of Borderlands ’ and its DLC’s appeal, like slipping into a worn t-shirt. There is a certain rhythm to life in the borderlands, and the Campaign of Carnage falls in step right away.
+Mr. Torgue’s Campaign of Carnage features some strong boss setpieces, but the real highlights are its arena fights and a new, dingy urban area north of the Crater called the Beatdown. The arena sections pit different factions against one another, and these different groups will fight amongst themselves if left alone. These fights are timed, though, forcing players to act more aggressively than they’re perhaps used to. It’s a small, subtle shift, but the added pressure of the time limit pays dividends.
+The Beatdown is a densely packed favela, all twisty alleys, rooftop-sniping and dead-end cul-de-sacs -- it reminds me most of Old Haven from the original Borderlands . Given that so much of Pandora is open and flat, the skirmishes, choke points, and ambushes of the game’s urban zones are always a treat.
+In both the Beatdown and the various arenas, each encounter and firefight is smoothly paced and takes advantage of the game’s level design. It’s a shame there aren’t more of both in the Campaign as a whole.
+
+For anyone deeply invested in Borderlands ’ loot design, Mr. Torgue’s Campaign of Carnage is the most recent (and comparatively large) step toward shifting away from random number generation as a guiding tool. For everyone else, it’s a competent addition with a few bright spots that won’t make as much of an impact as Mr. Torgue’s own speedfreak sensibilities. And that’s the grand irony of this DLC -- Torgue is just funny enough to emerge as one of Borderland 2 ’s standout personalities among a pantheon of eccentrics, but not dynamic enough to support an entire story arc, his thirteen pecs enthusiasm notwithstanding.
