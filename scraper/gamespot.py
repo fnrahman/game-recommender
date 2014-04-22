@@ -14,15 +14,21 @@ DELSET = ''.join(chr(c) if chr(c).isalnum() else '_' for c in range(256))
 DUMP_DIR = os.path.join(os.getcwd(),'gamespot')
 
 def construct_urls():
-	# Pages range from 1 to 644
-	l = map(str, range(1,4))
+	# Pages range from 1 <= to <= 644
+	# remember that range(x,y) goes from x <= n < y !!!
+	# 1 - 4 done
+	# 4- 11
+	# 11- 26
+	l = map(str, range(1,26))
 	return l
 STARTING_URLS = [START_URL + l for l in construct_urls()]
 
 def spider_reviews_list(url):
+	print "~~~~ ON PAGE " + url + " ~~~~"
 	response = requests.get(url)
 	soup = BeautifulSoup(response.content)
-	reviews = soup.find_all('article', attrs={'class':'media'})
+	review_list = soup.find('section', attrs={'class':'editorial'})
+	reviews = review_list.find_all('article', attrs={'class':'media'})
 
 	for review in reviews:
 		link = review.find('a').attrs['href']
@@ -33,8 +39,25 @@ def scrape_review_text(url):
 	response = requests.get(url)
 	soup = BeautifulSoup(response.content)
 	try:
-		title = soup.find('span', attrs={'itemprop':'itemreviewed'}).text
+		title = 'TEMP'
+
+		review_end = False
+		# Try obtaining the tag that holds the game name in 4 cascading ways
+		game_name = soup.find('span', attrs={'itemprop':'itemreviewed'})
+		if game_name is None:
+			print
+			game_name = soup.find('h1', attrs={'class':'kubrick-info__title'})
+			if game_name is None:
+				game_name = soup.find('h1', attrs={'class':'entry-title'})
+				review_end = True
+				if game_name is None:
+					game_name = soup.find('dt', attrs={'class':'pod-objectStats__title'}).find('h3')
+
+		title = game_name.text
+		if review_end:
+			title = title.replace('Review','') 
 		title = title.replace(u'\xa0','').encode("utf8","ignore").strip().lower()
+		
 		# Replaces non-alphanumeric characters with underscores
 		title = title.translate(DELSET)
 		# Replaces consecutive underscores with a single one
@@ -42,7 +65,7 @@ def scrape_review_text(url):
 		print title
 
 		review_section = soup.find('section', attrs={'itemprop':'description'})
-		plist = []
+		plist = ['<~' + title + '~>']
 		paragraphs = review_section.find_all('p', recursive=False)
 		for p in paragraphs:
 			plist.append(p.getText().encode("utf8","ignore"))
@@ -58,7 +81,7 @@ if __name__ == '__main__':
 	if not os.path.exists(DUMP_DIR):
 		os.mkdir(DUMP_DIR)
 
-	scrape_review_text('http://www.gamespot.com/reviews/mercenary-kings-review/1900-6415723/')
+	scrape_review_text('http://www.gamespot.com/reviews/dishonored-the-brigmore-witches-review/1900-6413130/')
 
 	#for url in STARTING_URLS:
 	#	spider_reviews_list(url)
