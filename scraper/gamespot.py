@@ -54,8 +54,7 @@ def scrape_review_text(url):
 					game_name = soup.find('dt', attrs={'class':'pod-objectStats__title'}).find('h3')
 
 		title = game_name.text
-		if review_end:
-			title = title.replace('Review','') 
+		title = title.replace('Review','') 
 		title = title.replace(u'\xa0','').encode("utf8","ignore").strip().lower()
 		
 		# Replaces non-alphanumeric characters with underscores
@@ -65,7 +64,7 @@ def scrape_review_text(url):
 		print title
 
 		review_section = soup.find('section', attrs={'itemprop':'description'})
-		plist = ['<~' + title + '~>']
+		plist = []
 		paragraphs = review_section.find_all('p', recursive=False)
 		for p in paragraphs:
 			plist.append(p.getText().encode("utf8","ignore"))
@@ -81,8 +80,8 @@ if __name__ == '__main__':
 	if not os.path.exists(DUMP_DIR):
 		os.mkdir(DUMP_DIR)
 
-	scrape_review_text('http://www.gamespot.com/reviews/dishonored-the-brigmore-witches-review/1900-6413130/')
+	#scrape_review_text('http://www.gamespot.com/reviews/dishonored-the-brigmore-witches-review/1900-6413130/')
 
-	#for url in STARTING_URLS:
-	#	spider_reviews_list(url)
+	for url in STARTING_URLS:
+		spider_reviews_list(url)
 	
