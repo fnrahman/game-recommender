@@ -13,6 +13,7 @@ DELSET = ''.join(chr(c) if chr(c).isalnum() else '_' for c in range(256))
 DUMP_DIR = os.path.join(os.getcwd(),'gamespot')
 
 def construct_urls():
+	# Pages range from 1 to 644
 	l = map(str, range(1,2))
 	return l
 STARTING_URLS = [START_URL + l for l in construct_urls()]
@@ -30,26 +31,28 @@ def spider_reviews_list(url):
 def scrape_review_text(url):
 	response = requests.get(url)
 	soup = BeautifulSoup(response.content)
+	try:
+		title = soup.find('span', attrs={'itemprop':'itemreviewed'}).text
+		title = title.replace(u'\xa0','').encode("utf8","ignore").strip().lower()
+		# Replaces non-alphanumeric characters with underscores
+		title = title.translate(DELSET)
+		# Replaces consecutive underscores with a single one
+		title = re.sub('_+', '_', title)
+		print title
 
-	title = soup.find('span', attrs={'itemprop':'itemreviewed'}).text
-	title = title.replace(u'\xa0','').encode("utf8","ignore").strip().lower()
-	# Replaces non-alphanumeric characters with underscores
-	title = title.translate(DELSET)
-	# Replaces consecutive underscores with a single one
-	title = re.sub('_+', '_', title)
-	print title
+		review_section = soup.find('section', attrs={'itemprop':'description'})
+		
+		plist = []
+		paragraphs = review_section.find_all('p', recursive=False)
+		for p in paragraphs:
+			plist.append(p.getText())
 
-	review_section = soup.find('section', attrs={'itemprop':'description'})
-	
-	plist = []
-	paragraphs = review_section.find_all('p', recursive=False)
-	for p in paragraphs:
-		plist.append(p.getText())
-
-	filename = title + '.text'
-	file = open(os.path.join(DUMP_DIR, filename), 'w')
-	file.write('\n'.join(plist))
-	file.close()
+		filename = title + '.text'
+		file = open(os.path.join(DUMP_DIR, filename), 'w')
+		file.write('\n'.join(plist))
+		file.close()
+	except:
+		print 'Exception for {url}',format(url=url)
 
 if __name__ == '__main__':
 	if not os.path.exists(DUMP_DIR):
