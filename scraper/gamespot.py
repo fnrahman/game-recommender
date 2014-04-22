@@ -6,6 +6,7 @@ import re
 import types
 import os
 import string
+import traceback
 
 DOMAIN = 'http://www.gamespot.com'
 START_URL = 'http://www.gamespot.com/reviews/?page='
@@ -14,7 +15,7 @@ DUMP_DIR = os.path.join(os.getcwd(),'gamespot')
 
 def construct_urls():
 	# Pages range from 1 to 644
-	l = map(str, range(1,2))
+	l = map(str, range(1,4))
 	return l
 STARTING_URLS = [START_URL + l for l in construct_urls()]
 
@@ -41,25 +42,28 @@ def scrape_review_text(url):
 		print title
 
 		review_section = soup.find('section', attrs={'itemprop':'description'})
-		
+		print "3"
 		plist = []
 		paragraphs = review_section.find_all('p', recursive=False)
+		print "4"
 		for p in paragraphs:
-			plist.append(p.getText())
-
+			plist.append(p.getText().encode("utf8","ignore"))
+		print "5"
 		filename = title + '.text'
+		print "6"
 		file = open(os.path.join(DUMP_DIR, filename), 'w')
 		file.write('\n'.join(plist))
 		file.close()
 	except:
-		print 'Exception for {url}',format(url=url)
+		print 'Exception for {url}'.format(url=url)
+		traceback.print_exc()
 
 if __name__ == '__main__':
 	if not os.path.exists(DUMP_DIR):
 		os.mkdir(DUMP_DIR)
 
-	#scrape_review_text('http://www.gamespot.com/reviews/nes-remix-2-review/1900-6415738/')
+	scrape_review_text('http://www.gamespot.com/reviews/mercenary-kings-review/1900-6415723/')
 
-	for url in STARTING_URLS:
-		spider_reviews_list(url)
+	#for url in STARTING_URLS:
+	#	spider_reviews_list(url)
 	
