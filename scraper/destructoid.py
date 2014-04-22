@@ -15,7 +15,7 @@ DUMP_DIR = os.path.join(os.getcwd(),'destructoid')
 def construct_urls():
 	#l = list(string.ascii_lowercase)
 	#l = ['other'] + l
-	return ['b']
+	return ['a']
 STARTING_URLS = [START_URL + a for a in construct_urls()]
 
 
@@ -31,6 +31,12 @@ def spider_reviews_list(url):
 		link = review.attrs['href']
 		url = urljoin(DOMAIN, link)
 		scrape_review_text(url)
+
+	next_page = soup.find('a', text = re.compile('NEXT'))
+	if next_page is not None:
+		page_url = urljoin(DOMAIN, next_page.attrs['href'])
+		spider_reviews_list(page_url)
+
 
 
 def scrape_review_text(url):
