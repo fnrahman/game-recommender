@@ -1,0 +1,22 @@
+In an odd twist of fate, Microsoft decided to release a twin-stick shooter modeled after the Halo universe exclusively for Windows 8 devices. Not only will this be the first Halo game without a console counterpart, but it's also one of the only Windows 8 exclusive games in existence, and the first Halo PC iteration since Halo 2 .
+This sounds like a recipe for disaster, but you know what? If you can somehow actually manage to play the thing , it's not all that bad.
+
+Halo: Spartan Assault (Microsoft Surface, Windows Phone 8, Windows 8 PC [reviewed]) 
+ Developer: 343 Industries / Vanguard Games 
+ Publisher: Microsoft Studios 
+ Released: July 18, 2013 
+ MSRP: $6.99
+Before I get started, I should mention for the purposes of this review I tested the PC version of the game as I didn't have access to the mobile touch version on phones and tablets.
+With that out of the way, Spartan Assault takes place in-between Halo 3 and 4 , with the fate of Master Chief currently a mystery. You play the role of Commander Sarah Palmer (voiced by the always stellar Jennifer Hale) alongside of Spartan Davis, as you engage on smaller missions battling the Covenant.
+To be blunt, this is a gaiden (side story), as the general plot isn't really that poignant in terms of the impact it has on the Halo universe. If you're a Halo junkie you may enjoy the injection of extra lore here and there, but for the most part, casual fans won't find any "must see TV" on offer. As someone who has played every major Halo game but doesn't engage in the extended universe material, I didn't find it essential in any way.
+
+Spartan Assault , like many twin-stick shooters, features a very simple mission structure. Amidst a collection of cutscenes, you'll be dumped into a series of levels with varying objectives, like escorts, kill quests, and so on. To mix things up, you can jump into turrets and vehicles on occasion, just like the core series, but levels are generally linear in nature with a clear-cut goal in mind. Everything is designed in such a way where you won't die repeatedly, and objectives are pretty clear.
+Vanguard Games, the developer of the underrated Gatling Gears , seem to have handled most of the twin-stick mechanics, and they work great. It's still the same classic Halo two-gun, grenade, and melee system, but it works naturally here in Spartan Assault .
+You'll move your character around with WASD movement, and you'll use the mouse to aim and fire, with the option to use armor abilities like stealth and sprinting. Other than the occasional clunky vehicle excursion, the controls mostly work, but I found myself longing for controller support, with the ability to lounge and play the game on my TV.
+
+Wait, no controller support? You mean, this "twin-stick" shooter doesn't make use of a controller with two actual sticks? Yep, Microsoft decided to ship the game without support for an Xbox 360 controller, which I would have appreciated in lieu of a mouse and keyboard setup given the lack of looting and other advanced mechanics. A patch is supposedly coming at some point to add said control option, but for now, you're stuck with a mouse and keyboard.
+After you're done with the five act, 25 mission campaign, that's about it as far as content goes. There's sadly no real multiplayer to speak of yet, but the game does have Achievements, weekly challenges, and there's leaderboard support. In true Halo campaign fashion "Skulls" (handicaps) can be turned on to alter the experience, and in turn, earn more XP.
+Microtransactions are kind of just there . You can earn most of the game's armory offerings through straight XP and progression, but some can only be bought with real money. While it's a bit off-putting, thankfully the game can be easily completed without spending any real money, and as a result, real money transactions are mostly just a minor distraction.
+
+Spartan Assault is a fairly weird release in general. Not only does it feel like it could have been a completely new IP, but I'm not sure who the audience is, given the strong console allegiance of the Halo franchise. But despite its lack of any remarkable or "must have" features, it still manages to be a fairly decent top-down shooter.
+It's by no means Windows 8's killer app, but provided you have access to a Windows 8 device, you could do much worse than Spartan Assault .

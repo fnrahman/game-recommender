@@ -1,0 +1,37 @@
+ function getVideo() {
+	var so = new SWFObject("http://cdn.springboard.gorillanation.com/storage/xplayer/yo033.swf", "mplayer", "620", "375", "8", "#000000");
+	so.addParam("wmode","transparent");
+	so.addParam("swliveconnect", "true");
+	so.addParam("allowscriptaccess", "always");
+	so.addParam("allowfullscreen", "true");
+	so.addVariable("pid", "dest002");
+	so.addVariable("siteId", "357");
+	so.addVariable("videoId", "176987");
+	so.addVariable("file", "http://cms.springboard.gorillanation.com/xml_feeds_advanced/index/357/3/176987/");
+	so.addVariable("pageUrl", document.location);
+	so.write("flashcontent_357_dest002_single_176987");
+} 
+I'll be honest, I didn't expect much when I first heard about Limbo . To me, it looked and sounded like yet another art game that people clambered over each other to fellate because it made them feel intelligent. Then I played it. Then I shut my mouth. Then my jaw fell to the floor.
+Limbo is an art game, there's no doubt about that. More importantly, however, it is simply art. It is also the most gruesome, twisted, and beautiful videogame that's ever been published on Xbox Live Arcade, and I don't say that to make myself feel intelligent. I say that because it's true.
+Read on for the full review of Limbo .
+
+Limbo (Xbox Live Arcade) 
+ Developer: Playdead 
+ Publisher: Microsoft Game Studios 
+ To be released: July 21, 2010 
+ MSRP: 1200 Microsoft Points
+Limbo is a 2D puzzle platformer in which players take on the role of a small boy who wakes up in the woods with no explanation as to how he got there. From the outset, one realizes that this isn't your average puzzler. The unique monochrome style that renders objects and creatures as black silhouettes against a dreary grey background is stark and miserable, yet eerily beautiful. This is a dark, melancholic, thoroughly bleak game, and that is what makes it so gorgeous.
+Gorgeous it may be, but it's as deadly as it is beautiful. The opening chapter starts us off nice and quiet. Too quiet, in fact. Much of the opening moments involve walking through a forest while nothing of interest happens. That is, until the first little "surprise" of the game, one that left me simply blinking in silence for several seconds. This defining moment is what makes Limbo stand out from the pack, and it only gets worse from there. Quick reflexes, a brain susceptible to twisted logic, and a strong stomach are all needed to see Limbo through to the end.
+This gruesomeness is what truly marks the title as something out of the ordinary. The variety of deaths that can (and will) occur to the main character, not to mention some of the things the player will have to do in order to succeed, are at once morbidly hilarious and downright disturbing. Somehow, the lack of gore makes it even worse, with the shadowy graphics allowing players to truly focus on the insanity of what they're seeing, rather than simply gawk at the blood. Gore is nothing compared to truly psychological violence, and that's what this platformer delivers. Despite having an aesthetic that makes it look perfectly safe for kids, Limbo carries with it a perverse intensity that manages to be more compelling than your most gore-laden "next-gen" first-person shooter.
+
+If the gore doesn't break your mind, the puzzles will. Players are pitilessly assaulted with fiendish challenges that run the risk of infuriating, but always manage to stop just short of making a player want to quit. As the saying goes, you can skin a sheep as many times as you like but you can only kill it once. This game only ever skins, as brutal as the shearing process may be.
+On rare occasions, some of the puzzles will feel like they lean a bit too heavily on guesswork and luck, especially those based around physics, but the fact that experimentation often brings rewards definitely helps to make up for these frustrating moments. Many was the time where a puzzle had exhausted my mental resources, only for me to accidentally stumble on the right answer just as I was about to surrender.
+What truly make the game so powerful is how it cultivates an air of oppression and paranoia that sticks with the player from the moment the first booby trap is sprung until the game's end. Death comes hard and fast, sometimes with such ruthless speed that you may actually jump from your seat. Even worse are the parts where nothing happens, the quiet periods that require you to simply walk. So great is the terror that this game can inspire, these otherwise dull moments only serve to heighten the tension, as players are conditioned to expect some new and terrible trap to be sprung. Sometimes one is. Sometimes one isn't. If Alfred Hitchcock had made a videogame, this would have been it.
+
+Despite the constant feeling of paranoia and fear, the sheer humor that can be had from the game is quite astounding. It's very rare that a videogame can kill me so often, yet raise a laugh every single time. The violence is so ruthless and savage that it becomes heinously funny. Death is its own reward, and since most of the checkpoints are well-placed, the trial-and-error gameplay actually works very well. Every death makes one stronger and more aware, and doesn't waste the player's time like many other "brutal" platformers do.
+Sound is used sparingly but to great effect. Ambient noise replaces a soundtrack, and the functional sound effects lend themselves well to a game that fuels the imagination with simple imagery rather than gratuitous graphical overkill. The visuals are alienating yet fascinating, drawing players in while keeping them at arm's length and slightly disconnected at all times. It's very hard to make such an aloof game engrossing at the same time, but Limbo manages it.
+In essence, Limbo carries with it many qualities that remind one of classic 2D puzzlers like Heart of Darkness and Abe's Oddysey . A dark sense of humor and an endearing artistic style blended with moments of true horror and savagery, broken up by a series of very clever puzzles. It's an old-school feeling, but modernized and adapted to the point where it doesn't feel like it's been done for cheap nostalgia. It's not a cloying game that relies on being "old-school," but fans of those older games will definitely love this one.
+
+Limbo is as close to perfect at what it does as a game can get. It's artistic without being pompous, difficult without being cheap, and violent without being gratuitous. It gets everything just right, and while the adventure will only take dedicated players a few hours to beat, the memory of the game will remain for much, much longer, and many players won't stop at beating the game just once. If I had to sum this game up in one word, I think that word would be "effective." That's what this game is, in every sense of the word.
+I'm not going to tell you to buy it. I'm going to ask you to buy it.
+Score : 10 -- Flawless Victory ( 10s are as close to perfect as you will get in a genre or on a platform. Pure, untarnished videogame ecstasy. )

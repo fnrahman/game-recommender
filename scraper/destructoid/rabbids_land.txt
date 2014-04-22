@@ -1,0 +1,29 @@
+It's hard not to like the Rabbids. Cute in an ugly way, stupid in an admirable way, the bug-eyed creatures bear an innate charm, and it's hardly surprising they swiftly stepped out of Rayman 's shadow to star in their own franchise.
+It saddens me that the franchise in question has built itself on a foundation of forgettable mini-game compilations.
+Rabbids Land is no exception. Billed as the "Perfect Party Game," it exists as Ubisoft's foot in the door of the Wii U's potential family market, offering a selection of uncomplicated distractions with a glossy paint of cuteness. It's ... as engaging as it sounds.
+
+Rabbids Land (Wii U ) 
+ Developer: Ubisoft Paris 
+ Publisher: Ubisoft 
+ Release: October 18, 2012 
+ MSRP: $49.99
+Rabbids Land revolves around a four-player board game. The board is made up of three rings, one of which is the central starting area and two of which contain a variety of squares with special properties. The aim of the game is to travel around the board, completing objectives to win a set number of trophies, before returning to the starting ring. Winner, obviously, is the first to get all the trophies and make it home.
+Players pass around the GamePad in turns, tapping on a virtual die that determines how many spaces can be moved. The most desirable spaces to land on are game squares, as these pick the player and a random opponent to compete for three trophies. Quiz spaces ask a general knowledge question in exchange for two trophies, while traps remove a trophy from any player unfortunate enough to land on them. Prize spaces grant unique one-use abilities, such as a loaded die that lets you pick any number you wish, or the power to steal a trophy from another player. Finally, there are event spaces, which alter the board itself by adding score multipliers, bombs, or burglars that move around the board and steal trophies.
+jEmbed JS API   VIDEO PLAYER   jEmbed SCRIPT  $sb("dest007_642fa251159ac30e595157b7caefa33a", {
+	"sbFeed": {
+		"cname":"destructoid",
+		"partnerId": 357,
+		"type": "youtube",
+		"contentId":"LiiXNOxCxos"
+	},
+	"style" : {
+		"height":376,
+		"width":620
+	}
+});
+The mini-games make use of the Wii U GamePad in a variety of gimmicky ways, but it has to be said that none of them come across as very inspired. Unlike Nintendo Land , Ubisoft's own party offering is a little on the tame side, doing nothing that we haven't seen before from other mini-game compilations that use motion or touch controls. We have a game where you tilt the Pad to move a ball around, one where you trace images with the stylus, one where you use the gyroscope to look about and shoot at things -- it's all quite pedestrian stuff. There's a little bit of a spin when the Wiimote comes into play, with other players trying to stop the main participant from winning, but again, it's the same kind of stuff we've seen on the Wii already.
+The games are slow paced, simplistic, and kind of dull. They all work just fine, but they're hardly exciting. Part of the problem is that I believe the GamePad is far less suited to the idea of party games than the Wii was, but Ubisoft is trying to force it anyway. The GamePad is a less physical controller than the Wii remote, and it's not exactly cause for a party mood when you're watching somebody hunched over a little screen, tracing lines with a thin plastic stylus. The GamePad's potential for asymmetrical multiplayer experiences is exciting, but not for these kinds of thoughtless mini-game experiences. The informed wackiness of people performing "crazy" objectives together is lost in translation when it comes to the more exclusive properties of the Wii U's primary controller.
+
+There's very little else of note in Rabbids Land , for all its promise of silly adventure in a crazy theme park. Outside of the board game, you can tackle unlocked mini-games in a Free Play or a Treasure Hunt mode. Treasure Hunt places coins in the games that can be tapped on and collected. The more coins players find, the closer they get to unlocking various videos in the Extras menu. These videos are mostly brief skits featuring the Rabbids doing silly things, and I believe they're far more entertaining than the actual interactive portions of this product.
+Rabbids Land isn't awful, but it's wholly unnecessary for a system that's launching with Nintendo Land , a game that trounces Ubisoft's attempts in every conceivable way. Rabbids Land does nothing exciting with the new input, nor does it take advantage of what the Wii U can do in order to provide games more suited to the GamePad. Instead, it tries old tricks on a system that's not built with them in mind, and the result is something disposable that has no real value to anybody.
+If you play Rabbids Land , you won't have the worst time, but it'll be wasted time nonetheless.

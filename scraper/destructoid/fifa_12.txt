@@ -1,0 +1,48 @@
+My first impression of FIFA 12 was not good. 
+ 
+ Players moved like they were covered in molasses, my passes were inaccurate and under-hit, and apoplectic flailing had seemingly replaced tackling in my center-backs’ collective skillset. I left my first several matches feeling frustrated, impotent, and powerless. 
+ 
+ So much for escapism. 
+ 
+ FIFA 12 gets better, exponentially so -- though I’m not prepared to say if that’s through the realization of good design principles or some sort of digital Stockholm Syndrome. I’ve become pretty devoted to improving Paris Saint-German’s lot, but it may be that I’ve simply been beaten into submission. 
+ 
+ Nevertheless, my initial problems getting in FIFA 12 illustrate that this game is not for dilettantes.
+
+FIFA 12 (Xbox 360 [reviewed], PlayStation 3) 
+ Developer: EA Canada 
+ Publisher: EA Sports 
+ Released: September 27, 2011 (NA) / September 30, 2011 (EU) 
+ MSRP: $59.99
+EA Canada’s endless refinement, endless iteration, has turned FIFA 12 into the Galapagos Islands -- everything from the physics engine to the controls to the high-level design choices of each mode has been rarefied, specialized, and tailored to suit its environment. It's ostensibly similar to other games in its genus, but unrecognizable in its specificity and mutation. 
+ 
+ It’s not just that the crossing and through-ball passing are wonky and unwieldy (they are), it’s that FIFA 12 is simply more granular and oppressively sensitive than any of the games before it. It’s not necessarily realistic , but the technical nuance is at an all time high (or low, if you prefer the freewheeling goal-frenzy of the older titles). The difference between FIFA 12 and 2010 FIFA World Cup South Africa ( that title!) is the same difference between Street Fighter III: Third Strike and Street Fighter IV . 
+ 
+ It seems counterintutive, in 2011, to make one of the most popular games in the world more complex instead of less so, but there you have it. FIFA ’s old two-button control scheme -- implemented in 2010 as a paen to simple, intuitive (casual?) grace -- is gone, replaced by a revamped “tactical defending” scheme. The barriers to entry have been raised and reinforced with high-impact glass.
+
+ 
+ Tactical defending does three things: it introduces a “contain” mechanic (which functions similarly to the now-standard jockey command); nerfs the double-team function; and forces players to become more conscientious tacklers. The last is the most nefarious. 
+ 
+ Previously, tackling served as a panacea for players’ tactical positioning woes -- jamming the tackle button was a sure-fire catch-all. The new tackling mechanic is inexorably tied to FIFA 12 ’s new physics engine: defenders who tackle indiscriminately (like me) are now left unbalanced, out of position, and slow to recover. In the midfield, this leads to devastating through balls; inside the box, it leads to penalty kicks and wide-open shots. 
+ 
+ The assumed corollary is that dribbling should be more effective against clumsy tackling, but -- well, after six years of playing FIFA games, I’m still not particularly good at it. (The lack of tutorial or basic guidance on 12 's ostensibly new Precision Dribbling mechanics really hurt, here.) Going up against CPU-controlled defensive players that move as a unit, disrupt passing lanes, tackle meticulously, and are no longer fooled by crosses, through balls, or Barcelonian possession, I often find myself at a tactical and creative loss. 
+ 
+ Don’t get me wrong -- FIFA 12 is capable of devastatingly good play, but it demands a deep understanding of both soccer and videogame soccer. It’s no longer enough to see the space and move into it -- it must now be done just so , with hitherto unrequired precision and finesse. Shooting, tackling, crossing -- all of it is more nuanced, sensitive, and strict. As a result, FIFA 12 is a more engaging, more active pastime than it has been in the past, even if (or because) you’re not scoring goals as often, but only after players agree to take the time to learn.
+
+From here, FIFA 12 balloons outward like a circus tent, with a host of elephantine modes and options. EA Canada took a few core concepts -- it’s fun to improve, it’s fun to compete, it’s fun to collect famous soccer players like Pokémon, and it’s fun to do all these things online -- and remixed, remastered, reconfigured, and recontextualized them over and over. 
+ 
+ The result is that each mode feels unique and different while retaining a baseline of familiarity. You’ll notice that there are, essentially, online Be A Pro leagues in a mode called Pro Clubs; or that career mode and Ultimate Team share a creative vision, even though one of them has a budget allocation mechanic and the other one is a trading card game; or that the promotion-relegation dichotomy that’s inherent to soccer fandom also works pretty well in a consistent, online league. 
+ 
+ Being fully-featured has never really been an issue for the FIFA series (or EA Sports titles generally), though. The real surprise is just how deep each of these modes can be. You can sign youth players as young as fifteen as a manager, slowly building them over the course of their decades -long careers. There is a live auction in which Ultimate Team cards are sold for hundreds of thousands of in-game currency. There are waiver wires, trade agreements, and free agency for online Pro Clubs players. 
+ 
+ That’s insane , right?
+
+ 
+ That’s not to say that FIFA 12 is perfect. Each mode has niggling issues: free kicks are still a messy, unintuitive disaster; the in-game transfer market is probably too forgiving; Ultimate Team’s user interface is a pain (though it’s “team chemisty” mechanic is neat); and the netcode for online play can get choppy.
+Player development, both for youth squads and the player-created Virtual Pros, is particularly slow. After three seasons, virtual Joseph Leray is rated at 75 -- he hardly competes with Javier Pastore and the newly-aquired Cesc Fabregas for a starting position on my team.
+But, still, these issues often get swallowed up in the enormity of FIFA 12 . There’s so much content, so much flexibility, so much dynamism that it’s hard to gripe too much. Tweaked mechanics and game modes aside, the defining achievement of FIFA 12 lies in the ways individual players change the contours of the game.
+Roman Palyuvchenko is no longer just a name on a character model: he likes to drop back and play as second striker, mopping up loose balls and creating plays. Aleksander Kolarov prefers making runs and crossing than he does actually defending. Mevlut Erding seems at his best sitting at the back post. boxing out smaller defenders for crosses. Andrei Arshavin and Kevin Gameiro make -- in my Twilight Zone version of Ligue 1 -- a devastatingly effective duo.
+
+ 
+ Two takeaways: one, PSG has seen a huge influx of Eastern Europeans; two, EA Canada’s attention to the quirks and idiosyncrasies of individual players suggests a passion for the subject matter that tends to be forgotten when we talk about giant multinational corporations. In other words, FIFA 12 proves that human beings -- not Autobots -- make videogames, and these particular people are sharp observers of the beautiful game. I think it shows, and I think FIFA 12 is a better game for it.
+It’s weird, for example, that sports games assign arbitrary numerical values to athletes; it’s weirder still that EA Canada made an effort to eschew that reduction, to show us that pathfinding and AI aren’t -- or don’t have to be -- static and one dimensional. In the public eye, athletes tend to oscillate between being seen as outsized, outlandish personae, or reduced to a series of statistics and metrics. FIFA 12 attempts to humanize the enterprise of videogame sports simulation.
+EA Canada's relative success in that attempt depends, like actually playing the game, on players' willingness to buy into the system. It's an arduous mountain to climb -- even while writing this review, I was trounced twice in a row by lowly FC Souchaux and those irascible Girondins in Bordeaux -- but there's gold in them hills.

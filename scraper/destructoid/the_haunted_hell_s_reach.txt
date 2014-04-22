@@ -1,0 +1,47 @@
+For those of us who like to celebrate Halloween with a horror-themed  videogame marathon, a myriad of choices has opened up to us in recent  years. Along with the old survival-horror standbys, we now have a new  breed of team-based survival games such as Left 4 Dead , FEAR 3 , and Killing  Floor . 
+  
+ While another contemporary is welcome, it takes a lot more than some  horror gimmicks for us to stick with a game of this ilk past October. However, The Haunted takes a unique approach to team-based, horror-themed action which may give it an edge. It’s like a  cross between an arcade beat-em-up, Gears of War ’s Horde mode, and Resident Evil 's Mercanaries mode. Unfortunately, technical flaws keep this one  from becoming a horror game you’ll keep on the shelf throughout the  year.
+ function getVideo() {
+	var so = new SWFObject("http://cdn.springboard.gorillanation.com/storage/xplayer/yo033.swf?pid=dest002&siteId=357&videoId=384311&file=http://cms.springboard.gorillanation.com/xml_feeds_advanced/index/357/3/384311/&autostart=false&pageUrl="+escape(document.location), "mplayer", "620", "375", "8", "#000000");
+	so.addParam("wmode","transparent");
+	so.addParam("swliveconnect", "true");
+	so.addParam("allowscriptaccess", "always");
+	so.addParam("allowfullscreen", "true");
+	so.addVariable("autostart", "false");
+	so.write("flashcontent_357_dest002_video_384311");
+} 
+The Haunted: Hell's Reach  (PC [Reviewed], Xbox Live Arcade, PlayStation Network) 
+ Developer: KTX Software Development 
+ Publisher: ValuSoft 
+ Released: October 25, 2011 (PC), TBA (XBLA, PSN) 
+ MSRP: $19.99 
+ 
+ Despite being a budget title that began as a Unreal Tournament 3 mod -- in fact, it won the 2010 “Make Something Unreal Contest” -- The Haunted carries an original take on Horde mode that will consume you for hours if you give into the addiction. The problem is that the user experience is so bad that you’ll find yourself debating if it’s worth attempting another loss connection or 10+ minute pre-match wait. 
+ 
+ The Haunted comes with four multiplayer modes, but it’s the cooperative Inferno mode which bears the most potential for late-night online gaming. In it, four players must survive four waves of enemies that increase in number and power over time. Its structure is pretty standard fair, but the combat system and interesting design elements keep this independent game from feeling like a blatant Horde mode clone.
+
+ 
+ The game’s combat system is as inspired by Resident Evil 4 and Gears of War as it is by God Hand . The game has a surprisingly deep melee system that gives the player an easy way out when surrounded by undead ghouls. You can jump kick, slam the ground, slide, and perform other maneuvers that recall the heyday of arcade beat-em-ups. Paired with some guns that sound and feel great, the combat will have you coming back to further explore what can be pulled off. Unlike similar games, watching a pro-player tackle The Haunted is a spectacle worth watching (see video below). Players are still finding new ways to use the game's combat system. 
+ 
+ Along with a strong backhand, you’ll mow down hordes of zombie-pals with a close quarters weapon, handgun, shotgun, and machine gun. You’ll unlock upgrades (and ammunition) to these as you kill. Upgrades range from akimbo shotguns to a glaive that will boomerang back into your hand. You’ll also find explosive weapons, in every other room of a stage, which will come in handy for wiping out a group of enemies. Sometimes a well-placed sticky bomb is all you need to get out of a hopeless situation.
+jEmbed JS API   VIDEO PLAYER 
+
+ 
+ Each of the eight maps has a level event triggered by the Chronostone that will make killing enemies a lot harder. These range from fog so thick you can’t see a wall in front of you to the floor erupting in flames, forcing you to constantly run until the effect is finished. Knowing what to do in these situations can be frustrating until you’ve learned how to properly play the game. As a result, you'll constantly be on edge when a Chronostone appears because you'll know that there will be hell to pay if the counter counts down to zero. 
+ 
+ Another unique feature is health. Each player starts with 200 hit points and the only way to heal is by executing an enemy. You execute enemies by beating them into submission and, once they are glowing yellow, you run up and punch them. It's risky and time consuming. It sounds like a terrible gimmick, but it makes the game pretty tenser as a result. You’ll be constantly wondering if you should go save a buddy or kick some zombies into submission for your own sake.
+
+ 
+ When a teammate dies, they spawn as a Soulstone. Like Chronostones, they will turn into a minion after a couple seconds but there is no countdown -- you can always save your teammate. The biggest problem of The Haunted is that joining a game forces you to wait until the next wave of enemies, which can sometimes be a 10+ minute wait! It’s so stupid that I have to assume the developer never playtested this game with strangers. Not only does no one want to play a game that forces them to wait 10+ minutes, there is absolutely no reason to have it designed this way. If new players joined via Soulstones, it’d solve the problem. 
+ 
+ I think the above issues exists due to flaws in the programming related to enemy-scaling. While a solo survival game is manageable (there is no singleplayer camapaign), a four-player online game can be maddeningly hard even on Easy. Even when you beat all four waves, you must face-off against Abaddon: A boss that towers above you, who can kill in one hit. It’s neat the first time you beat him (no reward …), but having to due it every match is a pretty dull design choice. I know you think he is cool, KTX, but he’s not that cool.
+
+ 
+ Along with Inferno (co-op), there is survival mode, Battle mode, and Demonizer. Battle lets players play against a human team, but you don’t really control demons. Instead, you spawn demons from a bird’s-eye view. It’s pretty boring since the best strategy is to just spawn a projectile enemy behind a player. Keep doing it and hopefully you’ll win. Demonizer is kind of like FEAR 3 ’s “Soul Survivor” mode, wherein players are converted to the other side when they are killed. Supposedly you control actual demons in this mode, but I wasn’t able to test it out. 
+ 
+ This brings me to another flaw with the game: connection issues and server options. Not only are very few people playing, it’s hard to connect to the ones that are. I found that restarting the game sometimes fixed the situation, but I still never came across a room playing a Demonizer match. I’ve also heard about players having other technical issues concerning graphics, but I never ran into any visual glitches.
+
+ 
+ The Haunted doesn’t look great, especially its human player models that resemble freakish puppets, but the level design, combat system, and challenge kept me hooked on it for a couple days. Eventually, I found the technical issues got in the way of my enjoyment so much that I didn’t want to bother anymore. It’s a great cooperative game when it works, but getting to that point can often prove frustrating. KTX has been replying to Steam users and are working on a patch for many of these issues, but until these problems are solved it’s hard to give the game a glowing recommendation. 
+ 
+ If you are seeking a new, unique team-based game to play with some friends on Halloween, The Haunted is a worthy choice. Just know that you may not want to play it in November, when you are still facing the same server, waiting, and technical issues that plagued its release. Here’s hoping a patch saves this game for those addicted to its winning combination of gunplay and melee combat, while it still has our attention.

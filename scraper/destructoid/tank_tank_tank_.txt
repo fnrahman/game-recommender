@@ -1,0 +1,38 @@
+There's nothing more upsetting than a game that believes, if it's wacky enough, it can get away with being crap. It's hard not to love a game that seeks refuge in audacity, as evidenced by the cult fanbase of such titles as Deadly Premonition and Earth Defense Force .
+Tank! Tank! Tank! clearly seeks the same kind of cult success, as evidenced by its delightfully stupid name. It begins its first mission with the briefing, "Giant mechanical spiders are attacking the city," without context or reason, and the game is a non-stop, colorful, sense-addling marathon of tank-on-robot action. It sounds perfect.
+That, unfortunately, is the tragic lure of the wacky game that exploits its silliness to try and get away with being rubbish. Such an endeavor ends up, like Tank! Tank! Tank! , as nothing more than a waste of deliciously dumb ideas.
+
+Tank! Tank! Tank! (Wii U ) 
+ Developer: Namco Bandai 
+ Publisher: Namco Bandai 
+ Release: October 18, 2012 
+ MSRP: $49.99
+Giant mechanical spiders, robotic octopi with colossal artillery on their backs, armies of armor-plated centipedes and laser-spewing dinosaurs -- Tank! Tank! Tank! pulls out a checklist of ridiculous monsters and throws them at the player, offering in return a small legion of playable tanks with which to take them out. In essence, it's a simple concept that is plenty capable of greatness, but lazy design and underwhelming controls undo all the genuine good that Tank! Tank! Tank! could have offered.
+The core of the game is rock-solid. You're one of many tanks, and you skid around mid-sized arenas, picking up ammo drops and blasting a bizarre array of gigantic robots until you win. Tanks are unlocked with medals earned at the end of each mission, and each one boasts its own set of strengths, weaknesses, and unique weapons. They have an unlimited normal fire mode, though this is ineffective against bigger boss monsters, and two unique alternative weapons which are activated by rolling over ammo pickups -- yellow pickups for weaker, more rapid attacks, and blue for rarer, but highly devastating missile launches.
+jEmbed JS API   VIDEO PLAYER   jEmbed SCRIPT  $sb("dest007_a6f8628fcc8f5f2f226853b81a19ae37", {
+	"sbFeed": {
+		"cname":"destructoid",
+		"partnerId": 357,
+		"type": "youtube",
+		"contentId":"YgndOkWGk1A"
+	},
+	"style" : {
+		"height":376,
+		"width":620
+	}
+});
+Missions either charge players with defeating a large number of small enemies, or a small number of huge ones, within a matter of minutes at the very most. Creatures themselves are generally easy to fight, and even those that manage to kill you rarely do so before your lives run out. Most mission failures will result from the time limit concluding before the requisite opponents are defeated, and that can often depend on your having picked the wrong tank for the job (some of them are just plain unusable, with lackluster range and a worthless rate-of-fire).
+A support tank aids the player in each challenge, which can either be controlled by the CPU or a human ally using a Pro Controller/Wii Remote. When a real-life partner is in attendance, the main player is relegated to viewing the action on the GamePad, thus avoiding any split-screens. Actual GamePad features are minor, outside of screen use and a few tappable menus -- you can steer with the gyroscope, but I'd advise against it, as motion controls aren't so good for open-arena driving.
+
+The essence of the concept is beautiful in its no-nonsense, all-action approach, but it's a real shame that the tanks themselves control awfully. Although you can move each vehicle's gun turret independent of its chassis, any attempt to move will bring gun and body back into line with each other, meaning you can't strafe and fire, which is a real pain in the backside when you're racing to ammo drops while attempting to defeat enemies within each mission's incredibly strict time limit. Even the more agile tanks are slow and unable to avoid most enemy attacks, and weapons tend to fire at sluggish, stuttering intervals that fail to satisfy. The less said about the auto-aim system -- and its tendency to just have a seizure as you drive -- the better.
+Tank! Tank! Tank! is not without its charm, even with such an inept control scheme. Like Dynasty Warriors or EDF , it's still fun to race around and mindlessly blast stuff, while the rough presentation and overenthusiastic voice commentary add a sense of dorky charm. However, even if you can get used to the controls and enjoy the minimalist action, Tank! Tank! Tank! pulls something unquestionably vile from its bag of cheap tricks -- it forces you to replay levels dozens upon dozens of times in order to desperately pad itself out.
+
+As already mentioned, you get a combat medal every time you clear a mission with a particular tank. If you replay a mission with another tank, you get another medal. Sounds fair enough, until you learn that the system has been exploited to force players to go through the exact same levels many times over in order to beat the game. After clearing a set number of missions, subsequent levels will become gated behind an increasingly egregious pay wall of medals. The only way to get more medals and progress through the campaign is to -- you guessed it -- pick new tanks and play old levels. A lot.
+I reached a point where I had 36 medals, and was informed that I couldn't unlock the next mission until I had 50. Bear in mind, this is after I'd already cleared two previous medal requirements, meaning I'd been retreading old ground more times than I care to remember before this. Missions don't change, and while the tanks all perform differently and can level up to boost their stats, nothing is compelling or deep enough to be worth all that repetition.
+This is made even more insulting when, further into the game, missions start repeating themselves anyway , putting you up against recolored enemies you already fought with maybe a few new attack patterns. In a budget game of half the price, this would be annoying, but Tank! Tank! Tank! barely qualifies as budget, and the laziness on display is appalling. It runs counter to what this game even sets out to do -- it's very hard to be mesmerized by something's inherent silliness when you're forcefully exposed to the same routine until you get sick of it.
+
+Outside of the shockingly slapdash campaign, there are four multiplayer modes to choose from -- local only. There's a free-for-all deathmatch, which isn't very fun, two-on-two team deathmatch, which is bland, a competitive four-player co-op mode, which is slightly fun, and a My Kong mode which, in all fairness, is pretty damn enjoyable.
+My Kong allows one player, using the GamePad, to take control of a gigantic robotic ape while other players control tanks and attempt to take it down. For added amusement, the ape can be given its player's face thanks to the GamePad's camera. Getting to be one of the monsters and smack other players around the map is certainly gratifying, and while it's not quite clever or polished enough to be worth more than a few tries, it at least gives this game something of a highlight.
+
+Tank! Tank! Tank! may be more fun in its original arcade form, but this Wii U release is clumsy, visually sub-par, and disrespectful of the player's time. While it revels in its own stupidity and hopes you'll do the same, it's one of those sad games that believes a ridiculous concept is enough to make for a worthwhile game, and in Tank! Tank! Tank! 's case, that's just not true. Indeed, there's nothing more upsetting than a game that believes, if it's wacky enough, it can get away with being crap.
+This game does just that, and it's no less sad than it always is.

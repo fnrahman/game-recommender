@@ -1,0 +1,29 @@
+Ever since it was first revealed, I've been attracted to the basic conceit of Teslagrad . Perhaps due to the volume of available titles in the genre, indie puzzle platformers have become a bit polarizing, but that never repelled me. Indeed, when compared to great titles in the genre, Teslagrad is a(n) (invisible) force to be reckoned with. 
+ 
+ Now that the magnet puns are out of my system, here's the review for this beautiful game.
+
+Teslagrad (Linux, Mac, PC [reviewed]) 
+ Developer: Rain Games 
+ Publisher: Rain Games 
+ Released: December 13, 2013 
+ MSRP: $9.99 
+ Rig: AMD Phenom II X2 555 @ 3.2 GHz, with 4GB of RAM, ATI Radeon HD 5700, Windows 7 64-bit
+Immediately upon its outset, Teslagrad offers a brief back story of its young, unnamed protagonist, though it brings up more questions than it provides answers. Who is this boy in blue? Why is he venturing out on a rainy night? Why are the men clad in red trying to capture him? Teslagrad does eventually answer those questions, but it is the manner in which it achieves that result that is particularly interesting. 
+ 
+ Other than the title menu and the closing credits roll, there are no words in Teslagrad , spoken or written. The narrative is delivered through wordless puppet shows found at various points up the main tower, and through still images found in various nooks and crannies. The real wonder is that Teslagrad 's narrative is clear and cohesive despite the limitation, offering a tale of cooperation, treachery, greed, hope, and salvation. Were it done another way, it might not have been a particularly engaging story, but as a sort of mystery to be pieced together over the course of the game, it is marvelous.
+
+ 
+ The wordless narrative is helped made possible by Teslagrad 's fantastic art direction and visual style. The mixture of hand-drawn character sprites, 2.5D background elements, and various lighting effects provide an unwelcoming feel suitable for the exploration of a mysterious castle. For the most part, the game is gorgeous, and I took many more screenshots over the course of the campaign than will fit in this review. The only minor quibble with Teslagrad 's visual presentation is that the protagonist's animations seem a bit jumpy at times and often don't match his speed. It is a bit glaring at first, but easy to ignore when he is doing more than just walking. 
+ 
+ As far as gameplay is concerned, the mechanics in Teslagrad are nothing we have not seen before. Objects in the environment (and eventually the player character) can be colored red or blue, where same-colored entities repel one another and opposite-colored entities attract. Using that basic idea, the player can perform otherwise impossible feats: scaling high walls, crossing wide gaps, and avoiding strategically placed electrical arcs. At their best, Teslagrad 's puzzles present the player with a clear problem and ask the player to solve them given the tools provided.
+
+ 
+ On the other hand, Teslagrad occasionally commits the cardinal sin of puzzle action: there are times when the solution to a problem is clear, but the execution itself is difficult. Few things are more frustrating than knowing exactly how to do something but being physically unable due to precise timing requirements or a general lack of dexterity. 
+ 
+ That is not even to mention the boss fights. Eschewing puzzles altogether, the boss fights are heavily informed by the old school of game design, for better and for worse. These large enemies typically have three stages, can defeat the player in one hit, require pattern recognition and quick reactions, and can be surprisingly difficult. While most of the bosses are not subjectively bad, the frantic pace and emphasis on action makes them feel as though they belong to a completely different game than the otherwise pensive rest of Teslagrad .
+The last two bosses in particular are obnoxious not only because they introduce new attacks late in the fights, but also because failure causes a full restart of the battle, leaving little room to learn how to deal with the new ideas. That said, my heart was pounding toward the end of my winning bout against the final boss, and his eventual defeat was supremely gratifying.
+
+ 
+ Adding to the old school woes is a small collect-a-thon element that could have been handled much more elegantly. Hidden throughout the tower are 36 capsules, each containing one of the aforementioned still images explaining Teslagrad 's back story. Often, they are presented clearly in a room as a reward for completing an optional, more difficult puzzle than the standard one in that location. In that form, the optional capsules are great. Elsewhere they are hidden from plain sight and only attainable through tedious exploration of every room. Compounding on that is the largely unhelpful map screen, which gives no indication of even general areas in which any missed capsules reside. Toward the end, there are hints that something special happens if a player were to collect all 36 capsules, but only the most meticulous searchers would be able to find them all without outside help. 
+ 
+ Taking all of that together, it is not obvious for whom Teslagrad was created. It requires a very particular set of interests and skills to fully enjoy. The incredible artwork and wordless storytelling style invite those who want to experience a unique narrative, but the difficult action gameplay and tedious exploration for capsules actively work to keep players from that experience. For those who are interested in the history to be discovered and who are able to persevere through the products of old design philosophy, Teslagrad is highly rewarding and an ultimately fantastic game. However, I would not be surprised to hear of others unable or unwilling to see it through to the end.

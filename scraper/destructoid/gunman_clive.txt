@@ -1,0 +1,33 @@
+Imagine for a moment that you have the power to make videogames. OK, I guess you don't have to imagine. With tools like Unity, Game Maker, and Flash on the market readily available to anyone who puts their mind towards snagging them, anybody could (and should) make videogames.
+So instead, imagine you have the power to make good videogames. You've worked on critically acclaimed titles (like Bionic Commando: Rearmed) and other successful high-profile releases and you know that your ideas helped make those games a success. You know that you have the skill and the know how to make the kind of games people will love, but that there is no guarantee that you'll be able to succeed out on your own.
+Like it or not, you're running solo now. You're without a big publisher's money to spend, but you're also without a big publisher calling the shots. Your next game will be made on your time, money, and creative instincts. While it will be no one's fault but your own if it fails, the glory will belong to you, and only you, if it succeeds.
+So what do you do? If your name is Jonathan Blow, you make Braid . If you're Brian Provinciano, you spend most of your adult life on creating Retro City Rampage . As for Bertil Hörberg, he took his time making Gunman Clive . I'm really glad that he did.
+
+Gunman Clive (3DS eShop) 
+ Developer: Hörberg Productions 
+ Publisher: Hörberg Productions 
+ Released: January 3, 2013 
+ MSRP: $1.99
+Like I alluded to in the coy and inviting intro above, Bertil Hörberg worked on Bionic Commando: Rearmed and Bionic Commando (dreadlocks). I'd always heard that the team behind those games were truly, madly, deeply in love with NES-era Capcom games. Gunman Clive is proof that their love was legit.
+Gunman Clive 's sepia-toned art direction, the old west setting, and the cowboy lead may have you thinking more Mad Dog McCree or Sunset Riders than Dr. Wily, but that's just scratching the surface. By the second world, you'll be faced with floating buzzsaws, Guts Man-style floating platforms, Air Man-style egg dropping birds, and many more Mega Man tropes. These old friends never seem forced or overused, which helps them to feel like aspects of genuinely great level design and not just shameless plagiarism. Gunman Clive has Mega Man DNA, but it knows how to lead a life of its own.
+jEmbed JS API   VIDEO PLAYER   jEmbed SCRIPT  $sb("dest007_b9c3c5976fddbfc89101844f5d34a46e", {
+	"sbFeed": {
+		"cname":"destructoid",
+		"partnerId": 357,
+		"type": "youtube",
+		"contentId":"PMDfq8PLfLM"
+	},
+	"style" : {
+		"height":376,
+		"width":620
+	}
+});
+While you don't obtain new weapons from bosses, there are a variety of different short-term gun enhancements (laser, spread shot, homing bullet, etc) to grab and lose along the way. You start by choosing one of two initially playable characters, the titular Clive and Ms. Johnson (who runs slower than Clive, but has a Princess Peach-style floaty jump). You're rewarded for beating the game with a third unlockable character -- probably my favorite unlockable secret character since Tofu in Resident Evil 2 .
+Regardless of who you choose, you'll find that every character is easy to learn and effortless to control. Where games like Super Meat Boy or even the Mario series may require months, or even years, to truly master "steering" playable characters with master levels of proficiency, Gunman Clive's crew only takes a few minutes to learn. The game makes up for that simplicity with environments that constantly offer up fresh takes on classic problems.
+
+Also unlike Mario and Meat Boy, Clive and company have life meters, so you won't be dying instantly very often. That's important, because learning the behaviors and patterns of the multiple types of enemies and environmental hazards will take some doing. Like in most great classic Capcom games, there is a real sense of intimacy and mastery involved in the process of getting to know (and learning to defeat) the multiple entries in Gunman Clive 's beastiary.
+It's in this "getting to know you" process where the old west theme does its best service to the player. Setting up the expectation that you'll be taking on simple, one-note old west villains in a simple, one-note old west setting makes the sudden appearance of anti-gravity fields and giant robots all the more intriguing.
+The game has three major flaws: it's very short (took me about an hour on the first run), it's got at least one game-breaking bug (it froze on me during the second boss, but a quick restart allowed me to pick up that fight again no problem, and this time with no freeze) and the music is a mixed bag. Some of the tracks are great, particularly those that are clearly re-appropriations of classic Capcom compositions. The more ambient, subdued tracks are also well written, but they sometimes feel like a poor fit for the game.
+
+Gunman Clive can be pretty tough. In your average oppressive 2D action game, a motivating, beat-driven soundtrack can really help you push through the process of replaying a level for the tenth time. When Gunman Clive' s soundtrack goes for old west authenticity instead of platformer euphoria, it can make the more challenging parts of the game feel less like a battle and more like a grind.
+That said, the game is still a steal at $2. Fans of 2D action platformers need to check it out. If Hörberg Productions is ever graced with the opportunity to develop a mainline Mega Man game, I'm confident that fans of the series would be happy with the results.

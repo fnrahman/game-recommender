@@ -1,0 +1,51 @@
+Considering its been nearly 12 years since the last Diablo and three  years since Torchlight , Krater is here to fill that action-RPG niche  that has long been ignored by PC developers. Wait, what’s that you say? Diablo III is already out and Torchlight II is on its way? 
+  
+ Err, well, this is going to be awkward.
+jEmbed JS API   VIDEO PLAYER 
+Krater (PC) 
+ Developer: Fatshark AB 
+ Publisher: Fatshark AB 
+ Released: June 12, 2012 
+ MSRP: $14.99
+The 11th Hour
+I have just listened to the last episode of Snap Judgement available on my iPod when I realize I’ve been in the same dungeon for hours. As have my level 15, maxed-out Bruiser (the heavy), Medicus (healer), and Brawler (nimble attacker). Oops, never mind. There goes my Medicus for good ... and my brawler and ... now it’s time to ctrl + alt + del my game and do a hard reset so I can roll back to my earlier save. Joy.
+Looking back at my 11-hour journey into apathy, I now discover that my emotions have changed more than anything in the game itself. I've gone from love to like to ambivalence to hate. How did I get here?
+
+The 10th Hour
+For every step forward Krater takes, it takes two step back; eventually falling down the stairs because that’s just what idiots do. Despite this, I’m now privy to its dark, elemental secrets that have scared other, weaker men away. Here I am, rocking my level 15, buffed-out team like a hurricane. After hours of grinding, I have achieved the perfect team. My early group of stunted weaklings limited to level 10 is a distant memory by this point.
+Now, I have a capable group outfitted with only maximum level buffs that give them strength, defense, and other advantages. In the cruel Swedish world of Krate r, these buffs are the only way to improve characters stats. Once they hit their level cap -- 5, 10, or 15, depending on the character -- you'll need to focus on buying, crafting, or finding level 3 buffs to apply. Like most aspects of Krater , it's a pain.
+Every enemy in this area is easily mowed down, despite belonging to the highest threat level the game has offered thus far. I wonder: What is the point? Why do people play these games? For the loot? To see their characters grow? To unlock abilities? Yet, my characters can’t grow since they’ve reached their level cap at 15, an hour ago. What loot? There are only weapons and gadgets to acquire and I’ve seen the best of both hours ago. The rest is just junk to be sold so I can buy and craft nothing. Abilities? There are none. You get the ones your characters have from the outset.
+And then, I meet the bear that kills me. Again and again. Every enemy dies with no effort and this bear gives me a taste of my own medicine. Too bad I can’t, you know, apply strategy. In Krater , it’s all about clicking fast and getting lucky. I haven’t felt lucky in a while.
+
+
+The 9th Hour
+Grindin'
+The 8th Hour
+The world of Krater , as wonderful as it once was, is starting to drag me to the ends of the Earth. Or whatever planet the game takes place on. Like, literally.
+One mission asks me to visit a village on the other side of the map, while the next asks me the same, only this time it’s even more of a trek. I’m a fan of the Vangelis by-way-of Final Fantasy overworld music and Fallout -style layout, but the random encounters are becoming a real bummer. In these high-level areas (currently Threat level 6), there are some enemies that can kill in a couple strikes. It doesn’t help when the game glitches and my Medicus can’t throw his grenade (gadget), so he just stands uselessly. Where to next I wonder? I’m not sure I want to know at this point.
+
+
+The 7th Hour
+Grinding in old areas to level my new Medicus, listening to “Gimme the Loot” on repeat.
+The 6th Hour
+Well, there goes an hour of my life I won’t get back. My beloved level 15 Medicus has died for good. Perhaps it’s my fault for choosing the game’s more severe difficulty which gives characters permanent injuries (these injuries are non-permanent on easier difficulties). Collect four injuries and you’ll get permanent death. Although I hate the system now, I still think it’s a brilliant way to approach the permadeath feature of roguelikes. You suffer the loss of a character, but you can always recruit a new one to fill its place. It’s like Jagged Alliance slept with its half-sister Diablo and they hid their kid in a sewer, feeding it garbage until it became Krater .
+The problem with this system is that finding new recruits is harder than it should be. Recruits have different classes (essentially healer, heavy, attacker, and support), level caps (5, 10, 15), and abilities (classes have two different loadouts, each of which only has two abilities). Nearly every town has a recruitment officer, but only a couple carry the ones you want (level 15 with the right abilities). This results in having to go out of your way to hire recruits, level them, and then head back to your mission.
+I see no reason why this system couldn’t be dictated entirely by funds instead of location. By taking a literal approach to keeping things out of the player's reach, Krater turns a fun journey into a rather annoying trip full of pit stops and long detours.
+
+
+The 5th Hour
+I’m slowly starting to realize that every quest in Krater revolves around fetching something or clearing an area of enemies -- the same enemies, ALWAYS -- all supported by inconsequential dialog and storytelling. It’s not without its charms, but it's not making up for the lack of imagination in quest design.
+Even worse, I’m coming to realize that the game repeats the same dungeon tile sets time and time again, albeit they are are 80% randomized in their layout. You have your generic cave, generic factory, generic mine, and that’s about it. The same is largely true for the towns, with only a couple having a bit more personality like Westfall. Even these towns are so tiny and barren that they may as well look the same as the rest. Krater exists in a sad little world where the only joy comes from clicking on things.
+The 4th Hour
+Call it blasphemy but I'm enjoying Krater more than Diablo III . Then again, I really didn't care for Diablo III at all. The key difference comes from combat. While in Diablo you click away, Krater is more about quick timing and accuracy with your special abilities. Since you have six abilities constantly recharging, you'll be slamming the number keys, rendering your hands numb by the time you leave a seven-floor dungeon.
+In addition to characters' abilities, you also have gadget abilities. These can be equipped one per character and can drastically change a battle with a bigger foe. The gadgets aren't very imaginative, ranging from area-of-effect grenades to stamina boosts, but they are fun to use. These items have much longer cooldown times, so you won't be able to spam them from battle to battle. Though the combat isn't very deep, I find it a lot more engaging than similar games.
+
+The 3rd Hour
+Throughout the game, you'll command a squad of three characters which gives the game a group dynamic missing from Diablo . It's a small detail but managing three health bars instead of one makes battles a lot more hectic. It's not Dragon Age -- or even Dungeon Siege , for that matter -- but it helps Krater stand out from similar games.
+Although you control a group, placement and crowd control never become an issue. I was a bit disappointed by this since so much potential is there for more complex battles. Instead, enemies rush your team and you'll just spam attacks on them as you would in Diablo .
+You'll have a character dedicated to healing and maybe even a character for support spells (slowing down enemies, for instance), but you'll rarely control party members individually. The only time I would select a single character was when my Medicus was at the front of the party, taking heavy damage. If the enemies were less vicious but had larger health bars, there could be some more room to be creative with group strategy. This group element in Krater is mostly a visual flourish.
+The 2nd Hour
+It's hard out here for a loot-based action-RPG, but Krater manages to carve out a wonderful niche. For a wasteland, the world of Krater sure is bright and its inhabitant jovial. The houses -- glorified cargo crates -- have personality. Christmas lights decorate one while a Swedish cover of PJ Harvey's "This is Love" blasts out of another.
+Quest givers don't have the most original things to say, but they are entertaining enough that I didn't ever feel an urge to skip dialog. There is an interesting backstory to the world of Krater , even if it isn't fully realized.
+The 1st Hour
+This is going to be fun. I think?

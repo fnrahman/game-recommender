@@ -1,0 +1,26 @@
+If I weren't already so fond of game jams -- and rapid prototyping in general -- The Binding of Isaac likely would have pushed me into such fandom. It began life as a week-long project between Team Meat's Edmund McMillen and Florian Himsl, eventually growing to what it is now, a twisted roguelike centered around religious themes and classic gaming influences.
+Given the unusual premise and genre itself, you might think that not everyone would be wholly receptive to this game. In my experience, though, people are coming in with an open mind and loving it. There are quite a few reasons why.
+jEmbed JS API   VIDEO PLAYER 
+The Binding of Isaac  (PC [Reviewed], Mac ) 
+ Developer: Edmund McMillen and Florian Himsl 
+ Publisher: Edmund McMillen 
+ Released: September 28, 2011 
+ MSRP: $4.99
+While The Binding of Isaac is indeed the story of a parent being asked to sacrifice their child in the name of faith, as the title would suggest, I don't see it offending players. There is a message about extremism in religion to take away, though it never really becomes preachy.
+The setup is a good one, and it provides the necessary context for a lot of interesting elements found in Isaac . Having escaped to the basement to avoid his mother's wrath, you play a crying, naked boy who has to fight off monstrosities (some of which are relatives) with his tears.
+Yeah, your starter weapon is projectile crying. So good.
+The basement itself is split up into a bunch of single rooms, with much of the world design similar to that of The Legend of Zelda 's dungeons. In fact, the game is broken up into multiple floors, each with an end boss to conquer before you can further descend. Between the bombs, treasure chests, and even keys, long-time gamers are going to feel right at home with Isaac 's conventions.
+
+Despite being a roguelike -- and as a result, having permanent death, randomization of items and levels, etc. -- this is very much an approachable game, even if it is at times immensely difficult. The mechanics are mostly straightfoward, and combat itself is familiar four-directional shooting.
+The WASD keys are used for movement, with shooting assigned to either the arrow keys or your mouse. You are restricted to up/down/left/right firing, but enemies are balanced accordingly, and attacking from an angle can be done if you shoot while walking a certain way. The controls aren't as tight as I would've liked, but you get used to them eventually. Note: there is no native gamepad support.
+Beyond your default attack, which can be upgraded through pick-ups to something other than tears, you can find one-time use items (pills and tarot cards), and you also have an equipment slot for items that recharge as you progress. Bombs, coins, keys, and hearts are also thrown into the mix.
+The end result, thanks to randomization and a wide assortment of potential collectibles, means playing The Binding of Isaac won't grow old anytime soon. Having played for more than ten hours myself, I'm still coming across previously unseen items and enemies on a regular basis.
+
+Perhaps one of the biggest selling points is the visual style. If you're at all familiar with Edmund's work prior to Super Meat Boy , you know what to expect. It's a wonderful blend of fleshy grossness and lighthearted, even sometimes cute, humor. (Disclaimer: I am totally into dark comedy.)
+Going back to the items you can collect -- stuff like dog food, a wire coat hanger, and syringes -- they are actually visually represented by changes to your character's appearance. And since these stat upgrades stack, your character usually ends up looking pretty ridiculous.
+Given the huge variety present in Isaac , not all playthroughs are going to be successful. This can be frustrating, but I feel like a reasonable amount of balance was reached given the variability. Even if you don't ultimately win, you're likely to come across enough new content to make the attempt worth doing; you lose your progress, but not your knowledge. That even goes for bosses, too -- there are around twenty in total, and almost all are satisfying to fight against.
+Major props must also be given for the excellent soundtrack, which I personally  adore. It's by Danny Baranowsky, who previously collaborated with  McMillen on Super Meat Boy and has made a name for himself by contributing to other great independent games. Chilling, catchy, and very fitting.
+
+The way in which content is accessed in Isaac is interesting. Beating the game unlocks additional levels, puts more items and bosses in the rotation, and probably something else I'm forgetting. Forgive me -- this stuff isn't exactly explained explicitly; it's a roguelike! All part of the fun.
+There are also multiple playable characters and endings. For those wondering why there are individual Steam achievements for reaching the full conclusion nine separate times, there's a reason.
+All told, The Binding of Isaac is a deceptively deep game. That it only costs $4.99 is nothing short of astounding. I don't see myself putting it down until I hit that magical 100% completion mark, which is hours and hours away at this point. This is one trip that I recommend to everyone open-minded enough to give it a chance.

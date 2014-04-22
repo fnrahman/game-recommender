@@ -1,0 +1,27 @@
+The story of Puddle is a tale of triumph. A group of students had the opportunity to have their game published by Konami after winning a 2010 GDC Independent Games Festival award -- pretty much every young developer's dream.
+When it was actually released however, they were introduced to the real world -- the polarizing world of the games press -- when it received mixed reception for the sometimes frustrating level design.
+Fast forward to 2013, and they've had an opportunity to address a number of issues, and enhance the game visually for the Wii U eShop. Let's see how the next chapter pans out.
+
+Puddle (Mac, PC, PlayStation Network, PlayStation Vita, Wii U eShop [reviewed], Xbox Live Arcade) 
+ Developer: Neko Entertainment 
+ Publisher: Konami 
+ Released: January 31, 2013  
+ MSRP: $9.99
+At its core, Puddle is a very simple game. You rotate the screen so that water can flow from one side of the level to the other. That's really it. But once you progress past the tutorial-esque levels, you'll find a fairly challenging, sometimes unique, and often frustrating little 49 level adventure. 
+
+The Wii U version adds some extra benefits that other platforms cannot boast: 1080p, 60 frames per second, remote play, leaderboards, and optional motion controls. That last bit is key here, as forced GamePad integration could have been a deal-breaker for a lot of potential buyers . 
+ 
+ In fact, there's three control schemes: the analog stick, tilt, and ZL and ZR (the latter of which is the best option by far). Kudos to the developers for not forcing anything on gamers and giving them the option -- it's part of the reason why the Wii U is one of my recent go-to gaming choices.
+What I like most about Puddle is that even though the gameplay is relatively the same throughout, the themes are constantly switched so it feels like you're playing a different version of it fairly often. 
+ 
+ jEmbed JS API   VIDEO PLAYER 
+The liquid you control tells a story as you weave your way through the game's different themes. One minute you might be helping a spilt coffee cup make its way through a corridor, the other, you're a drink making your way through the human body.
+But while the concept may play out like it's supposed to most of the time, frustration can rear its ugly head fairly often. For one, you have no control over the camera at all, leaving you at the mercy of two total functions: rotate the screen left or right.
+You'll constantly find your stream of liquid broken up into little bits, forcing you to essentially guess where the other bits are littered across the map. The camera will only follow the lead trail, which can get extremely annoying when the game fails you because you needed that last bit of liquid that's just out of your vision.
+Another concern is that the game takes a little while to get started. The journey is around four hours long, but it takes a good hour or so until Puddle starts to explore more interesting concepts. Thankfully, there are a heap of challenges, in-game achievements, and online leaderboards to keep you playing after you're done.
+
+ 
+ For over thirty minutes, you're kind of saying to yourself "ok, I get it, the water sloshes around when I tilt the screen." That is until you get into the real cool concepts like moving a beaker of liquid across a level without spilling, controlling fuel through the air across a zero gravity rocket, or urinating on a rat and killing it. When weird concepts like that happen, the game really clicks, and it feels wholly unique.
+In regards to other improvements besides the Wii U integration and the visual output, Neko Entertainment has stated that they aimed to fix some of the trial and error problems that plagued the original release with the eShop version of the game.
+But from what I can tell, as someone who played the original, there's still a lot of parts that will make you want to pull your hair out that almost come without warning (mostly due to the camera woes.) Even though you get four "Whines" (level skips, that you can regain if you go back and do the level legit), it doesn't excuse the sometimes shoddy design.
+Fans of LocoRoco or those hurting for games to play on their Wii U will probably dig it, so long as they have the patience to rev it up a little bit. It's still a neat little puzzler for sure, but it needs a bit more tweaking for me to wholly recommend it. If you've always been on the edge in terms of buying this game, this release should tip you, as it's the definitive version.

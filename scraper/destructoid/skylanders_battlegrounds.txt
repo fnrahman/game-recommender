@@ -1,0 +1,26 @@
+Toys For Bob sought to make a quality product that both kids and adults could enjoy in tandem. They greatly succeed with Skylanders: Spyro's Adventure and Skylanders Giants .
+But as is the case with any runaway IP, one developer can't possibly be ready to have their hand in every creation, and eventually, projects start to trickle down to studios like Vicarious Visions -- a developer known for working on ports and spinoffs.
+Sadly, one such mobile spinoff, Skylanders: Battlegrounds , hasn't been made with nearly as much care, and the IP suffers a bit for it.
+
+Skylanders: Battlegrounds  (iOS [reviewed on an iPhone 4], Android) 
+ Developer: Vicarious Visions 
+ Publisher: Activision 
+ Released: November 21, 2012 
+ MSRP: $6.99 (App) / $49.99 (Starter Pack)
+To clear things up, this isn't truly a $50 iOS game . The standalone  app is $6.99, and the starter pack, which is $49.99, comes with a  bluetooth portal of power, three figures (which usually retail for  around $10 each), a special item figure, and a redemption code for the  game.
+Pricing it all out (and discounting the fact that the Double Trouble  figure is unique to this bundle), you're essentially paying an extra $13  for the convenience of a portal, and an item . 
+
+Basically, the portal is not needed, since you can  activate your Skylanders through the code that came packaged with them.  Sadly, this has a drawback, as data is conversely not written to the figure itself -- which is half the fun of owning your own characters.
+When  you use the portal, all you do is ignore a coin fee (in-game currency) for  switching out individual Skylanders -- but since the game is fairly  easy, you won't need it (outside of potentially using it for the other  mobile Skylanders games, Cloud Patrol and Lost Islands ).
+With that out of the way, you still probably won't want to spend any money on Battlegrounds regardless. It's not the same action-oriented game as past Skylanders -- it's more of a simplistic RTS -- which would be fine, if it were done well.
+
+You start with up to two skylanders on a hexagonal world map, engaging in rogue-like movement until you land on the same space as an enemy -- in which case, a battle sequence will initiate.
+Once you're in battle, you can send your squadmates to a location or into an attack formation by swiping a line pattern. It's all pretty easy, but once you have to start tapping the screen constantly to pick up gold, you realize that there had to be an easier way to allow for less tapping. This is only exacerbated by a complete lack of a defensive auto-attack.
+For whatever reason, your skylanders only attack enemies if you specifically order them to -- meaning there is no idle auto-attack function. This lackluster design choice can get extremely annoying, as you'll constantly find enemies beating on your character for a few seconds only for them to do nothing about it.
+After repeating this same battle process around twenty times, I started to feel the burn, and a bit of a paywall. At some point you'll probably get bored of fighting the same enemies  over and over, and be tempted to spend some extra real-life scratch for  in-game help.
+Honestly? That's about it. You walk over tiles, sometimes get into  battles, and fight waves of enemies over and over. There's no real  exploration element to be had, something the core Skylanders games do extremely  well.
+
+The entire premise is also markedly less interesting this time around: you find yourself locked in combat with Kao's Evil Generals -- one of which is a reskin of a regular enemy in the Skylanders console games -- and not Kaos himself. There's no real big bad or interesting villain this time around, which makes it hard to stay motivated.
+But that one boss reskin isn't the sole culprit, since nearly every enemy in the game is borrowed from the series. Combat in general also gets old as you constantly fight the same small stable of foes over and over, due to the low variety. To add insult to injury, you can't access everything at launch, leaving you at the mercy of updates to access the entire game (at the time of this writing, only 20 of 40 levels are unlocked).
+If you're interested in the IP, stick to the core Skylanders series and avoid Battlegrounds . Toys for Bob did a great job synthesizing quality figures with quality games: Vicarious Visions, not so much.
+I don't understand why Activision couldn't just have Giants ported, but until they decide to get serious about a full mobile version of the game, stick to trying out the modest spinoffs Cloud Patrol and Lost Islands.

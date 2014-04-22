@@ -1,0 +1,37 @@
+So… have you ever wanted to be a cardboard shark hellbent on taking down “the man” and all his dirty, environment-destroying machines? Yeah it’s not something I ever really thought about either, but it sounds pretty freakin’ badass.
+Then again, I’m a man easily won over by creativity and style. While Derrick the Deathfin might have a few minor annoyances, at least it has an indie-vogue panache that’s more than a little refreshing.
+
+Derrick the Deathfin (PS3) 
+ Developer: Different Tuna 
+ Publisher: Sony Computer Entertainment 
+ Release: October 10, 2012 
+ MSRP: $7.99 
+ 
+ D the D opens with a short cutscene showing the death of Derrick’s parents. That’s right up there with a kidnapped lover among the most common motivations for a hero. The culprits in the case are the non-too-subtle “M.E.A.N. Corporation” that gives rise to a huge pile of tongue-in-cheek political and social satire. As the eponymous cardboard shark you’ll be blowing up oil rigs and ships carrying toxic waste in a blind rampage against the corporation, though it always seems like you’re doing more harm than good, regardless of intention.
+In Derrick’s quest to avenge the meat-ification of his parents, he traverses the oceans surround several continents. In each area there’s also one or two “bosses” which consist of a unique, albeit very easy puzzle that typically results in the destruction of some kind of heavy industrial equipment. 
+ 
+ jEmbed JS API   VIDEO PLAYER   jEmbed SCRIPT  $sb("dest007_8192bd081cc403cf43426391132a84db", {
+	"sbFeed": {
+		"cname":"destructoid",
+		"partnerId": 357,
+		"type": "youtube",
+		"contentId":"o3bbtsKqF5g"
+	},
+	"style" : {
+		"height":376,
+		"width":620
+	}
+});
+Each area of the world has a theme that subtly and roughly represents the aquatic life of its respective continent. For example, there are tons of crocodiles in the oceans surrounding Africa as well as squid near Asia. It’s a light-hearted and vaguely logical mechanism to introduce different enemies and foodstuffs for the young shark to eat.
+Friendly and inviting, nearly everything in the environments is personified with awkward or hilarious faces that clearly indicate someone’s been smokin’ da ganja. Its charm is remarkably saccharine, despite the subversive message behind it all.
+Initially I thought that Derrick was just graphically impressive, but while looking for screenshots and artwork to include in this piece, I learned that the game is papercraft. Not just inspired by one of the more popular nerd hobbies these days -- the characters environments, and effects are all made by people taking actual pictures of folded-paper analogues. It's pretty awesome stuff and definitely impressive to see that kind of care and effort put into the title.
+
+With that , Derrick ’s visual style feels very much inspired by a fusion of earlier cel-shaded titles like Viewtiful Joe and Yoshi’s Story . The world is bright and colorful with a smattering of “BLAM!”, “CRUNCH!” and “SNAP!” for effect.
+Speaking of which, Derrick, being a shark, eats fish, lobsters, crabs, and the like for health – which quickly depletes automatically as you move through a course. In many cases, there will be a very clear trail of fish to follow through the course, but some levels amount to little more than a giant, confusing maze.
+You’re left to wander aimlessly, and because health is directly tied to the food available, I died a few dozen times simply because I took some wrong forks in a path. Progress is almost never based on the skills you’ve acquired and applied so much as it is simple knowledge of the map. None of my deaths ever felt fair. I came away from each with a mild annoyance at some of the more misleading paths. 
+ 
+ 
+Thankfully, these moments, while frustrating, weren't too common. That said, they are compounded by a very loose control scheme. Super Meat Boy this ain't. To a degree, I can understand the design choice. Derrick drifts slightly around corners and always slides just a bit past where you intend to stop. It definitely gives the feeling that you’re piloting a super-fast shark through tight quarters, but it can lead to a few really annoying mistakes that cost valuable time – especially when you’re already running low and frantically looking for something to eat.
+In hindsight, I don’t feel like I was any better at Derrick when I finished than I was when I started. I feel like that can be forgiven, though. I enjoyed the music, the aesthetic and the ability to munch on wandering divers. I could also see fans of the 2D Sonic games really getting into this as it definitely has a lot in common with the Sega Genesis titles.
+It’s pretty short overall, but will take players quite a while to figure out the perfect path to take to guarantee a gold medal in each world. I milked about 4 hours from the thing – pretty middle-of-the-road for a downloadable title, but I could see it lasting someone else much longer. Ultimately, Derrick ’s lifespan as an entry on your “currently playing” list will depend directly upon how much of a completionist you are.
+Derrick the Deathfin is an easy recommendation for anyone who likes their platformers with a unique flare. Its self-referential humor and topical environmental humor are more than enough to give it a personality that you won’t find outside Banjo-Kazooie .

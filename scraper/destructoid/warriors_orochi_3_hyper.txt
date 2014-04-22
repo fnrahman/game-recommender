@@ -1,0 +1,34 @@
+Warriors Orochi 3 was one of the best entries in Koei's long-running Warriors series, perhaps since Dynasty Warriors 3 . Not only was it packed with content, the inclusion of Ryu Hayabusa, Joan of Arc, and other characters from Tecmo Koei's game library, made it quite a special installment.
+The Wii U has given the publisher another chance to release a great game, and Warriors Orochi 3 Hyper seeks to justify itself with more content -- including two new characters and a dueling mode that evokes memories of Golden Axe 's oft-forgotten competitive feature.
+It would have been a decent idea, had the port job not turned out so badly.
+
+Warriors Orochi 3 Hyper (Wii U) 
+ Developer: Omega Force 
+ Publisher: Tecmo Koei 
+ Release: November 18, 2012 
+ MSRP: $59.99
+For the most part, Warriors Orochi 3 Hyper does very little to distinguish itself from its original incarnation -- once again, an evil Hydra is murdering everybody from the Dynasty and Samurai Warriors games, and players go back in time to save them. As flamboyant heroes hack n' slash their way through immense battlefields, more characters are unlocked, powerful weapons are fused, and fresh moves are available to devastate the opposition.
+Battles are fought with teams of three characters, swapped in and out of play at the press of a button. One new feature in regular combat is the ability to use the GamePad screen in local co-op, allowing another player to utilize the Pro Controller on the the television. Other GamePad functions are non-existent -- the action directly streams to the controller, with no touching, waggling, or anything else unique to the Wii U. Playing on the GamePad isn't that great an option, though, since the expanded minimap is absolutely tiny and barely usable on the smaller screen.
+jEmbed JS API   VIDEO PLAYER   jEmbed SCRIPT  $sb("dest007_b50011db319ebe22eff50cc2103bbd03", {
+	"sbFeed": {
+		"cname":"destructoid",
+		"partnerId": 357,
+		"type": "youtube",
+		"contentId":"4YmbFIUF74c"
+	},
+	"style" : {
+		"height":376,
+		"width":620
+	}
+});
+Outside of the two new characters -- Momiji from Ninja Gaiden , and Shennong from the world of Japanese myths -- there are no changes to the story mode. Seeking out the all-new characters -- and the two included from Warriors Orochi 3 Special if you've never played that -- adds a tiny bit of extra gameplay, but not a great deal. Any DLC from the original version of the game has been excluded, so don't look for added value there.
+Duel Mode is the big new feature, and I have to say it's quite fun. Bearing a structural resemblance to a one-on-one fighter, one or two players can duke it out in single combat, swapping through a team of three heroes in a bid to kill off the opposing trio. As attacks are landed, Battle Points are earned, which can be spent on activating special combat cards. Cards, unlocked through story mode, may grant bonuses to the player or status ailments to the enemy, temporarily adding such properties as increased attack damage, or slow movement.
+There are options for single battles, or a survival mode where one player fights increasingly powerful teams to see how far they can go. While it's not a hugely deep enhancement to the game, and may not be worth the investment for those who already played the original, Duel Mode is not without its charm, and there's some potential in the card collection aspect. I'm a sucker for cards, and it's quite fun to unlock new ones and see how helpful they are in combat.
+
+Unfortunately, it appears Hyper is a bit of an unfortunate name for this new installment, as the game is noticeably uglier and slower than the original release. Anti-aliasing seems to not be in any sort of effect, as character edges and shadows are jagged to an off-putting degree. Weapons, in particular, look like they're made out of crumpled paper, while background environment details can be seen as twitching, textureless blocks of indistinct nothingness.
+The series has always struggled with rendering a ton of characters onscreen at once, and sometimes enemies would "fade" out of view in order to keep the engine from collapsing. Even by established standards, the extreme degree to which it occurs here is shameful. Huge clusters of enemies and allies will blink in and out of existence, and there doesn't need to be many of them onscreen for it to happen. Even in boss encounters against the Hydra, the creature's heads would disappear as I got them within my sights.
+Slowdown, however, is the real killer. Not only does Hyper run at a slower framerate in general, the action winds down to an excruciating crawl in even moderately sized encounters. Again, framerate dips have been nothing new to a series that fills its screen with enemies, but it's never been this bad. From the very first level, right through the entire campaign, half the fights are undertaken in slow motion, the game struggling to cope with anything more complicated than a meager handful of opponents.
+
+Warriors Orochi 3 Hyper still has the foundation of a great game, and there's plenty remaining to enjoy, but this is an unmistakably shoddy port, and the slight offering of extra content does in no way make up for that. At least I can say that playing one of my favorite series actually works really well on the GamePad, where the large control layout makes button mashing silliness a notably comfortable experience. I just wish that experience was attached to a game that ran correctly.
+As it stands, this is absolutely not worth getting if you played the original, and even newcomers will be disappointed by its substandard presentation. The heart of a really good game beats within its chest, but Warriors Orochi 3 Hyper is marred by too many blemishes to do it justice.
+Oh, and there's still no playable Gitaroo Man. What a tragedy.

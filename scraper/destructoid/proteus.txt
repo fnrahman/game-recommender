@@ -1,0 +1,29 @@
+Proteus has no objectives, no actions other than movement, and no text. It's a game based entirely off of exploration, using intelligent design to guide the player through. It also has a definitive structure; there's an opening, a gooey middle, and an end.
+Proteus ' biggest accomplishment is its dynamic soundtrack. From the first moment I encountered a frog or walked through a rain storm, my ears were assuaged by some of the most beautiful musical stylings that they have ever had the pleasure of meeting.
+So go get your headphones, put them on, and prepare to be delighted.
+
+Proteus (PC [reviewed], Mac) 
+ Developer: Ed Key and David Kanaga 
+ Publisher: Ed Key and David Kanaga 
+ MSRP:  $9.99
+As mentioned, there is a beginning and end to Proteus . It won't take long, either -- I finished in under an hour. Since it is entirely about exploring an unknown, randomly-generated island, there are more things to see and do than can be accomplished in a single playthrough. You can make also "postcards" of a specific moment during the journey that act as save points and can be revisited at any time.
+It may prove difficult to tear yourself away from the game in the first place, since exploring the island becomes such a memorable experience. Do you remember your first night cycle in Minecraft ? The terror and fright that struck as soon as that first monster approached from out of nowhere? There is a similar feeling in Proteus , except the feelings of terror and fright are replaced with beauty and splendor, gazing into the night sky and marveling at the stars.
+While exploring the island, the player can interact with various objects simply by using proximity. Approaching an animal will usually make it scamper away as it adds its own little melodious tune to the dynamic soundtrack. It wasn't long until I found myself rubbing against each and every thing on the island with the hopes of extracting some sort of musical interaction.
+Since there are no explicit objectives, it falls on the player to do as they wish. Smaller objectives are constantly being set, even if they are as simple as "Hey, I want to check that thing out!" The developers clearly knew this would happen, and designed Proteus in a way that doesn't have the player wandering aimlessly with no direction for very long. The player is directed through natural curiosity, which the developers have taken advantage of wonderfully.
+jEmbed JS API   VIDEO PLAYER   jEmbed SCRIPT  $sb("dest007_2ceae74c1f79b3f96fd16dc0feb90089", {
+	"sbFeed": {
+		"cname":"destructoid",
+		"partnerId": 357,
+		"type": "youtube",
+		"contentId":"rpkpuoq6y9s"
+	},
+	"style" : {
+		"height":376,
+		"width":620
+	}
+});
+While screenshots make Proteus look like another pixelated indie game, its visual design is, at times, breathtaking. The available media, consisting mostly of still and silent screenshots, does not fairly represent the game’s beauty, which is portrayed through motion and sound. The 3D models with pixelated textures are amazing at conveying an image to the player, leaving details intentionally ambiguous.
+The sound is the one true star of Proteus . The soundtrack is dynamic, evolving itself as you play. The more objects the player interacts with, the more elaborate the soundtrack becomes. It's so great, it has actually put me at a loss for words other than "absolutely beautiful." This is probably the best audio design in a game in a long time. The way in which it is integrated into the gameplay makes it so unique and enjoyable. To be honest, it is the sound design of Proteus that single-handedly elevates it from a good, somewhat meandering exploration game to something that needs to be experienced by everyone.
+
+Some people may be put off by its length and the lack of things to do in Proteus , and I can see that -- especially given the $10 price tag. There's no physical interaction with the surroundings or objectives to accomplish. Hell, there's not even a jump button. While playing through Proteus , however, all of those concerns melt away under the shining soundtrack and visual design.
+A childlike sense of amusement came over me while I explored the island in Proteus . Every time I saw something new in the distance, I got excited and had to see it up close. Proteus is a game that needs to be seen, experienced, and most of all, needs to be heard. Trust me, you'll want to wear headphones for this one.

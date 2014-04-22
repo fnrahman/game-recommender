@@ -1,0 +1,37 @@
+Of the four major North American sports, hockey ranks behind only football in terms of its physicality. It’s a brutal game played at high speed; finesse players make headlines with their graceful goal-scoring, but bigger, stronger, and slower skaters have important purposes to serve, too. 
+ 
+ Alas, videogame hockey is a different story. The virtual ice is a wide-open arena in which racking up points is of paramount importance. In most games, it made sense to stack a team with speedy snipers; that way, you could fly up and down the ice and pepper the opposing goalie with shots. 
+ 
+ Until now, that is. In EA Sports’ NHL 12 , grinders finally get their due.
+
+NHL 12 (Xbox 360 [reviewed], PlayStation 3) 
+ Developer: EA Canada 
+ Publisher: EA Sports 
+ Released: September 12, 2011 (NA) / September 9, 2011 (EU) / September 8, 2011 (AUS) 
+ MSRP: $59.99  
+ 
+ EA Canada implemented a real-time physics engine in NHL 11 , but the collision system didn’t do a good job of bringing the physicality of hockey offense to life. In the NHL, grinders -- physical players who jockey for position in front of the net -- are vital to most teams’ success. They often tie up defenders, giving their skilled teammates better scoring opportunities. Last year’s game remained a freewheeling goal-fest in which speedsters dominated on the rush. This time around, grinders actually jostle with defensemen down low, and it completely changes the complexion of the game. 
+ 
+ Power forwards box out defenders, who shove them right back. These battles slow the tempo of the game, keeping hockey’s breakneck pace confined to the occasional rush. Playing true hockey in NHL 12 is not only doable; it’s more effective than previous games’ unrealistic rush-turnover-rush sequences. With grinders fighting it out in front of the crease, I can fire blasts from the point, which are more successful because the forwards down low often deflect those shots past the goalies they’re screening (and if they don’t manage that, they’ll quickly jump on rebounds). This gives the game a more strategic feel, putting the onus on you to get open or find an open man.
+
+In addition to being stronger, players are smarter this year. Improved AI logic significantly reduces the number of times you’ll scream at your TV after a teammate inexplicably goes offside; it’s great to see them dragging a skate behind the blue line to stay on-side. The league’s elite players exhibit their particular talents and tendencies on the ice thanks to “signature traits,” so don’t expect to see Henrik Sedin throwing checks left and right. 
+ 
+ Goaltenders haven’t been left out of the equation. They’re actually “live” -- there’s no more invisible wall separating them from other players. You can slide into goalies, push them backward and knock the net off its moorings, and even fight them. Netminders are more active participants in the game, quick to swat rebounds aside out of harm’s way or whack a pesky forward. Goalies do seem to be a bit too susceptible to wraparound goals. And I did see a few instances where the referee failed to call a blatant goalie interference penalty, rare though they were. 
+ 
+ More common are physics faux pas, which are a side effect of an occasionally wonky collision system. Hip checks -- where you click the right stick to stick out your butt in an attempt to send a player flying -- are almost broken, since it seems that anybody who makes contact with a player in the hunched-over hip check position goes crashing to the ice. That’s to say nothing of glitchy behavior; I once appeared to whiff on a hip check, but the other player somehow ended up collapsing with a knee injury anyway.
+
+EA Canada touted this year’s physics engine with the tagline “size does matter” -- collisions are supposed to take players’ size and momentum into account -- but I’ve been able to destroy people with hip checks from diminutive players, so something clearly isn’t tuned correctly here. It’s neat that I can now check people over the boards, or pop off their helmets with a big hit, or shatter the rink’s glass, but I’d have preferred less buggy physics. 
+ 
+ The NHL series’ best mode, Be A Pro, has seen some important upgrades. For the first time, the game allows you to create female players, which is wonderful. And you can start your career in the Canadian Hockey League, building your skills for up to four years before turning pro. But my favorite addition is the revamped simulation engine, which works in conjunction with the brand-new “Action Tracker” to speed up your games and make them more realistic. 
+ 
+ You don’t have control over line changes anymore, so you can’t just hop on and off the ice on a whim. Your CPU coach doles out ice time, which you have to earn by completing assigned tasks. But if you’re on the bench, you don’t have to sit through the game until he puts you back out there -- instead, you can either enter the Action Tracker’s play-by-play text sim to follow the game’s progress, or press B to skip right to your next shift.
+
+The Action Tracker also keeps a record of everything that happens in the game. No, seriously: it records goals, shots, hits, penalties, and face-offs, and at any point during a game, you can pull it up to view a video clip of any of those events. Want to keep the highlight for posterity? You can enter the full instant replay viewer to edit and save the clip. Action Tracker will leave you wondering how you ever lived without it, and hoping that every sports game on the market implements a similar feature. 
+ 
+ Be A GM returns mostly unchanged, except for some better CPU AI where roster management (the core of the mode) is concerned. Player ratings could use some differentiation; as it stands, the range is too compressed, with the overwhelming majority -- by my estimate, 85-90% -- of NHLers falling between 75 and 90. As someone who sits on the casual side of the hockey fandom spectrum, I still find Be A GM rather impenetrable because of its complexity, and the cumbersome user interface doesn’t help. But if you already know the difference between restricted and unrestricted free agents, you’ll probably be right at home here. 
+ 
+ EA Canada has made a big deal of the integration of NHL legends into NHL 12 , but it didn’t do much for me. You can select a “Legends” team to play against any team in the game, but since there are only nine legends available, EA Canada had to fill the rest of the spots with current stars. Call me crazy, but I’m going to wait until Roberto Luongo doesn’t choke in the playoffs before bestowing the “legend” label upon him. You can also play as a legend in Be A Pro, but since the allure of the mode is to build a star from scratch, I didn’t see the point.
+
+I had a good experience online as well as offline. The online offerings -- standard ranked games, shootouts, and team play -- are still among the best in any sports title. Also still present are opponents who overuse the ability to dive to the ice and flail around, but hey, that’s not exactly EA Canada’s fault. 
+ 
+ There’s something to be said for a series that consistently excels; I can’t remember the last time EA Canada turned out an NHL game that couldn’t rightly be called “great.” NHL 12 isn’t a giant leap forward for EA’s vaunted hockey series, but it maintains the franchise’s lofty pedigree despite a few missteps. It offers improvements that are subtle as opposed to eye-catching, but they’re significant nonetheless. Once again, hockey fans, you’ve got a lot to be thankful for.

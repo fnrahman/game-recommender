@@ -1,0 +1,32 @@
+Fist of the North Star: Ken's Rage was a great game, at least if you liked the Dynasty Warriors series and had an affection for the punch-happy manga upon which it was based. Kenshiro's post-apocalyptic wanderings worked remarkably well with the brawling, one-against-all gameplay Koei is famous for.
+Koei is also famous for masses of sequels, and a follow-up was inevitable. Fist of the North Star: Ken's Rage 2 snuck out quietly compared to its predecessor, and unfortunately, there seems to be a reason for it.
+The reason being, of course, that it's a paltry shadow of the original title in terms of visuals, quality, and ... pretty much everything.
+
+Fist of the North Star: Ken's Rage 2  (PlayStation Network, Wii U eShop, Xbox 360 [reviewed] ) 
+ Developer: Tecmo Koei Games 
+ Publisher: Tecmo Koei 
+ Released: February 5, 2013 (PSN, 360) / February 7, 2013 (eShop) 
+ MSRP: $59.99
+As with Dynasty Warriors , Ken's Rage 2 chooses to re-tell the same story it told in the last game, but quite unlike the Three Kingdoms period upon which Dynasty Warriors is based, there are only so many ways you can "reimagine" Fist of the North Star . Characters have distinct attacks, predetermined personalities, and looks -- there's nothing up for interpretation as there is in the historically inspired games. This becomes crushingly clear once you start playing the main story mode, Legend, and realize it's almost exactly the same game as last time.
+When Warriors games get a sequel, it typically gives all its characters a complete overhaul, with new looks and movesets to justify a fresh purchase. Not so in Ken's Rage 2 , where any aesthetic alterations are minimal at best, and playable characters boast the exact same moves they had in the last game. None of the existing content seems to have been updated at all, and in some areas, even appear stripped down and inferior.
+This is most noticeable in the boss fights. Many of the boss encounters from Ken's Rage are regurgitated here, but with features seemingly removed. The fight with Jagi is a particularly outstanding example, removing the parts of the battle where he repeatedly cheats with bombs behind a fence. As a result, famous fights between Kenshiro and his many adversaries are less visually interesting and require less thought to beat. Battles now rely heavily on repeatedly spamming signature moves and mashing the dodge button, which further exposes an issue left unimproved from Ken's Rage -- cheap fights against enemies that can block you mid-combo, aren't physically affected by your blows, and power through them to hit you with their own unblockable moves.
+jEmbed JS API   VIDEO PLAYER   jEmbed SCRIPT  $sb("dest007_e5ba765afe583bdf0316d2813bc1ee62", {
+	"sbFeed": {
+		"cname":"destructoid",
+		"partnerId": 357,
+		"type": "youtube",
+		"contentId":"bWhbzPAsbOM"
+	},
+	"style" : {
+		"height":376,
+		"width":620
+	}
+});
+For the most part, Ken's Rage 2 is like a degraded cassette tape -- a complete copy of an original recording, but noticeably worse in every respect. There's no English voice acting this time around, with Tecmo Koei continuing its commitment to cutting costs in the audio department. Cutscenes are mostly told through still images created from character models frozen in place, because the game couldn't even spring for some good artwork. This thrifty move is compounded by ugly graphics throughout, full of collision detection issues and jaggy shadows excessively sprinkled over character faces, making everybody look like their skin is made of gauze.
+As noted, gameplay remains largely identical to the previous outing. Players punch their way through mobs of enemies before taking out stronger and more durable leaders, building up a power meter to perform various signature moves made famous in the manga. Dream Mode allows players to use supporting characters and villains and once again provides more tactical battles by dotting bases to capture around the map. A grading system provides light challenges throughout each level, requiring a certain number or enemies to be defeated or NPCs to be protected in a time limit to gain greater rewards.
+Even basic levels seem to be of lower quality than the first game. Gone are the more interesting environments and setpieces, replaced by an endless stream of corridors with predictable, arena-style clearings. Despite boasting more chapters, there's less variety overall, even by the formulaic standards of Warriors -style game, so the game feels like a tiresome slog. Oh, and naturally many of the environment details seem to have been copied and pasted over from the first installment.
+
+Ken's Rage 2 is not entirely identical, of course. New playable characters are included, though many of them, like Juda, were already bosses in the last game and so didn't require much effort at all to make playable. As noted, Legend Mode boasts more chapters detailing parts of the manga people care less about, but thanks to the unimaginative and supremely repetitive nature of levels, they just work toward exhausting the player. There's also online cooperative play -- a pleasantly received feature but one nobody seems to actually be using . At the time of writing, nobody's been found online.
+This fist-flavored sequel isn't unplayable, and there's still a measure of satisfaction to be had from punching enemies over and over again. I also have to admit that the new playable "Thug" character is hilarious, boasting a range of ridiculous attacks and even able to detach and throw his mohawk like a deadly ranged buzzsaw. Dream Mode, while as poorly presented in the cutscene department as Legend Mode, at least boasts far better written original stories for the side characters, making for some sympathetic and intriguing takes on Fist of the North Star 's many fighters.
+
+Even so, there's no escaping the issue of this being a shameful followup to a genuinely great brawler. I like Koei, but I'm the first to admit it can cut corners wherever it feels able to get away with doing so -- and even for that particular studio, this is a notably substandard effort. Uglier, more boring, as stale as week-old French bread, Fist of the North Star: Ken's Rage 2 is best ignored by fans of both Dynasty Warriors and Hokotu no Ken alike.

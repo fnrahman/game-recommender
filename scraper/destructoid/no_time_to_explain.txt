@@ -1,0 +1,19 @@
+A small indie team by the name of tiny Build GAMES was able to rather successfully fund a hardcore platformer using Kickstarter. In fact, they did such a good job at bringing in funds that they are now able to work on No Time To Explain post-launch and create a story-concluding second season.
+At ten bucks, you get the game, and come this December, season two at no additional charge. Feedback from users will be used to better this continuation, according to tiny Build. I sure hope so.
+jEmbed JS API   VIDEO PLAYER 
+No Time To Explain (Windows [reviewed], Mac, Linux) 
+ Developer: tiny Build GAMES 
+ Publisher: tiny Build GAMES 
+ Released: August 15, 2011 
+ MSRP: $10
+With its silliness and promise of time-travel-related shenanigans, No Time To Explain immediately caught my attention. I like platformers that aren't afraid to kick my ass, as I'm sure many of you do. But -- and this is incredibly important -- only when it feels like I'm the one making mistakes, not the game. Too many deaths perceived as "cheap," and I'll stop enjoying myself.
+That is, unfortunately, the trap this game falls into. The premise is that you're traveling through time to save different versions of yourself. You are always armed with this jetpack-gun hybrid, which is good, because you'll need to get through a bunch of dangerous universes to see your quest through.
+Left clicking fires off your jetpack, and when used in conjunction with your character's regular jump, you can get past otherwise unnavigable obstacles. Problem is, No Time To Explain doesn't "capture" your cursor, so you have to move your on-screen, totally visible mouse pointer around your character very precisely. It's amazingly easy to click off screen, usually resulting in death. I wager at least half of my deaths stemmed from issues with the controls. (At the time of writing, gamepads were not supported.)
+
+The good news is that the majority of checkpoints are quite generous. You will often respawn immediately at your character's last safe location prior to him dying. If movement felt more precise and consistent, then I would've had a vastly superior experience. The game is intended to challenge you, just not like this.
+No Time To Explain does a few things to mix up the action. At one point, your laser-firing jetpack-gun thing is swapped out for one that behaves more like a shotgun. I found it to be pretty fun, partially because I had fewer control problems when using it.
+tiny Build has also included a few bosses, all of which are completely ridiculous, and a one-off side-scrolling shooter level. Most of these were not particularly tough to beat or deep, but even still, I am glad they were implemented. The full game can be completed in a few hours, which is relatively fair for the price; additionally, there are bonus and user-made levels.
+
+And now we get to the really disappointing stuff. No Time To Explain suffers from a number of bugs, some of which are game-breaking. The first patch fixed enough to allow me to see the game through, but it sounds like certain users are still having major issues, especially on the non-Windows versions.
+After enough in-game deaths, your character will eventually make this  extremely angry face like he's about to give up. The first time I saw  it, I soon realized I had been making a similar face myself for who  knows how long. It was at this point I had to ask myself, "Why are you  still spending your time on this?"
+Looking over the forums, it seems as if the developers are actively paying attention, and seemingly working on follow-up patches. That's good. But in its current state, No Time To Explain is in serious need of polish. One day, this might be a solid platformer, because the concept is fun and worth iterating upon. For now, though, the annoyances aren't worth putting up with.

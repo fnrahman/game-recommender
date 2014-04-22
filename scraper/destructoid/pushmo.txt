@@ -1,0 +1,23 @@
+For those of us day-one 3DS owners especially, the build up to a solid library of games for the system hasn't been a particularly fast one. That said, we are getting there.
+Despite Nintendo's comparatively lacking push for digital distribution in the past, I feel hopeful for what's to come with the eShop. Between Mighty Switch Force , VVVVVV , and Pushmo ( Pullblox in Europe), there's reason to not only be optimistic on this front, but for the 3DS more generally.
+jEmbed JS API   VIDEO PLAYER 
+Pushmo (3DS) 
+ Developer: Intelligent Systems 
+ Publisher: Nintendo 
+ Released: December 8, 2011 
+ MSRP: $6.99
+In Pushmo , you play an adorably plump character who likely moonlights as a sumo wrestler. Fitting, considering the whimsical world in which you inhabit. The neighborhood kids have gotten themselves trapped in vast climbing walls called Pushmo, and seemingly no one else is a bad enough dude to save them.
+The concept of pulling and pushing blocks never seemed particularly complex, but that didn't stop the creators of Pushmo from making a laughably long set of tutorial levels. It's an unfortunate introduction to an otherwise great puzzle-platform game. You'll thank me later for sparing you the basic mechanics. Just know that blocks can come forward a maximum of three steps, and there are multiple ways to manipulate them.
+While the pacing may not be quite right initially, the challenge builds steadily over hundreds of puzzles. And when a level is too tough to face on your first attempt, you're eventually allowed to skip it, making sure you aren't locked out of later content. Considering how easy it is to convince yourself to solve a challenge a certain way (i.e., the wrong way), this gesture was greatly appreciated.
+
+As level designs grow to increasingly ambitious heights, you come to realize how bad Pushmo could have turned out with less-than-terrific platforming. It feels, well, right . Better yet, you automatically stick to edges that are high up, and even if you do make a mistake, you can rewind time a good 25 seconds. This has the added benefit of allowing you to experiment without having to fully restart a level.
+Whereas I found Super Mario 3D Land  to be a game that was made better with 3D turned on but didn't demand it, Pushmo goes a step further. Here, the tech is useful enough to feel like a requirement. Yes, you can play without 3D, but you won't be doing yourself any favors.
+A good portion of the levels are murals, and some are even NES sprites. At first, this seems like a good idea -- unfortunately, though, the approach ends up being largely uninteresting. Generally speaking, the challenge levels favor smart puzzles over aesthetics. Completing murals, on the other hand, rarely results in a feeling of true accomplishment; the steps to victory can often come across as mindless.
+
+As stated before, Pushmo can be quite lengthy. There are approximately 250 levels packed in here. Some will be completed in under thirty seconds, others ... let's not go there.
+Even though you are eventually given access to two new mechanics -- color-coded ladders which act as portals, and buttons that send blocks of a certain color all the way toward the screen -- it's not enough. Either more game-changers should have been included, or there should not have been so many levels. Pushmo isn't a full-priced 3DS game, mind you, so I am willing to cut slack.
+This also ties into Pushmo Studio, the game's level editor. The creation tools provided are highly intuitive, which is, of course, great. I am somewhat worried that, for the time being, the majority of user-created levels are merely going to be replicas of beloved videogame characters. As I noted before, these frequently end up being less engaging to play through.
+
+It's disappointing, if predictable, that Intelligent Systems didn't  incorporate any sort of voting system or easy access to fan submissions  within Pushmo itself. Instead, a QR code is generated for each  level which can then be transferred off of your SD card and shared using a computer. Moochers, however, will be pleased to know that getting others' creations into their game is quick and easy.
+Although the push/pull mechanic of Pushmo is powerful enough to seep into your daydreams (see: the Tetris effect), I didn't find it to be sustainable across a game of this length. Don't go in expecting a deep experience, but do go in -- this is still a must download.
+Pushmo is not remarkable enough to justify a 3DS purchase on its own, but it is certainly another in a growing group to chip away at apathetic feelings toward the system.

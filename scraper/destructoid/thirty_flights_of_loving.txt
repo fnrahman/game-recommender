@@ -1,0 +1,33 @@
+You won't get very far on your escapades through the Internet without someone complaining about how much "games these days do nothing but hold your hand." This phrase is most often used when referring to gameplay, but the same can easily be said about how stories are told throughout the medium. There has been a large shift towards player-generated stories, which is absolutely fantastic, but linear storytelling has remained mostly stagnant.
+At least, that is what I thought before I played Gravity Bone and, more recently, Thirty Flights of Loving , both created by Blendo Games. Thirty Flights of Loving will likely take you less time to play than reading this review, so I'll give you a head start: do yourself a favor and buy, play, and enjoy Thirty Flights of Loving .
+jEmbed JS API   VIDEO PLAYER   jEmbed SCRIPT  $sb("dest007_ca518866e84bd12f84bfe82d6beca3a7", {
+	"sbFeed": {
+		"cname":"destructoid",
+		"partnerId": 357,
+		"type": "youtube",
+		"contentId":"5y1P2BUCeuc"
+	},
+	"style" : {
+		"height":376,
+		"width":620
+	}
+});
+Thirty Flights of Loving (PC ) 
+ Developer: Blendo Games 
+ Publisher: Blendo Games 
+ Release: August 20, 2012 (Steam) 
+ MSRP: $4.99
+It is often said that it is not what you write, but rather what you don't write. There are two stories that epitomize this idea completely:
+Both of these incredibly short stories tell a complete tale. The former is a sad, melancholy story about an event no couple wants to experience, while the latter is a horror story reminiscent of The Twilight Zone . What they both share is the immediate sense of intrigue. The reader's mind races to think of all the possibilities that would lead to the situation at hand. The lack of information forces readers to use their imagination to construct their own version of the story.
+Thirty Flights of Loving works exactly the same way. It isn't so much about what is told to the player, but instead what is not . This fifteen-minute adventure leaves just enough information for the player to start making assumptions, but not enough to know exactly what is going on. The player is intentionally left in the dark as to the finer details of the plot and is then forced to bridge the gaps and draw their own conclusions.
+
+There is no spoken or written dialogue throughout the entire game as the complete story is told through interactions and the environment. The surroundings are so lovingly crafted in order to tell such a specific story; everything is done on purpose. Although this attention to detail may not be incredibly obvious on a first playthrough, the included developer commentary sheds a ton of light on the development of Thirty Flights of Loving .
+After playing through Thirty Flights of Loving , I began to think of storytelling in video games as a whole. How did this tiny little morsel of a story manage to evoke the same emotions that most games can't do with an eight-hour campaign? It does so by removing all of the "fluff" from the plot and gameplay. Character development is progressed only through actions and observations. Unimportant and dull travel time (walking from point A to point B) is simply removed by a scene jump cut. It might seem strange or even annoying at first, but upon some critical thinking, it just makes sense .
+It is so meticulously and lovingly crafted that it makes the traditional linear storytelling method seem drab and extraneous. This is storytelling distilled to its finest form; it is a game that does not waste your time. Moving forward, I will not look at storytelling the same way again.
+Concerning gameplay, Thirty Flights of Loving is a first-person adventure game. It consists of simply moving around the environment and interacting with objects and people. There's no health bar, no shooting, and the only time player control is taken away is brief and optional. Yet despite the limited mechanics, relationships are explored and intrigue is piqued.
+
+Thirty Flights of Loving also includes Gravity Bone , a very similar game created by Blendo Games. Gravity Bone is just as wonderful at telling a linear story in a short time span and boasts one of the absolute best scenes to take place within a videogame. Both of these games are incredibly important and will hopefully be a jumping-off point for other developers to advance the medium going forward.
+The art style might seem strange, but it works. Too often are games lauded for their ability to model and texture the human face with incredible detail and not for efficiently using a specific style . All of the characters are skinny and have blocky heads by design. They are not supposed to look like perfect human beings, which ends up creating a unique feel and style specific only to Thirty Flights of Loving and Gravity Bone .
+The sound effects occasionally sound a bit off, but that is likely due to the fact that the game is created in the Quake II engine. Still, certain sounds seem a bit out of place or jarring. I also experienced a couple of crashes, but only while playing through the game's developer commentary. Thankfully there were no crashes on my various playthroughs of the main game. Both of these issues amount to a small blemish on what is otherwise an incredible experience.
+
+So please, get rid of all of your preconceived notions about game length as it correlates to price and quality, and go play Thirty Flights of Loving . Right now. Go . Do it . While you're at it, make sure you play it with the developer's commentary after your first run. Oh, and be sure to also play Gravity Bone if you haven't already. If you have, play it again. You'll never look at linear storytelling the same way again.

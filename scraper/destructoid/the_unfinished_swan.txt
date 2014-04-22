@@ -1,0 +1,36 @@
+The Unfinished Swan has come a long way since it was first revealed in 2008 as "that weird game where you chuck paint at white walls." It still is that weird game where you chuck paint at white walls, but there's a lot more to it than that.
+From a simple clever prototype to a more "artsy" adventure, The Unfinished Swan clearly hopes to stand tall next to other downloadable curiosities such as Flower and Journey . It comes damn close, too.
+Not quite there, but close enough.
+
+The Unfinished Swan (PlayStation Network ) 
+ Developer: Giant Sparrow 
+ Publisher: Sony Computer Entertainment 
+ Release: October 16, 2012 
+ MSRP: $14.99
+The Unfinished Swan is set in the remains of a long-abandoned kingdom, once under the rule of an egocentric and selfish king. Having painted most of the realm bright white, for no colors were deemed good enough for his creation, Unfinished Swan 's world is made of bold shapes, defined mostly by shadow and paint thrown around by the player.
+The first chapter introduces us to the core concept. Using the PlayStation Move remote (or DualShock 3 if you prefer), the player looks around and tosses out a ball of paint with a single button press. The world is completely white, but by throwing paint, the protagonist Monroe can define shapes, gradually revealing a world full of objects and obstacles. The only other color at this point is gold, used to define the footprints of the titular Unfinished Swan, a living painting created by Monroe's mother. The swan acts as something of a guide, as Monroe attempts to track it down.
+jEmbed JS API   VIDEO PLAYER   jEmbed SCRIPT  $sb("dest007_51c9ff0de32116014bb7cb9f731a8baf", {
+	"sbFeed": {
+		"cname":"destructoid",
+		"partnerId": 357,
+		"type": "youtube",
+		"contentId":"xFfteZaAXq4"
+	},
+	"style" : {
+		"height":376,
+		"width":620
+	}
+});
+Using the paint, the opening chapter has Monroe find his way around a rather beautifully designed environment, the stark contrast of black on white providing a visually unique world that one can't help but be impressed by. This, however, couldn't possibly support a full game. The now-famous monochromatic scenario only really represents the first chapter, with the remaining three opening up to new ideas that remain thematically unified while providing vastly different experiences.
+Chapter two uses water instead of paint. By this point, the king has graciously agreed to allow shadows in his kingdom, giving the world a bit more definition, so the fire button is used to hit switches to open doors or rotate bridges in a level more about navigation and straightforward environmental puzzles. More importantly, water interacts with green vines, which twist and grow when hit. As they grow, the vines creep up walls to create tactile surfaces upon which Monroe can climb. While none of this is difficult, it's still interesting , the core idea proving intriguing enough to keep the player nodding in satisfaction.
+Chapter three and four are difficult to describe without spoilers, so I'll just say that they throw some clever new twists out there, involving both the manipulation of light in darkness, and the use of paint to create one's own platforming environment. The latter half of the game becomes a bit more challenging, presenting hazards that can "kill" Monroe (death merely resets you to the last safe area, which is a few feet away at most) and demanding a handful of trickier navigational feats. Again, nothing is ever taxing, and you'll never be stuck, but the second half manages to be incredibly absorbing regardless.
+
+Along the way, Monroe can find and hit balloons hidden sneakily in the world. Balloons act as a sort of currency, allowing the player to buy new toys, such as a scanner that detects nearby balloons, or a hose that sprays paint balls at a rapid pace. Since the game's never about challenge, these toys won't necessarily make the adventure "easier" in any sense of the word, but they'll either make paint more convenient or fun to use, so they're worth checking out.
+There are also golden letters plastered to walls and floors which, when hit, uncover a piece of narration, detailing the life of the king and the ridiculous things he did to his people in the pursuit of vainglorious gratification. Although the idea of a bumbling and selfish king isn't necessarily new, Unfinished Swan 's backstory is charmingly presented and paints a surprisingly vivid picture of a character who only becomes more fascinating and important as the adventure progresses. It's a sweet little tale and, by the end of it, most players will feel utterly delighted.
+
+It has to be said that, despite only running to about two or three hours, Unfinished Swan sometimes struggles to keep up the pace. The aforementioned chapter vine sections, for example, make up a significant portion of the game and get rather tired rather quickly. Constantly chucking water at greenery to watch it grow is fascinating for a while, but it soon errs on the wrong side of slow. Sadly, it's probably the most overused part of the game, making up a significant percentage of the overall journey while better ideas and superior environments get far less of the spotlight.
+The lack of interaction may put off many players entirely, as no matter what chapter you're on, most of it still amounts to just chucking globs of stuff at static objects. Giant Sparrow has, however, taken a page or two out of thatgamecompany's book and made sure there are visually impressive treats to keep the player hooked. It works for the most part, but the environment just isn't quite as engaging as those seen in Flower or Journey . Unfinished Swan 's world is bold and packs a visual punch, but it's also quite alienating and cold, which makes for a less hearty reward after one's spent a good chunk of time throwing liquid at plants.
+My other complaint would be that, toward the end, the game feels like it's trying just a little too hard. It would be tough for Giant Sparrow to deny it's been greatly inspired by its indie peers, and it's clear that it wants to create the emotional resonance enjoyed by some of the PSN's most critically acclaimed titles. In that regard, however, parts of the final chapter seem labored, really pouring on the music and storytelling in a way that wasn't done beforehand, so it comes across as forced. Fortunately, the game pulls itself out of try-hard territory at the very end, capping things off pleasantly. It's a rocky road along the way, however.
+
+An odd bit of dreariness aside, The Unfinished Swan is still a rock-solid game with oodles of character. While stopping short of the heights seen in some of Sony's other exclusive "art" games, Unfinished Swan remains a worthy adventure, one of many that continue to define the PlayStation Network as a braver and more experimental place than the downloadable markets of Sony's competition. If it had expanded the latter half of the adventure more and focused less on the plant puzzles, it would have been near-perfect.
+As it stands, The Unfinished Swan is a good way to casually wile away some spare hours. You can't complain too much about that.

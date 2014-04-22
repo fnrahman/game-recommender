@@ -1,0 +1,43 @@
+The somewhat mythologized sub-genre called street soccer -- as presented by FIFA Street -- is hedonistic and excessive, with a strong tilt toward showboating and theatrics. It’s puzzling, then, that EA Sports decided to use Lionel Messi for the game’s cover art.
+Messi is efficient and graceful; Street is abrasive and flamboyant. His natural talent was nurtured by, and continues to flourish at, FC Barcelona, which is one of the most group-oriented teams in the world. There’s no room for cocky individualism in the Nou Camp.
+Messi is kind of quiet and goofy. If EA Canada wanted someone to fit into Street’ s dubsteppy chav aesthetic, Wayne Rooney would have been ideal. For a cover athlete with the sheer audacity to pull off the stunts Street allows -- but without the marketing chops -- look no further than Mario Balotelli .
+Leo Messi’s presence  imparts a certain malaise, and it’s not long before you start to wonder if the same marketing dudes who designed the cover also called for FIFA Street ’s vapid RPG elements and stunted social networking features.
+
+FIFA Street (Xbox 360 [reviewed], PlayStation 3) 
+ Developer: EA Canada 
+ Publisher: EA Sports 
+ Release: March 13, 2012 (NA) / March 16, 2012 (EU) 
+ MSRP: $59.99
+Everything in FIFA Street -- from the granular acts of dribbling and juggling past opponents to the overarching systems that govern in-game tournaments and team-building -- feels loose and disconnected.
+There are two different dribbling systems, but they never seem to interact. The right analog stick governs a large number of pre-animated flicks, step-overs, roulettes, and turns designed to be performed within the run of play. Another discrete system for dribbling while standing still ostensibly attaches your avatar's foot to the ball with an invisible string, but there seems to be no overlap between the two. 
+ 
+ While there’s a certain joy in being able to (relatively easily, compared to the core FIFA series) pirouette around opponents, this joy is tempered by the concessions required to make it possible. Street employs the same player impact engine used to great effect in FIFA 12 , but in a mutated, shambolic form.
+Despite the ease with which players can make something cool happen on screen, Street is surprisingly hard to control for a game predicated on sophisticated dribbling, thanks to a mix of funky collision detection and overlong animations. 
+ 
+ It is, for example, impossible to make a player turn around and face his own goal if he has the ball. On both defense and offense, players get locked into elaborate animations, which lengthens input lag considerably. Players veer away from loose balls or inexplicably fall to the ground, apparently registering collisions that never happened. When collisions do occur, Street ’s distorted physics take over, sending players flying, landing in crumpled heaps. 
+ 
+ Sports games depend on player skill and decision-making having a tangible impact on each game -- it’s what differentiates your first FIFA match from your hundredth. With its loose, unresponsive controls, Street denies players the opportunity to exert their will, and learning and massaging the engine’s quirks and pratfalls is often the most fruitful course of action. This gives Street the impression of being even flatter and more repetitive than most sports games.
+
+ 
+ Nevertheless, there’s a certain rhythm that guides each match and, when things are going well, the game can be pretty fun in the same way that, say, Asura’s Wrath may have been considered fun: audacious, maximalist, ostentatious. 
+ 
+ It’s a shame, then, that these dribbling mechanics, problematic as they are, never feed back into the match at all. 
+ 
+ The original FIFA Street, from way back in 2005, featured a sort of trick meter that filled up every time you humiliated some poor shmuck. Once full, this bar unlocked a nigh-unstoppable trick shot that, judiciously used, could sway the momentum of a game. There’s no such mechanic in this year’s FIFA Street , though; and the ball hops, neck stalls, and rainbows are the ends unto themselves, not part of the larger structure of actually winning soccer matches. The dribbling and juggling mechanics simply aren’t good enough to support the weight of a fully-fledged game. 
+ 
+ This is mitigated by some of Street’ s more uncommon modes. In the “Panna” and “Freestyle” modes, different skills and moves are assigned point values (the flashier the better) that are stored in a bank. Scoring a goal gives you the points in your bank, and drains the opposing team of theirs. These modes differ from the standard match insofar as dribbling and juggling -- the core of Street -- are central to winning each match, instead of being tangentially related activities. Here, dribbling becomes a tactical choice instead of a flashy distraction. 
+ 
+ “Last Man Standing” -- in itself a variation of a common playground soccer game called “World Cup” -- also uses the available mechanics relatively well. The game starts with a full team on each side, but players are periodically dropped as each team scores goals. The first team to get rid of all their players wins. This mode isn’t as explicitly tied to the dribbling mechanics as Panna and Freestyle are, but the crazy techniques feel more vital in one-on-three situations than they do in the standard mode -- which, incidentally, comprises the bulk of Street ’s campaign.
+
+As previously noted, tricks in FIFA Street come with numerical values. In the career mode, these values build up as each player on your ever-expanding team successfully darts around a defender. The values are then translated into skill points, which are spent on upgrading your teammates’ attributes. 
+ 
+ These RPG systems have been inoffensive mainstays in the genre for years, but Street ’s are intrusive and ungainly. They generally feel like a way to arbitrarily gate players’ access to certain moves and abilities. Most of the dribbling mechanics are based on half-circle turns and flicks of the right stick in conjunction with certain other button presses. (There are dozens of different tricks at your disposal, but remembering them enough to use them effectively seems impossible.)
+The patterns are recognizable, which means you may (falsely) be encouraged to experiment. But if you perform an action without having first unlocked it, your in-game avatar will stand there, vacantly. Instead of emulating the freewheeling samba of street soccer, Street constantly puts up arbitrary roadblocks.
+On the one hand, skill points are accrued very quickly, which means you shouldn't have trouble crafting a viable team after a few hours. On the other, in a game ostensibly about fast-paced soccer, you'll be slogging through unintuitive menus after every match to do so.
+
+ 
+ To recap: FIFA Street weds clunky physics to needlessly complex dribbling mechanics, and loops it back around to a tacked-on RPG system. 
+ 
+ The Street franchise has always been billed as a lightweight alternative to EA Sports’ core titles, easygoing arcade games in the style of NBA Jam , NFL Blitz , or, hell, Mega Man Soccer . And if soccer is the world’s game, FIFA Street has always been coated in a vaguely Eurotrash sheen. Previous iterations have been carefree and simplified, but they were responsive, fun, and thoroughly committed to a campy, so-called “arcade” experience.
+FIFA Street embraces the unfortunate task of asking me to remain po-faced as my character flip-flaps and hocus pocuses his way through the graffitied back-alleys of western France, and it rarely works.
+This reboot takes itself too seriously -- every texture is spit-shined and gleaming, every animation wrought with care -- without the self-awareness to sacrifice technical sophistication for ease of use. FIFA Street is enjoyable only under the best circumstances, before  the engine and the sheer density of barely  distinguishable, locked-out moves take over.

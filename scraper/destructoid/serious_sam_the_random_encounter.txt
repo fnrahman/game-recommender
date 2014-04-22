@@ -1,0 +1,45 @@
+The value we see in things is based on what we get out of it, rather than what we  put into it. This is true in all aspects of life. This is also why I don’t factor cost into my reviews, because a 99-cent game is too much for a homeless  person and $100 is nothing for a rich person. Time is the only investment that matters to everyone. 
+  
+ And here is the part where I tell you that Serious Sam: The Random  Encounter is roughly an hour-long. But, it's an hour worth an hour of our time.
+ function getVideo() {
+	var so = new SWFObject("http://cdn.springboard.gorillanation.com/storage/xplayer/yo033.swf?pid=dest002&siteId=357&videoId=370223&file=http://cms.springboard.gorillanation.com/xml_feeds_advanced/index/357/3/370223/&autostart=false&pageUrl="+escape(document.location), "mplayer", "620", "375", "8", "#000000");
+	so.addParam("wmode","transparent");
+	so.addParam("swliveconnect", "true");
+	so.addParam("allowscriptaccess", "always");
+	so.addParam("allowfullscreen", "true");
+	so.addVariable("autostart", "false");
+	so.write("flashcontent_357_dest002_video_370223");
+} 
+Serious Sam: The Random Encounter  (PC) 
+ Developer: Vlambeer 
+ Publisher: Devolver Digital 
+ Released: October 24, 2011 
+ MSRP: $4.99 
+ 
+ When I got my hands on an early build of The Random Encounter at Fantastic Arcade , I was pleasantly surprised by the weird Japanese-style RPG Vlambeer ( Radical Fishing , Super Crate Box ) created. It takes out what turns away most players from Final Fantasy titles and gives the format an adrenaline-boost. If Final Fantasy XIII was loosely inspired by Call of Duty , then Random Encounter is very much inspired by -- you guessed it! -- Serious Sam (and, perhaps, a pinch of angel dust). 
+ 
+ You have to love a game that opens with the prompt “Press [z] to continue.” Serious Sam is sent into a teleporter and returns a second later to give the bad news: “The First Encounter didn’t go so well.” It’s a hilarious intro that perfectly displays the offbeat humor that Vlambeer excel at. Along with some damn good pixel art and mechanics, it’s what got the two Dutch jokesters at Vlambeer a deal with Croteam’s wacky FPS series to begin with.
+
+ 
+ The game has three worlds, a handful of stages, and five bosses. To say the The Random Encounter is economically designed is to put things lightly. Thankfully, the battle system is fun enough to keep you invested until its end … which isn't very long. My end time was around an hour and 15-minutes. However, there is an endless score-based mode which unlocks afterward. It’s a neat addition, assuming you enjoy the game’s combat and want more by its end. 
+ 
+ The way combat works is pretty innovative. The game manages to be faithful to the Serious Sam series, despite its JRPG-makeover. You and your two sidekicks constantly run backwrads from enemies and  rain down fire on the hell beasts. Every five seconds you are given a turn to act: attack, swap weapons, or use an item. No, you can’t run away, you big ‘ole sissy! You must fight like a man, or at least die like one. That happens too -- quite often, actually!
+
+ 
+ When you attack, you direct your weapon’s line-of-fire toward the enemies and use the arrow keys to dodge incoming enemies and bullets. Each weapon has its own quirks that you must learn. The introductory revolver automatically targets enemies, shotguns hit enemies who come close to the radius surrounding the player (which you can expand at the cost of less damage), rockets spread across the map in a cone-shape, and other weapons (sniper, laser, cannon) fire in a direct line. 
+ 
+ Many of the complaints I had about the preview build have been addressed. The weapons are better balanced and items are kept upon losing a battle ( FF13 -style), but the game still lacks a layer of polish. For starters, the grenade launcher feels totally useless. The bigger problem are the bugs that surrounded my time with the game. None of these were game-breaking, but for a game so short (that these guys had a month to polish), it’s kind of disappointing to come across this sort of thing. Although, some the bugs were pretty amusing, such as my end-game save transporting me to the final boss' defeat, played in an infinite loop. Maybe, the game knows I have a thing for gifs .
+
+ 
+ In-between battles, you’ll navigate small confined maps and solve non-puzzles: Get a key, flip a switch, etc. Since the characters make fun of these moments and these diversions lend the maps different layouts, I never minded the shallowness of the overworld. The focus is on the battles, which become increasingly hectic. By the end of the game, you’ll be depending mainly on your power-ups. 
+ 
+ Instead of leveling-up, you unlock items. These vary from armor regeneration to a devastating Serious Bomb that will wipe-out a screen full of enemies. My favorite has to be the Kamikaze Attack that sends 100+ Beheaded Kamikazes across the screen, accompanied by their signature yell. "That's dangerous," the item description states.
+
+ 
+ While the game remains fun based on the simple joy of its combat, it lacks the nuance and depth that could have made it something great. By the game’s end, the strategy limited to spamming items you collected from leveling-up. If you didn’t save them, you are most likely screwed (losing all continues restarts you at the start of the same stage). Furthermore, the bullet patterns that enemies shoot out are a bit too unpredictable. 
+ 
+ The game has the balls to put some bullet-hell in a JRPG, but fails to handle it with the same care that shmup developers offer. Instead of challenging the player with intricate bullet patterns that can be dodged with skill, you face-off against a wall of bullets. The solution? Keep healing, firing, and pray that you make it through. It feels like a missed opportunity, since dodging bullets can be a real fun way to challenge the player.
+
+ 
+ Vlambeer apparently aren’t ready for a full-length title, but Random Encounter shows that they are getting there. With some more time and effort, they could have turned this into a lengthy RPG that could last more than an hour, all while introducing new concepts and mechanics. Instead, The Random Encounter is a testing ground for some unique concepts that never quite evolve.
+It’s a fun novelty that you’ll want to spend an hour with. Yet, at its end, I didn’t want any more and I didn’t care to revisit the game’s Endless Mode. I enjoyed The Random Encounter for the hour or so it lasted, but the fact that I don't want any more pretty much says it all.

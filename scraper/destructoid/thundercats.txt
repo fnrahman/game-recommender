@@ -1,0 +1,32 @@
+The ThunderCats reboot was, by most accounts, a tragedy. Unlike most of the property rehashes that account for a worrying amount of modern entertainment, the new ThunderCats series was actually pretty well regarded and, from what I saw of it, deserved the praise.
+Naturally, this could not last. Cartoon Network had no faith in the series and it never got a second season.
+With the show now buried, it seems like a bit of a waste to release an official licensed tie-in. Maybe somebody was hoping it would sell well and reignite interest? That's sadly not going to happen, because ThunderCats for the DS is pure, unfettered garbage.
+
+ThunderCats (DS ) 
+ Developer: Aspect Digital Entertainment 
+ Publisher: Namco Bandai 
+ Release: October 30, 2012 
+ MSRP: $29.99
+ThunderCats is a simple beat-'em-up-style platformer, and when I say simple, I mean this wouldn't even look advanced in the early '90s. With its substandard graphics, featuring largely featureless character models and muddy, flat scenery, the game looks like a slightly below average SEGA Genesis title, and plays like a dumbed-down Golden Axe .
+From its visuals to its distinctly dated music, it's clear Aspect Digital was attempting to evoke a "retro" feel. However, unlike games that use the retro aesthetic to communicate a developer's love for bygone years, ThunderCats exploits it to cut corners, skimp on features, and ultimately provide a bland, tacky series of one-note levels.
+Playing as Lion-O (obviously), ThunderCats ' victims go from short stage to short stage, mindlessly hacking at identical opponents who attack in a predictable fashion and are more than happy to line up for their own lumps. The cat's sword swings feel totally disconnected from their targets, carrying zero sense of impact as the blade slices in front of enemy character models with only the vaguest trace of an "explosion" effect to demonstrate a strike. The game's idea of challenge is simply to throw as many opponents and bullets at the player as possible, and never does it try to deviate from that path with any nuance.
+jEmbed JS API   VIDEO PLAYER   jEmbed SCRIPT  $sb("dest007_cb663b37890fd761f57f6946e170588c", {
+	"sbFeed": {
+		"cname":"destructoid",
+		"partnerId": 357,
+		"type": "youtube",
+		"contentId":"Wit7wNdf1hw"
+	},
+	"style" : {
+		"height":376,
+		"width":620
+	}
+});
+Lion-O himself is simply unpleasant to control. He moves slowly, with an awful double-jump that has a pointless delay and palpable lack of responsiveness. His attacks are sluggish and his ponderous animations cannot be canceled, with most player damage suffered due to his inability to adequately dodge or avoid incoming fire. As he fights, he builds up a power meter, allowing him to unleash a blast of energy in a straight line. Its specific direction of fire makes it pointless to use in many situations, though admittedly it can be effective against bosses.
+As the game progresses, support characters become available. Three of them (Tygra, Cheetara, and Panthro) unleash powerful attacks, while Wilykit and Wilykat can be summoned to drop healing items or sword power-ups. Support characters are used by spending tokens collected through levels, but Lion-O can only carry up to three at a time.
+ThunderCats offers a disjointed sense of progression. Short beat-'em-up stages can precede multiple boss fights in a row, or Godawful platforming sections that expose just how inelegant Lion-O's jumping is and usually cause death (without checkpoints) thanks to how hard it is to tell what part of a platform can be safely landed on, and what our heroic cat will just gormlessly fall through. None of these sections flow well together, especially thanks to how repetitive and boring the boss battles are.
+
+Now is as good a time as any to point out that having Lion-O say, with a poorly compressed voice clip, "ThunderCats, HOOOOO," every two minutes is not very enjoyable.
+As mentioned, stages have no checkpoints, and saves between levels are literally a case of pot luck. At one point, I returned to the game to find that it hadn't saved anything for two levels. It was at this point, I must confess, that I decided a better use of my time and the game would be to toss it into a river -- something I plan to do at my earliest convenience.
+There's not really much else to be said about ThunderCats because there's nothing else to it. It's a bottom-of-the-barrel brawler that might have been really appreciated in 1985, but is outclassed and humiliated even by the standards of the 16-bit era. It hides behind nostalgia like a coward, attempting to distract from its unpleasantness by convincing the player it's part of the "good old days" of gaming, but nobody exists who could be foolish enough to fall for its ploy.
+And this is how ThunderCats ends. Not with a bang, but with a truly disgusting DS game.

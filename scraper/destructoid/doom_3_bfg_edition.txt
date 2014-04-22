@@ -1,0 +1,37 @@
+Mention DOOM 3 to most fans, and the common (disparaging) response will be, "Monster Closets." Earning criticism for its jump scares, lack of charisma, and stylistic departure from previous DOOM titles, DOOM 3 has not aged well in the eyes of most fans.
+This particular fan, however, disagrees with consensus.
+DOOM 3 holds up as a solid and atmospheric horror shooter, and the new BFG Edition works, not only as a celebration of a game that gets an unfair reputation, but as a worthy collection of the game's three main entries, sporting as it does DOOM and DOOM II . Monster Closets be damned!
+
+DOOM 3 BFG Edition (PlayStation 3, Xbox 360 [reviewed], PC ) 
+ Developer: id Software 
+ Publisher: Bethesda 
+ Release: October 16, 2012 
+ MSRP: $39.99
+I'm somewhat surprised Bethesda and id Software chose to market this release as DOOM 3 , since the inclusion of the original two titles makes it far more akin to a full-on DOOM collection and, in my opinion, would have made it a lot more marketable. Nevertheless, this compilation of titles and additional content works most adequately in celebrating three classic shooters ... provided you're not a PC gamer, that is.
+The star of the show is, by virtue of name, DOOM 3 . You've got at least ten hours of gameplay from the solo campaign, alongside a fully functioning online multiplayer mode, and while it's clear that the game has aged considerably since 2004, I still find it not only gratifying in its combat, but still highly effective as a scary horror game. Say what you will about "cheap" jump scares, but DOOM 3 had it mastered, and it can still make a player jump when it wants to.
+jEmbed JS API   VIDEO PLAYER   jEmbed SCRIPT  $sb("dest007_b0e7166bc8ab5381e3170ee2995cd1d1", {
+	"sbFeed": {
+		"cname":"destructoid",
+		"partnerId": 357,
+		"type": "youtube",
+		"contentId":"Xr1IxeZmJy0"
+	},
+	"style" : {
+		"height":376,
+		"width":620
+	}
+});
+The fact that monsters can spawn anywhere, even several rooms behind the player so their advance can't be detected, fosters a sense of paranoia that many modern horror games have failed to replicate, at least in the premium retail space. DOOM 3 's aggressive, resilient bestiary of demons and zombies still makes for an impressive and intimidating array of opposition, while the dark industrial levels are oppressive and increasingly macabre.
+All that said, the game's campaign keeps up such a relentless onslaught of monsters that it does get mentally exhausting before the adventure has concluded. The game plays but one note, and while it plays it very well, it's an experience that only grows more draining as time goes by. Lacking the environmental variety and general oddity of the original DOOM titles, id's third crack of the whip constantly risks boring the player, a risk made all the more real at the end of a generation propelled by the idea of player choice, dizzying setpieces, and dynamic combat.
+
+I still have a ton of respect for DOOM 3 regardless, a game that showcased how horror can still work in a combat-heavy game, and maintains a sense of satisfyingly simple action in a world of cover systems and regenerating health. The A.I. isn't very good anymore and the enemies don't react to your gunfire much, but at its core, DOOM 3 still provides a rock solid dose of old-fashioned first-person shooting.
+The controls have been "optimized" for consoles, giving newer players a familiar button layout that mostly works fine, save for the fact that sprinting is done by pressing and holding the left stick, rather than just clicking it on and off, which always feels pointless and harder to maintain while moving around corners. This release also sees the game embrace the PC version's "Duct Tape" mod as standard. Rather than have players scroll through and use the flashlight in place of a firearm, the torch is now activated alongside the equipped weapon with a simple press. Some will welcome this convenient change, others will see it as an elimination of an effective horror tool, as DOOM 3 originally had players trade off offensive ability for visibility. Personally, I'm none too bothered by it. It does indeed remove an element of tension, but the game is still plenty tense already.
+The graphics have been given an HD overhaul, and despite character models and animations that appear simplistic by today's standards, the overall remaster job is pretty damn good. Being a bit of a visual darling in its time, DOOM 3 doesn't look ugly in 2012 by any stretch of the imagination. It also has a 3D option for those owning the required televisions. Not the biggest selling point, especially with the fad having died down considerably, but it's there if you need it.
+
+In addition to the main campaign and the rather simplistic multiplayer options, the Resurrection of Evil expansion has been included, as well as an all-new series of chapters, The Lost Mission. This latter addition places players into the boots of a marine whose team was cut down during the original campaign. In essence, it's just more of the same, as you run around, shoot demons, and collect PDAs to open doors. It doesn't really add anything new to the game, but it does amount to several more hours of content for those who really can't get enough of the Hell-soaked madness.
+When one grows tired of DOOM 3 's chicanery, both DOOM and DOOM II are included for your amusement. Still instantly replayable classics, these two seminal FPS adventures are still a bunch of fun to play, and their inclusion makes the BFG Edition package that much more attractive. One thing I lament is the inability to get the games running fullscreen on a TV monitor, and I really don't appreciate having no way of quitting out to get back to the main BFG menu without having to restart the disc.
+These quibbles aside, it's great to play two shooters that remain some of the best examples of pure FPS gameplay and cut pretty damn close to perfection in terms of accomplishing a very clear goal. Speaking of accomplishments, both these games have their own separate set of Trophies/Achievements, rather than having to share from a common pool as is usually the case with HD collections.
+It's worth noting that these games are, essentially, the Xbox Live Arcade versions, even sharing the same save data if you have any. This means multiplayer is included, but it also means that if you install the BFG disc data, the games won't work off the disc. It's a weird situation, but Bethesda has said installing the disc doesn't do anything anyway, so don't bother.
+
+All this said, there's no escaping the fact that you can already get DOOM 3 , in HD, on your PC, along with all sorts of relevant and useful mods. Same can be said for the other games included. The only thing you'd risk missing is Lost Mission, which really isn't significant enough to miss on any appreciable level. If you're a PC gamer, getting the BFG Edition really isn't worth your time and money.
+However, the game is undoubtedly geared toward console users. Those looking to play this on an Xbox 360 or PlayStation 3 will certainly get a ton of content for their money, and a trio of games that, despite their age and the scorn at least one of them receives, still amount to hours of simple entertainment. Whether you have the energy to experience all of that entertainment depends entirely on your tolerance for non-stop, mostly immutable FPS action, but nevertheless, this is worth nabbing for any DOOM fan currently not rocking a gaming rig.

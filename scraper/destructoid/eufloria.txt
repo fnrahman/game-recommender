@@ -1,0 +1,33 @@
+Eufloria on PlayStation Network is an updated port of the PC version that released two years ago, which is something I learned after playing through the game. After writing most of this review, I curiously checked out Anthony Burch’s review of the first release, which left me even more disappointed in this new iteration. 
+ 
+  Eufloria is a game with promise and some interesting ideas that ultimately falls short. Even more disheartening is the fact that Burch espoused a similar, equally frustrated sentiment two years ago, yet the issues that plagued the first release of the game still persist in this port. It's vexing how half-hardheartedly or ineffectually done the "fixes" to long-standing, fundamental issues are.
+
+ 
+  Eufloria (PSN) 
+ Developer: Rudolf Kremers and Alex May 
+ Publisher: Omni Systems Limited 
+ Released: October 4th, 2011 
+ MSRP: $9.99 
+ 
+ The independently developed Eufloria is a tranquil, streamlined real-time strategy game. The player controls tiny seedlings, used offensively and defensively, that orbit around asteroids and are sacrificed to plant more seedling-producing trees. The goal of each of the 25 main stages is to expand and take control of all the other asteroids in the system, while a sparse text box frames stages with an unobtrusive narrative meant to validate the expansionism of the player’s seedling empire. In short, the goal is to obtain enough asteroids to bring back the mythical “growers” while facing opposition from a violent, brutish force known as “the grey menace” and, later, other seedling empires. 
+ 
+ The music and aesthetic are the most striking elements of Eufloria and they set the tone for what is meant to be an ambient, oddly tranquil affair. It’s easy to get lost in the smooth, melodic tracks and they serve as great background music, though there are a limited number of tracks relative to the hours you’ll sink in the game. 
+ 
+  Eufloria ’s visual style is distinctly minimalistic and meshes well with the music.  It’s quite pretty and colorful, especially when you gather large masses of seedlings or come up against other empires, as other empires boast seedlings of different colors than your own.  Unfortunately, the strategic nature of the game, coupled with some incredibly large, expansive stages, means the best way to manage your seedlings and asteroids is to remain zoomed out. When zoomed out, the aesthetic loses its charm, as you’re mainly staring at plain, circular asteroids orbited by nondescript bunches.
+
+ 
+ The actual gameplay elements of Eufloria are where things turn most tragic. The overall pacing of the game is good. New features, abilities, and enemies are introduced in a consistent fashion and the spacing of these introductions allows ample time to take them into account and factor them into your strategy. 
+ 
+ However, the game largely boils down to one terrible tactic -- waiting. The best way to beat most levels is to merely wait for your trees to slowly produce more seedlings and wait for your numbers to grow exponentially so you can send an ungodly swarm of seedlings to eviscerate tiny, barely populated asteroids. This was a complaint levied on the first version of the game, so a “fast forward button” has been added to pick up the pace, but all that does is shrink the wait time from half of an hour at a time to increments of, say, ten or twenty minutes. 
+ 
+ If you think that these long periods of downtime are in line with the “zen,” ambient nature, you’re wrong. I’ve played plenty of games that put me in a state of zen, where I would contentedly and unthinkingly dawdle away countless hours, often at some listless, aimless task. Eufloria is not one of those games. It’s filled with moments where the best, or even only option, is to literally do nothing for ten, twenty, or thirty minutes at a time. Literally. Just leave the game on and go do the dishes.  This can be partially attributed to typically docile enemy AI, even under the newer “fast paced” difficulty setting.
+
+ 
+ There are brief instances of excitement when the game’s mechanics shine, however, which is what makes the whole so disappointing. I spent almost two hours clearing one stage, for example. In the first 30 to 40 minutes I was dialed into a cat and mouse fight for survival, in the middle of a back and forth war on two fronts against two different enemy empires.   I then hit a plateau where I owned about a fourth of the enormous map and there was no way I could be defeated. Accordingly, I spent the next hour mindlessly queuing up droves of units and sending them in to systematically decimate the remaining asteroids in the system, one by one, with absolutely no opposition. It was mind numbingly dull and a painful contrast to the refined, smooth, exciting battle that has just taken place. 
+ 
+ This issue is compounded by the poor unit management that still persists in this port. A beacon tree has been added with the intent of alleviating the need to manually send units from one asteroid to the next, but it doesn’t work. The units move at a frustratingly glacial pace and never all at once, so manually moving units is actually more effective, though it takes more time. Managing units on larger stages becomes a chore, especially when you have ten or twenty asteroids completely removed from the front lines whose members you have to manually send forward every once in a while.
+
+ 
+ In addition to the main campaign, there is a set of Skirmish levels, as well as a Dark Matter mode. Both purport to be a bit faster paced and challenging than the main game, and they are, but a lot of the fundamental issues still exist, like the poor seedling management system. The only reason to revisit levels is to try and improve your record time, which isn’t much of an incentive, and it doesn’t negate the fact that you are still going to have to spend a lot of time waiting and doing literally nothing. 
+ 
+  Eufloria is a frustrating experience because of how good it could have been and it’s even more frustrating because criticism of the first version hasn’t been properly addressed. It has some great, fresh mechanics and they mostly work, but it just isn’t satisfying or engaging in the end. The aesthetic and music are charming, while the streamlined mechanics are fresh and a joy to use in the rare instances when the game hits its stride. Unfortunately, the periods of time when there is nothing to do are unforgivable and the poor balancing, indifferent AI, and cumbersome unit management make the game both a bore and a chore to play.

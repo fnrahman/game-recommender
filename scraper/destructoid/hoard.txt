@@ -1,0 +1,22 @@
+After seeing generally positive reactions to Big Sandwich Games' Hoard for PlayStation Network, I was eager to try out the just-released Steam version , which offers the action/strategy title for PC and Mac in one relatively affordable little package.
+Honestly, they had my undivided attention at "you control a dragon."
+
+Hoard (PC [reviewed], Mac, PSP, PS3) 
+ Developer: Big Sandwich Games 
+ Publisher: Big Sandwich Games 
+ Released: April 4, 2011 
+ MSRP: $9.99
+Indeed, you play as a dragon, and a greedy one at that. In Hoard , your primary directive is to amass a stockpile of treasure. Naturally, this is done by burning buildings to the ground, and capturing princesses for the sweet, sweet ransom. It's okay, though -- the playing field is presented as a tabletop board game, so you don't have to feel too guilty about being the biggest jerk in all the land.
+Hoard controls like a dual-stick shooter for those on a gamepad; for keyboard, it's the typical scheme of WASD for movement and mouse for aiming/firing. Both methods work well, although I personally felt more comfortable using a wired Xbox 360 pad.
+You fly around the map, pillaging what you can, and carrying back as much loot as possible. Expanding your hoard results in points which can be used to upgrade your character -- defense, speed, attack, and how much gold you can carry at any one point in time. Upgrades come slower and slower as you progress, naturally, so actual strategic thinking is imperative. Imagine that!
+Throw in temporary power-ups -- like speed boost, ice breath, etc. -- and you can begin to see that there are quite a few viable ways to achieve victory. Additionally, there's a crucial multiplier element to keep in mind; losing all of your health (which sends you back to your hoard, where you can regain health) or having a thief nab some of your gold resets your score multiplier.
+Lastly, letting towns grow over time, rather than instantly setting fire to every structure like a misguided arsonist, is something to think about. Older towns eventually lead to more potential gold on the map. At the same time, this also means more pests (knights, thieves, etc.) to worry about.
+
+Long(ish) story short, Hoard isn't a particularly complex game. That said, it doesn't need to be. It's got an arcade-y vibe, and since matches generally run for five to ten minutes, it's easy to suffer from one-more-round syndrome. There's just enough depth and choice offered to keep you coming back for more. Adding much more complexity would, in my mind, likely result in Hoard being overdesigned.
+The mode I described above was Treasure. There are a few more. Princess Rush has you capturing X amount of princesses, HOARD is a survival mode where you're fighting off towers and other attackers for a lofty high score, and co-op involves players working toward a combined pile of gold.
+These can be played online or offline (with AI bots) -- the former is the better choice, but the bots aren't half bad either. They can be especially dickish in Princess Rush by nabbing your Princess at the last second, and that's a good thing. You kind of have to play dirty in Hoard to win. This is by and large a game made with multiplayer -- multiplayer with friends, specifically -- in mind.
+
+Now, up until this point, I've been pretty positive. Here's where we get to the paragraphs I shouldn't have to write, but need to. My main complaint is that of polish; as in, can I get some, please? This port is suffering from a number of -- what I hope to be -- merely launch-week technical issues.
+Specifically, random debug text (?) flickering on the screen occasionally and random crashes to the desktop. As far as possible problems with games go, that second one is quite serious. Based on the state of Big Sandwich Games' forums for Hoard , it seems these are known issues.
+In this current state, I want to recommend Hoard . The concept is fairly original, intuitive, and fun, if simplistic. After a few hours, you'll have the go-to strategies down, and that can lead to eventual boredom before long. It's a good little distraction for the price, or at least, it should be. I may be fairly forgiving when it comes to issues that can be eventually fixed via patch, but the crashes alone are entirely too frustrating to deal with.
+Check back a few weeks from now to see if Hoard has been patched. Add two points to my score if the crashing, text pop-up weirdness, and graphical issues some users are experiencing have been addressed. For now, buy at your own risk. 

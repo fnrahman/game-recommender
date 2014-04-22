@@ -1,0 +1,23 @@
+Ms. Splosion Man is one of my favorite platformers to date. Like the original , it's charming, engaging challenging, and really put Twisted Pixel on the map for me.
+The mobile version translates most of the magic of the original to iOS in favor of serviceable touch controls, and a smoother graphical output. But it also shows the darker side of mobile gaming quite well.
+
+Ms. Splosion Man (iPhone [reviewed with iPhone 5], iPad) 
+ Developer: Twisted Pixel Games 
+ Publisher: Microsoft Game Studios 
+ Released: March 28, 2013 
+ MSRP: $2.99 (with microtransactions) 
+
+Since we already did a great job explaining the basic overview of the game in our original review , I'm basically going to go over what's new in the mobile version. As you can imagine for a somewhat precision platformer, the controls would probably be your first holdup.
+But surprisingly, I actually had little to no issue getting Ms. Splosion Man to do what I wanted her to do on a touch screen. There's virtual buttons for left, right, and 'splode (jump), and that's all you really need, honestly. Other than getting lost on occasion on the smaller iPhone screen when larger, zoomed-out jumps are happening, I never really felt overwhelmed.
+Considering a large portion of the game is actually rhythm-based, with a lot of your playtime spent in the air timing jumps without the need for directional input, the move to iOS actually makes perfect sense. There were only a few instances in which I was frustrated with the touch controls -- namely long sections where you're jumping between moving platforms -- but I got used to them fairly quickly, and had little to no issue for the most part.
+Ms. Splosion Man looks about the same if not better than the XBLA version on iOS (as confirmed by the developer). The silky smooth action has little to no slowdown. The iPad version runs at a full 60 frames per second, with the iPhone build performing slightly below that. Although this review is for the build running on an iPhone 5, I was able to test out the iPad version as well, and both do not disappoint on a performance level.
+
+So what's new or changed in this version content-wise? Well, there are microtransactions. The good news is the power-ups you can buy are negligible. Level skips, extra 'sploding power and distance -- things like that are purchasable through coins earned in each level.
+The best part is you don't even need them to complete the game; they're just there to assist players who may need the help. As is the case with any microtransaction store, you can buy coins for real-life cash, starting at $0.99. The mobile version also contains challenges in the same vein as most mobile games these days that task you with things like "beat the ghost time in this level" or "blow up [x] amount of objects."
+So far so good, right? The way Twisted Pixel handles these power-ups is fairly admirable, and doesn't ever encroach on paywall territory since they're basically just an optional, extra layer added on top of the full original XBLA version of the game.
+Then we get to my major problem with the mobile build: you have to buy new levels to progress through the game. Now, you can buy them with in-game currency -- the problem is, you need to beat each level two to three times on average to buy each set. (You can buy levels individually, or purchase half of each world in bulk.)
+This is incredibly jarring, as one would expect that after paying $2.99 for a mobile game, the full experience would be unlocked -- especially if you're completing each level in order. Sadly, you'll quickly find out that even after beating a level multiple times, you may not be able to progress to the next set until you power through yet again to earn enough scratch.
+
+When you add it all up, buying all three worlds solely through in-app-purchasing amounts to less than the asking price of the original XBLA game (less than $10). But there's something really wrong with the way the system is presented here. Simply put, if it's a paid app, the game should be fully unlocked -- especially if there are microtransactions already in place -- and especially since there is no warning of this withholding of content before you purchase the game.
+It's a shame that there's such a weird barrier between the player and actually playing the levels they want. With a bit more tweaking of how many coins it takes to unlock each stage, or the elimination of the system entirely, Ms. Splosion Man would be one of the finest games on the entire App Store.
+As it stands, just know that you'll have to field a bit of patience (or the fortitude to pay past the initial asking price) if you feel like 'sploiding on the go.

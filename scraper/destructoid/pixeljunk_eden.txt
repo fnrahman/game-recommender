@@ -1,0 +1,21 @@
+At this point, I think there's at least one game in the ongoing PixelJunk series for everyone. For the longest time, PixelJunk Monsters was the obvious go-to choice for me, but I've since flirted with the idea of giving PixelJunk Eden the top honor.
+Much of this change can be attributed to the revamped Steam version of Eden . If you were expecting a straight port, you're in for a disappointment. While the co-op multiplayer regrettably didn't make it through the transition from PlayStation Network to PC, there's enough design tweaks in place to make this worthy of another look.
+
+PixelJunk Eden (PlayStation Network, Steam [reviewed]) 
+ Developer: Q-Games 
+ Publisher: Q-Games 
+ Released: February 2, 2012 
+ MSRP: $9.99 
+ Rig: Intel i7-2600k @3.40 GHz, with 8GB of RAM, GeForce GTX 580 GPU (SLI) 
+The core of PixelJunk Eden remains the same for Steam, so rather than completely reiterate what was covered in our original review years ago, I'll summarize the basics. Thankfully, this is a rather minimalistic game, so there's not much to set up.
+As a little creature called a "Grimp," you feel compelled to use your acrobatic prowess to launch into floating enemies. This recklessness results in an explosion of much-need pollen that gets absorbed by nearby plants. Once fully pollinated, these plants will sprout the next time you bump into them.
+In terms of objectives, that's practically it. By helping plants grow, you're able to reach new heights and collect pick-ups called Spectra. There are five in each garden to find and collecting them is necessary for unlocking additional gardens. Levels are spacious and non-linear, so it can be more challenging to reach the Spectra than one might initially think.
+
+The biggest change for returning players is the control scheme: it's been redesigned for mouse and keyboard. I tend to prefer the comfort of a gamepad outside of, say, real-time strategy, but Q-Games has done such an excellent job with the controls here that I have a hard time imagining playing Eden any other way. Which is good, because there currently is no gamepad support in this version.
+Given the amount of precision you need to reach certain areas, the new controls don't immediately feel quite right and take some practice -- but the end result is undeniably good. The pacing is such that you're given plenty of time to become acquainted with the controls as you're eased into Eden with fairly straightforward level design.
+Zen gaming is the category I'd toss Eden in, but that doesn't mean it's boring. The soundtrack by Baiyon had me eager to fetch my headphones every single time and enter a state of bliss. Ending a session of Eden -- breaking the spell -- feels like stepping back into reality.
+As you become more skilled, you can't help but try zipping through gardens as quickly and stylishly as possible. This is reinforced by a much-needed addition: quick warps. Narrowly missing a jump and plummeting to the bottom of the stage is frustrating, or rather, it would be. At the press of a button, some energy is shaved off and you're teleported back to your last position.
+
+Another welcome change to Eden is that now, you don't have to find all five of a garden's Spectra in one go. Instead, you collect one, get sent back to the level-select screen, and can then jump back in. After getting all five, you're able to freely play through the garden, recollecting every Spectra in a single session if you so choose. This may seem like a minor thing, but it greatly helps to alleviate much of the frustration from levels with wind, gravity flipping, and other annoyances.
+Finally, the five gardens from the PlayStation Network version's "Encore" expansion are included at no additional cost. If you're anything like me, you won't want Eden to end, so this gesture is greatly appreciated. These levels are as solid as the rest of the game.
+It's a shame to see a few features -- particularly multiplayer -- get cut from this version of PixelJunk Eden , but the warp ability, new controls, and restructured pacing more than make up for the loss. This Steam edition is a must-download for new and returning players alike.

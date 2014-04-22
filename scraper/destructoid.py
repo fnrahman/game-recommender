@@ -13,9 +13,9 @@ DELSET = ''.join(chr(c) if chr(c).isalnum() else '_' for c in range(256))
 DUMP_DIR = os.path.join(os.getcwd(),'destructoid')
 
 def construct_urls():
-	#l = list(string.ascii_lowercase)
-	#l = ['other'] + l
-	return ['a']
+	l = list(string.ascii_lowercase)
+	l = ['other'] + l
+	return l
 STARTING_URLS = [START_URL + a for a in construct_urls()]
 
 

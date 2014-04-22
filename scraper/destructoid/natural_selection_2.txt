@@ -1,0 +1,41 @@
+The original Natural Selection came out a decade ago as a Half-Life mod. It was one of the handful of mods that managed to stand out from hundreds of others thanks to its unique blend of real-time strategy and first-person shooting.
+After years of development, the sequel is finally out as its own standalone product. If you've been waiting a long time for its arrival, it has absolutely been worth the wait. If you're unsure what Natural Selection 2 actually is, be prepared for one of the most engaging and intense competitive games out there.
+
+Natural Selection 2 (PC) 
+ Developer: Unknown Worlds 
+ Publisher: Unknown Worlds 
+ Release: October 31, 2012 
+ MSRP: $24.99
+Natural Selection 2 pits a team of human Marines against a team of Aliens. Both teams are similar in concept yet completely unique in playstyle. Each team's objective is to destroy the enemy's main structures (Hives for Aliens, Command Centers for Marines) before theirs go down.
+Most players will control units on the ground and utilize a first-person perspective, but one player from each team will be the Commander. The Commander is the backbone of the team, viewing the map from an eagle’s-eye perspective akin to what you'd expect from real-time strategy titles like StarCraft II . The Commander of each team is in charge of placing structures, directing allies, and researching new technology.
+The Commander isn't locked in to that position, however. The Command Station (or Hive) is simply a structure that a player can enter in order to take command. If the Commander is doing poorly and a team member wants to switch out, the Commander can leave and someone else can take their place. This is also important to remember when the base is under attack; the Commander is free to leave and begin defending like any other unit before stepping back behind the reigns.
+jEmbed JS API   VIDEO PLAYER   jEmbed SCRIPT  $sb("dest007_60ea63aca54e35b7b2cd6383fe4e4e4a", {
+	"sbFeed": {
+		"cname":"destructoid",
+		"partnerId": 357,
+		"type": "youtube",
+		"contentId":"hp-4iaKXP68"
+	},
+	"style" : {
+		"height":376,
+		"width":620
+	}
+});
+When not playing that role, things are a bit easier to comprehend: listen to the (hopefully competent) Commander and go after the enemy base. The Marines play much like you would expect a first-person shooter to, with an assortment of weapons and gadgets to use, assuming your Commander has researched them. That does not mean, however, that playing Marines is boring. First of all, the gadgets like jetpacks and robotic suits are a delight to use. Secondly, the very nature of Natural Selection 2 itself makes them way more fun to play compared to a standard FPS game.
+Aliens are very unique in that each class plays completely different. Every player starts as a Skulk, a fast Alien with the ability to climb and stick to walls. From a Skulk, it is possible to evolve into four other classes, each with their own strengths, weaknesses, and abilities. No one class is completely better or worse than the Skulk, though they individually fill a specific role on the team.
+The Fade, for example, can teleport around and attack the Marines, both confusing and killing them. However, when it comes to destroying structures, the Fade might as well not even try. The Skulk, thankfully enough, is one of the most entertaining classes to play since they are so agile and strong. Even if the Skulk isn't your cup of tea, it isn't long until you can evolve into another Alien using your resources.
+There's an incredible amount of intricacies involved in playing Natural Selection 2 , but if I were to try to mention each and every one then I might as well write a book titled Each and Every Intricacy of Natural Selection 2  and charge you each $11.99.
+
+Resources are used to upgrade both your unit, if not playing as the Commander, or the team's base, if you are. They are collected when the Commander places a structure on top of one of the many resource points on the map. If it helps, you may think of them as Extractors/Refineries/Assimilators from StarCraft II . It is therefore crucial for the rest of the team to defend and help secure these points, as it will make it easier on the entire team to march towards victory.
+Natural Selection 2 is the very definition of a competitive game. Each player is significant and small mistakes can add up to losing an entire match. Teamwork is absolutely necessary in order to win. Microphones are very much encouraged, if not required. To some, this might be exactly what they were looking for, however it is also easy to see some people being turned away by the amount of teamwork and dedication required to get the most out of the game.
+It feels incredibly well-balanced, as long as you're playing in the "sweet spot" of player numbers. I've found that 16-to-18-player servers are the most balanced, resulting in 8 or 9 players on a team, one of whom is the Commander. Having more than that often becomes too chaotic and allows one team to steamroll the other.
+
+The only tutorials available come in the form of YouTube videos. These vary in quality, but most of them accomplish their goal of introducing a new player to various mechanics. There's literally hours of videos to watch, but luckily the general overview does a good enough job in less than ten minutes of introducing a newbie to the game.
+The main problem is that there is no interactive tutorial included. The videos do a great job at explaining things, but when it comes down to it, videogames need some sort of interactive tutorial. As mentioned, Natural Selection 2 is a very complex game, so it could only benefit from providing more options.
+There is an "Explore Mode" present, allowing you to freely roam around maps, try out various classes, or practice being Commander, but it is currently bugged and only allows you to select one of the various maps. The Explore Mode is a wonderful way to learn the intricacies of playing as the Commander, since there are a ton of hotkeys and location names to memorize in order to efficiently lead your team to a win.
+
+For a competitive game, Natural Selection 2 has a remarkable amount of atmosphere. To be wandering around the map as a Marine and hear Skulk footsteps only seconds before a group of them jump at you, taking out your teammates and leaving you alone and sobbing in the corner, isn't something you would normally find in such a competitive title. It has an eerie Aliens vs. Predator feel to it.
+The game looks surprisingly sharp as well. In fact, it's the main reason why Natural Selection 2 is quite demanding and takes what seems like an eternity to load into matches at times. The wait serves as a good time to head into the kitchen and eat your Wheaties -- you'll likely need them. There are always optimizations to be implemented which make the game run smoother and faster, and it seems as if the developers over at Unknown Worlds are still hard at work.
+
+Natural Selection 2 may turn some people away due to its very competitive nature, but it rewards those who stick with it and peel back its many layers. A well-executed match is extremely rewarding, whether you decide to play as the stressful Commander or one of his many lackeys. There's nothing quite like being in a room as the Aliens cut the power and lights, leaving your team to rely on muzzle flash and flashlights to locate the flying, wall-climbing, and leaping Alien team surrounding you.
+It's a game that combines both real-time strategy and first-person shooter in a unique blend of both, the likes of which you aren't likely to see anywhere else. Sure, it could benefit from an interactive tutorial, fixed Explore Mode, and perhaps some optimization for load times, but what is here is still an incredible team experience.

@@ -1,0 +1,53 @@
+All mystery stories necessarily deal in misinformation, and Pid , the new puzzle-platformer from Swedish firm Might & Delight , is no different. It keeps its secrets well-hidden.
+There’s the climactic plot twist that I should have seen coming, sure, but there are also the scores of hidden nooks and crannies, secret rooms that will forever remain unexplored on a distant, broke-down planet called Humphrey. 
+ 
+ There are the deceptively muted colors and soft-focus visual effects, which lead us to believe that Pid will be a breezy, light-hearted game. It’s not. 
+ 
+ And there’s the price tag -- and the fact that the 2D platformer has become the gold standard for indie upstarts -- which may suggest Pid is a low-budget also-ran, but it’s not that either: it’s a complicated, fiendish, textured game that is sublime at its best, and kludgy at its worst.
+
+Pid (PC, PlayStation 3, Xbox 360 [reviewed]) 
+ Developer: Might & Delight 
+ Publisher: Might & Delight, D3 Publisher (Xbox Live Arcade) 
+ MSRP: $9.99 / 800 Microsoft Points 
+Pid is about a wayward young astronaut named Kurt who, becalmed on a foreign planet, is trying to find his way home. He becomes embroiled -- as you do -- in a set of larger political machinations: a missing monarch, the breakdown of social institutions and infrastructure.
+More pressing, though, is the fact that the planet in question in entirely inhospitable. The townspeople who aren’t aggressive are apathetic; a powerful shadow government goes out of its way to hunt Kurt down; and spikes, lasers, missiles, enemies, and traps abound.
+Kurt navigates these obstacles with a small, magical gem he finds early in the game. When thrown, it produces a shaft of light capable of sending Kurt floating through the air. With two beams, it’s possible to juggle yourself through large swathes of Pid , never touching the ground. There are, of course, a litany of extra items at your disposal -- bombs, a jukebox that puts enemies to sleep, a bag of dirt that reveals secret paths -- but the light beam is the core mechanic, and it gets repurposed and exploited in any number of ways as Pid oscillates between puzzles, combat, and pure platforming.
+Pid runs the gamut between elegance and finicky precision, but it’s all supported by a fundamental truth about games: flying is fun. Portal knew it, as did every Spider-Man game, as does Pid . Stringing together the perfect run through a set of obstacles, launching beams of light at just the right time, is immensely satisfying.
+With so many secret areas, Pid cries out for a level-select option: the basic mechanics are fun enough to explore on their own, even divorced from the story. I’d love to have easy access to my favorite levels, or another chance to find the dozen-or-so collectibles scattered about. This is a missed opportunity.
+jEmbed JS API   VIDEO PLAYER   jEmbed SCRIPT  $sb("dest007_40219bda0e3c33ad1ceb694922ec9c66", {
+	"sbFeed": {
+		"cname":"destructoid",
+		"partnerId": 357,
+		"type": "youtube",
+		"contentId":"tgrEHSWCr1c"
+	},
+	"style" : {
+		"height":376,
+		"width":620
+	}
+});
+There’s something melancholy about a lost little boy, but Pid ’s use of perspective drives the point home: you are small and fragile in a dangerous place. The camera often pulls way back, making Kurt a small collection of pixels against the backdrop. It gives players a chance to survey the area for potential danger, and subtle parallax scrolling gives the world a nice sense of depth, of unattainably remote areas of the world. It’s not just that Pid ’s toy-like art direction is striking -- it sets the scene for a moody, evocative game and plays on Kurt’s innocence and confusion. His head is just a touch bigger than normal, giving him the look of a highly ambulatory toddler. His naïveté doesn’t last long.
+The architecture and level design in Pid take up the fantasy mantle where the visual design leaves off. Pid ostensibly takes place in familiar places -- there’s a theater, a dormitory, a kitchen, a basement -- but these buildings follow their own type of internal, childlike logic. Kurt meets other characters in the game, mostly robots speaking in idiomatic gobbledigook, and he often asks them questions like, “Where is the surface?” or “Can you tell me which direction the workshop is?” 
+ 
+ The interiors are impossibly large and impossibly spaced, expanding forever upwards and rightwards, until you reach the final door. You’ll spend hours in a massive area called “The Sitting Room,” for example, only to emerge and discover that it’s housed in a humble little building on a sidestreet of the town. 
+ 
+ When I was a kid, my grandparents’ antebellum home seemed vast, palatial, and full of adventure. You could crawl under her wrap-around porch, dodging spiders and snakes and watching for what turned out to be a mythological pit. Now, it seems like an anachronistic relic with vinyl siding, nestled in a dying town in Mississippi. Pid never really lets go of that first sentiment, though, and each new location feels larger than life. Like a small boy in a foreign land armed with only a magic gem, explorers of the planet Humphrey will be wide-eyed.
+
+Pid is at its best when Kurt is inside a building or series of rooms, where the level design is tight and confined. This is usually where the game is more focused on its puzzles than its action, thereby making the most of its core mechanics and minimizing the need to jump or move quickly or precisely. More importantly, though, it’s here that the central mechanics get pushed the farthest -- Kurt can float enemies into spikes, move lasers around, trap missiles in mid-air. The light beam can lure giant moth-like enemies out of your path or guide a lamp through a pitch-black maze. 
+ 
+ Players will no doubt die in these rooms, but these deaths feel productive: each one pokes and prods at the puzzle, nudging Kurt closer to the fulcrum on which each section rests. An inverted Super Meat Boy -experience is at play, here: inch by inch, you’ll muscle-memorize your way through some spiky gauntlet, slingshotting your gems just so, making incremental progress. Where Super Meat Boy values speed, though, Pid prefers specificity and purpose. It’s no less frustrating, and no less rewarding.
+Unfortunately, Kurt’s light beam and his floaty, inconsistent jumping and sluggish movement aren’t made equal for all tasks. The game is weakest in its open-air sections, during which the controls don’t live up to the demands of the action -- instead of planning and executing, Kurt is tasked with running, jumping, and dodging. Deaths no longer feel productive, just unforseen. The level design starts to wander aimlessly, leaving Kurt to meander without any real thrust or impetus. 
+ 
+ There’s a very concrete connection, then, between Pid ’s architecture and how successfully it employs its mechanics: in a very basic way, Kurt’s magic gem needs walls to work, and the game is weaker when there aren’t enough of them. The loose-leaf platform sections are annoying, and they trot out tired platformer cliches, but they also commit the graver sin of not doing anything interesting with the light beam mechanic. Instead, they rely overmuch on the game’s auxiliary bombs and weapons. 
+ 
+ These countless deaths do add up, unfortunately: after so much failure and so much frustration, Pid begins to feel long in the tooth in its last act. I spent two days on the "City" stage and its boss, and another two on the final boss.
+
+
+Pid ’s saving grace is that it is superbly paced, both mechanically and aesthetically. New concepts are introduced almost agonizingly slowly, but they’ll build on each other organically and naturally. Might & Delight did a great job making sure that players really master each mechanic before moving on. By the end of the game, players will be stringing long sets of sophisticated maneuvers together instinctively. 
+ 
+ Almost without fail, after every difficult and frustrating slog comes something serene and beautiful. Like the rest of the game, this salve takes various and sundry forms. Sometimes a new concept is introduced, giving players a shift in momentum and the chance to go slowly and calmly. At other times, Pid simply revels in its own pretty visuals and haunting soundtrack, allowing Kurt to run, unmolested, through a rainy night or explore a glittering cave while a lone musician serenades him.
+After a particularly harrowing chase scene in a dusty opera house, Kurt bursts through a trap door into a grassy meadow -- literally a breath of fresh air. This type of tension-and-release structure gives players time to recharge their batteries, to reflect on the things that Pid has to offer, and to -- hopefully -- summon enough resolve to keep going. 
+ 
+ I really like Pid , despite its faults. It routinely makes me feel smart and suave, and it manages its tone pitch-perfectly: sad without being maudlin, effectively capturing childhood without being mawkish or explicit. It’s plagued somewhat by a misunderstanding of its strengths, but when the design -- of its levels, its characters, its aesthetics -- comes together, it’s a beautiful little gem. 
+ 
+ Feel free to throw it at a wall.

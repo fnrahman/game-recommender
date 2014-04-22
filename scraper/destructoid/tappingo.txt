@@ -1,0 +1,22 @@
+Pure puzzle games can have a sort of zen effect for some players. Through repetition, players can almost subconsciously solve logic puzzles that would take an untrained person serious thought. When done well, time seems to melt away and all that matters is achieving nirvana through the journey to the solution.
+The Japanese puzzles sudoku and nonogram (better known as Picross among gamers) manage to hit that sweet spot for many. Tappingo aims to join those ranks with a new way to recreate pixel images through use of deductive reasoning. It begins with promise, but never manages to reach its full potential.
+
+Tappingo (3DS) 
+ Developer: Goodbye Galaxy Games 
+ Publisher: CIRCLE Entertainment 
+ Release Date: February 27, 2014 
+ MSRP: $2.99
+Mechanically, Tappingo seems interesting, in the easy-to-learn, difficult-to-master kind of way. Players are given a grid with a few spaces colored in, most with numbers attached. The number on a space tells how many additional spaces that color should fill, in one of the four cardinal directions. The trick is that pushing a space in any direction will fill in an entire line, up until it hits an outer edge, blocking square, or other color.
+What results is a situation where the player is setting up nested if-then statements in his mind, where one line requires a blocker at a certain spot, which itself requires a blocker, and so on. Solving a piece of logic like this is satisfying, at least for a while. The video below does a better job explaining the central mechanic.
+
+The chief problem with Tappingo is that while it is easy to learn, it is not difficult to master. Where other similar logic puzzles require complex mental algorithms to solve and employ several different tools, there are essentially only two simple branches of logic to consider here: determining the direction in which a line needs to be directed, and determining how to stop the line from overextending itself.
+As such, there is no real difficulty scaling over the course of the game. There are 104 puzzles included, and at about the halfway point the grid size increases from 15x15 to 24x24. As the puzzles get larger, it only requires more steps to take, rather than more involved thinking.
+
+Another hidden problem reveals itself when Tappingo makes the jump between grid sizes. The screen real estate allotted to the puzzle area is static, so increasing the number of pixels in an image necessarily decreases the size of the pixels. Even with the stylus, it becomes very common to unintentionally activate a square adjacent to the intended target.
+This can be particularly frustrating when such an activation pulls back a line that was instrumental as a blocker for other lines. What results is a chain reaction of progress loss, all caused by a single misclick. A simple zoom function would have been welcome, but an undo button is what is most sorely needed.
+This highlights the barebones nature of Tappingo . There is no zoom or undo functionality. There is no note-taking functionality. There is no custom puzzle creation tool. There are no additional modes. There is no StreetPass or Play Coin usage. There is nothing here but the puzzles, which each takes between 30 seconds and about five minutes to complete.
+
+While being single-minded is not inherently bad, Tappingo also suffers from its novice presentation. D-pad controls are not available on menu screens. The puzzle selection animation looks unexciting at best and unfinished at worst. The circus act music can quickly become grating.
+Worse still is that some quality issues affect gameplay at times. With the unchanging purple background on the grids, puzzles with high usage of purple (as with grapes) are difficult to differentiate. In the case of the Nintendo 64 controller puzzle, the design is inelegant to the point where an obviously visually incorrect solution is deemed correct because it satisfies the numerical constraints despite putting pixels in the wrong locations.
+
+Tappingo is a semi-clever idea held back by its lack of ambition and amateurish presentation. It promises to be a small, time-wasting puzzle game, and while it achieves exactly that, it does not excel. It provides simple satisfaction, when it is not providing avoidable frustration. Picross fans and general puzzle addicts can find some brief entertainment in Tappingo , but it could just as easily be missed.

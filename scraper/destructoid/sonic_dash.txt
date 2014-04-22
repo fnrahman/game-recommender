@@ -1,0 +1,22 @@
+Not content with taking the Doodle Jump formula and simply placing Sonic in it with Sonic Jump , Sega has tapped a new mobile avenue, the 3D endless runner. Surprisingly, this sub-genre is the one that actually suits Sonic the most -- perhaps more than any IP ever could.
+But as you can imagine, with the problematic and pushy nature of in-app-purchasing, Sega's handling of the franchise in general, and some developer's inability to translate quality into the mobile arena, a whole heap of things could go wrong.
+Thankfully, they mostly don't. Mostly.
+
+Sonic Dash (Android, iPhone [reviewed on an iPhone 5], iPad) 
+ Developer: Hardlight 
+ Publisher: Sega 
+ Released: March 4, 2013 (iOS), TBA 2013 (Android) 
+ MSRP: Free (with microtransactions)
+Sonic Dash is one of "those" mobile games. You know, the endless-runner type that doesn't have a finite goal, and entices you with in-app-purchases to help you get "just a little further." But despite the fact that there's no endgame in sight, like Temple Run , it can be a great way to waste time in-between some of the more meatier offerings in the mobile market. 
+
+Where Dash truly shines is the set of very responsive controls, which I've found to be some of the best in the runner genre. Instead of a convoluted and dead-zone prone tilt method, you simply control Sonic by swiping left or right to switch between three lanes, up to jump, and down to slide.
+That's it. It all works wonderfully well, and for the most part, Sonic does everything I want him to do with no issues . It's a stark departure from market leader Temple Run 's forced tilt system, and an appreciated one.
+
+Another area that wasn't skimped on are the aesthetics of the game, which are surprisingly beautiful on the iPhone 5 (users are reporting issues with earlier iPhone models). The draw distance is fairly well done, Sonic himself looks colorful and great, and the world is faithfully recreated and translated to Sonic Dash quite well, to the point where it doesn't feel like a knock-off in any way. With the right team, a full-on game using a modified version of this engine could easily be a reality.
+But aside from that solid veneer, the lack of inspiration or effort starts to seep through the cracks. Mechanically, Sonic doesn't die if he hits an enemy with rings, which is  a nice touch, but if he hits a wall, he instantly loses that run  (barring your use of a revival power-up). It really kills the pacing of  the game to say the least, when you add in the fact that certain  checkpoints must be made to "bank" coins, lest you lose all of your  progress during that part of the run. Losing a large amount of currency  you've earned not only makes the player feel like he's wasted his time,  but it also feels like an incongruous design to have one method "sort  of" eliminate the run, and another method end it instantly.
+A lack of variety also hurts the experience significantly. You'll encounter a whole two environments throughout the game: the Green Hill Zone, and the Seaside Hill Zone. That's it. After a few hours, looking at the same exact scenery that you've already seen a million times at the start of nearly every Sonic game devolves the experience into a chore. Like Sonic Generations , a solid variety of stages would do nothing but help the game, and I sincerely hope that more levels are in the cards for a future update.
+
+
+In-app-purchases range from "not needed" to "pretty damn annoying." After every run, a "tip" will come up on the screen, usually having nothing to do with that particular run, that advertises an IAP of some sort. This was less acceptable when the game had a $1.99 pricepoint, but now that it's free, it doesn't bother me as much.
+Honestly, if you keep doing the challenges (of which the rewards have been upped since launch), you shouldn't feel the need to buy anything outside of the exorbitantly-priced characters, which are optional anyway; if you don't want to earn the stars to buy every character, it'll cost roughly $15.
+Sonic Dash isn't a bad game, but it could stand to be much better than it is in its current state. With more zones and less weighty in-app-purchases by way of an update, Dash could be one of the more enticing endless runners on the market. As it stands, you might find yourself picking this up, and running right past it after a fleeting sense of enjoyment. But said time with it will undoubtedly be enjoyable, nonetheless.

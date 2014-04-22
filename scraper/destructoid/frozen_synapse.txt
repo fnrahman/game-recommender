@@ -1,0 +1,69 @@
+Indie games come in all shapes and forms, but while many offer creative  designs and experiences to those who are willing to look for them, just  as many can be a bit derivative of old designs. That isn't the case with Frozen Synapse , a  game that could be shoehorned into a "chess meets Rainbow Six "  description although that doesn't do it justice.
+This game does something more than just mix existing genres: it encourages a new form of strategic and tactical thinking.
+
+ 
+ Frozen Synapse (PC [Reviewed], Mac) 
+ Developer: Mode 7 Games 
+ Publisher: Mode 7 Games 
+ Released: May 26, 2011 
+ MSRP: $24.99 
+ 
+ Like many great games, Frozen Synapse takes a relatively simple concept -- pit squads of soldiers against each other in a map -- and packages it in such a way that gets you hooked for hours on end. 
+ 
+ In most cases, the goal of the game's missions is to eliminate all enemy soldiers on a neon top-down blueprint type of map within a set number of turns. Each turn you get 5 seconds of actual "real time" action to plan for by moving your units around, focusing their aim, and turning the soldiers at hand into a deadly and precise surgical tool of murder. 
+ 
+ Soldiers come in different varieties, with assault rifle infantry for mid-range support, shotgun infantry for corner ambushes and speed, grenadiers, rocket infantry, snipers, and some occasional special units thrown in the mix. Once you've planned your approach for a turn by positioning the units you have in the best way a situation allows for, the big moment awaits. You "prime" a turn and see how it all ends up in real time. And this is where you die, repeatedly. 
+ 
+ 
+ 
+ Priming a turn means that your tactical plans are acted out, but your opponent's plans are acted out in tandem. Having a simultaneous turn-based structure is not exactly new for a top-down strategy game, but it feels different and fresh in Frozen Synapse . 
+ 
+ Because this is mostly urban warfare we're playing with here, enemies can easily throw a wrench into your carefully laid out plans by running around a building and shooting you in the back. Or maybe snipe one of your most important units through a series of windows that you didn't account for. A few games in, you start to realize how important it is to predict likely paths for your opponent in order to get anywhere. 
+ 
+ The best way to get into the right state of mind in order to understand what Frozen Synapse is like is to think of playing a strategy board game with friends. Turns are played and planned ahead of time, but there is only so much prediction you can do to get that "perfect end-state" that wins you a game. Now imagine if it was an X-COM board game and you're halfway there. 
+ 
+ Thankfully you're also given the tools with which you can account for all eventualities when constructing your master plans. You can set waypoints, change the unit's aim direction at any point in the planned path, duck behind cover, focus on more dangerous enemies or ignore the ones that are playing interference, and run while engaging whatever is in view or run while ignoring all enemies. 
+ 
+ 
+ 
+ Using these options you can do things like making a shotgun soldier ignore everything to run safely to a wall, walk alongside it to a window, aim through that window to shoot down a passing enemy, crouch to escape retaliatory fire, pass the window, stand up and run to reach a corner, and change the line of sight to anticipate an enemy coming around that corner. 
+ 
+ While every unit requires its own planning with respect to its strengths and weaknesses, you basically do that kind of planning for each unit to prepare for possible enemy actions. A simple hit of the spacebar shows you exactly how the turn will play out with the current plans. 
+ 
+ You can plan the enemy's actions for a turn as well (which means even more planning) and doing so gives you the ability to see how a hypothetical scenario play out. Perhaps that shotgun soldier you sent running to that wall will never make it because of enemy cover fire. Perhaps you should tell him to wait for 3 seconds while a sniper positions himself to clear a path. But then perhaps the shotgun soldier won't make it to ambush enemies around the corner in time.
+When you've run your nightmare scenarios and think you've accounted for most possibilities, that is when you prime a turn. And usually that's where see your plans reduced to ruin as the enemy does exactly those things you didn't account for. That might sound frustrating and it often can be, but it's the good kind  of frustration. The kind that makes you go "Damn, how did I miss that?" rather than it make you go "What? That's bullshit." 
+ 
+ As you get better and better at it, you can enter an almost Zen-like state where you start to see possible paths, choke points, and kill zones on every map simply by looking at its layout. You start to become one with the tactical battlefield. 
+ 
+ 
+ 
+ Yet for all the turn-based planning at the tactical level, strategy is just as important. Some of your moves for this turn might seem like smart actions in the short term, but if it leaves your units stranded with no cover in two turns time, you're going to regret it. Yet any time the game punishes you by throwing an unplanned scenario in your face after you prime a turn, it also teaches you what to watch out for. 
+ 
+ In the end it comes down to mastering the battlefield from a tactical perspective, while keeping a larger plan in mind. You'll still react to situations as no turn ever plays out exactly how you thought it would, but it's the strange mix of anticipation and reaction that gives Frozen Synapse the unique feeling that emerges from playing it. 
+ 
+ It works well, and in the singleplayer campaign the AI is never dumb enough to just run to the grinder -- unless you positioned that grinder at a place the AI would likely move to. And if you just camp in one position for more than a turn, the AI will try to circle around and flush you out. 
+ 
+ The game's story-driven campaign clocks at an easy 15+ hours depending on how good you are (around 18 hours in my case and I'm still terrible at it) and while it won't win any story awards, it's a more than competent addition to the game's multiplayer aspect. It also tries to explain why the game is the way it is, and looks the way it does. As someone who isn't the biggest fan of multiplayer in general, the lengthy campaign was most welcome.
+
+ 
+ The campaign offers a healthy variation of mission goals, making you defend areas, reach areas, escort people, collect items to extract to the edge of the map, or simply kill everything. In practice you'll likely end up killing most enemies before thinking of the mission goals, but the variety helps to spice things up and offers different avenues of approach.
+Missions are randomly generated up to a degree, which means no restarted mission will play exactly the same. While there are a few exceptions where the majority of a map is the same whenever you restart, randomized unit positioning makes it feel novel enough that old plans that worked before can't be used again.
+The things that really make Frozen Synapse shine on the long term are its multiplayer component and game editor. Because it's still a turn-based game, don't expect multiplayer matches to be very fast. But, your opponent's over-thinking notwithstanding, the game's modes do allow for quick matches (i.e., less than 10 turns). Each player plans his or her actions, and after both players send in their actions you can load the result. This approach also allows you to play one game over a number of days whenever you have time, or to play multiple games at once.
+Multiplayer modes are one on one affairs where the goals can be plain old killing, escorting hostages, or gaining and keeping territorial control. Each mode has a Light and Dark variant which either shows all units on the map all the time, or only shows them when they are in your line of sight. 
+ 
+ People are already going nuts with custom maps as well. And since you can import a PNG image into the game editor to create a map layout, it's no surprise to see floors of famous buildings or fan-favorite maps turned into custom levels. That doesn't mean they are necessarily the best for gameplay purposes, but any wall that just shouldn't be there can be blown to bits by a rocket anyway. 
+ 
+ 
+ 
+ Frozen Synapse offers some great experiences in strategy gaming, but unfortunately its innards can also feel a bit duct-taped together from time to time. It likes to play nice for hours on end and then crash a number of times in a row. Despite the clean and simple look, it can also be pretty taxing for your PC -- although it should run fine on most. And there's an omnipresent button that is set to not receive game invites by default, yet it doesn't stop you from receiving them all the time. The solution for that is currently to play it in offline mode, but it's the little things like this that detract from the overall experience. 
+ 
+ Other things come to light as you become increasingly adept at planning every minute detail of your units' actions. Rocket launcher and sniper units can take a long time to reload, and the lack of any indicator leaves you with a lot of guesswork for just how often they will be able to shoot across multiple turns. Sometimes it can also be hard to gauge who will fire first, even when you are seemingly in the best position to ambush an enemy unit. Or a unit should be easily able to shoot down an enemy that is without cover in its path, but sometimes it won't until you micro manage it to death. 
+ 
+ Of course things like this can easily be patched and Frozen Synapse is a title that will undoubtedly have a large and active community for years to come, so there's little doubt that the game will become bigger and better over time. There is also a built-in IRC client in case you want to ask anything or just chat for a bit, and the fact that there is built-in IRC functionality while some other parts of the game are a little rough around the edges speaks volumes for the game's roots and spirit.
+
+ 
+ It might not be for everyone, but if you have even a passing interest in strategy games and aren't afraid to get your ass kicked, no matter how hardcore you think you are, there is a lot to love in this game. For those of you that are put off by the game's price, keep in mind that for the time being you get a free bonus copy to give to a friend, and a good 20+ hours of content even if you're a singleplayer person. If you do like multiplayer and creating your own maps, however, you're easily looking at near- Minecraft levels of engagement here. 
+ 
+ I'm not the world's biggest fan of simultaneous turn-based strategy, but Frozen Synapse 's approach to simulating how a turn will play out removes a great deal of frustration that can normally come from out-of-the-blue simultaneous turn resolution. If you didn't anticipate for your opponent's actions, that just means either didn't run the scenarios or you still have a thing or two to learn about predicting behavior. And chances are, you'll feel like you're learning new things for years to come. 
+ 
+ Frozen Synapse manages to turn the intricate nature of turn-based tactical combat into something that is deviously complex yet accessible for all, and it does so in style. You might break it a couple of times, but you'll always come back for more. Expect it to make a lot of people's Top 10 lists this year.

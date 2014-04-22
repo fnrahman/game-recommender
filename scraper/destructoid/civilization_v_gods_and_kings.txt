@@ -1,0 +1,40 @@
+Civilization has always had a special place in my heart. As a turn-based 4X strategy game, it is the antithesis of damn-near everything in the shooter-saturated landscape that is the modern game market. 
+  
+ When it was initially released in 2010, Civilization V was one of the biggest changes the series had seen -- moving to a more approachable, art-deco interface, cutting out a lot of “unnecessary” bits, and changing countless combat and conquest mechanics.
+
+Civilization V: Gods and Kings (PC) 
+ Developer: Firaxis 
+ Publisher : 2K Games 
+ Released: June 19, 2012 
+ MSRP: $29.99 
+ 
+ Gods and Kings adds a lot of the features that were lost between IV and V like religion and espionage with mixed results. There are a total of nine new civilizations including Austria, Carthage and the Mayans. Naval AI has also received a ton of tweaks and there are new units including the Great Admiral, the maritime equivalent of the Great General. 
+  
+ Religion is easily the most robust and interesting addition. Faith works just like other resources. There are certain buildings, abilities, and tiles that produce faith each turn, and when you've earned enough of the resource you can either purchase units or buildings, spawn a great person, found a pantheon, start a religion, or upgrade that religion. All of these are tied very deeply into the Civ mechanics and mesh pretty well with what is already there -- a far cry from the system employed in Civ IV .
+
+Each pantheon gives the player a certain set of bonuses akin in both type and magnitude to those afforded by the various world leaders, like extra happiness for cities founded near rivers. Later, the option to found a religion will become available. Again, the player selects one of several buffs, while also establishing a name for the faith as well as picking a symbol. Religious bonuses are a bit different, however, in that they almost exclusively rely on spreading to new cities and civilizations. They aren't usually static either; the more you push your religion on others, the greater the buff for you and your allies. You can found up to three religions, and they are spread city by city, so you don't have to commit your entire country to "MutantJediNinja-ism". 
+  
+ My general strategy in V has always been to wonder rush with Rameses II, and I found that religion was very easy to incorporate.  All the bonuses I chose gave me bonuses to science and productivity with additional trade routes. These buffs allowed me to raise tons of money, buy Settlers, expand aggressively, boost science output, buy new productivity buildings and start cranking out more and more gold and science. This kept me on the bleeding edge of tech development so I could grab wonders before anyone else had a chance. 
+  
+ 
+ 
+ Of course, evangelizing is also important. Real-world moral quandaries aside, the system that Gods and Kings uses is fairly intuitive and easy to apply. Once a player has gathered enough faith, they can buy a great prophet. Generally, these units travel to up to five different cities converting up to ten citizens. This puts a lot more control in the hands of the player when compared to the system that IV used. 
+  
+ This creates a really cool dynamic that both highlights the actual applications of real-world religions and allows you to faith for diplomacy, especially with human players. Giving buffs to followers as well as founders means that you can convert-a-friend and help them out. None of the effects are deleterious or trade-offs. It serves to add more nuanced dynamics to what is probably one of the weaker facets of Civ ’s gameplay. Effective use of faith and religion will greatly benefit astute players. 
+  
+ Espionage is the other new gameplay addition. After researching the tech, players have access to another screen that shows all of your available spies and all known cities. Spies can be placed in rival cities to help steal technology, in city-states to help rig elections and gain favor, or your own cities to provide counter-intelligence and prevent your tech from being stolen. 
+  
+ The interface is very well-executed, but the whole system is largely pointless.  I could see civilizations that are pretty far behind being able to steal tech from more advanced players, but they will likely have all of their spies guarding their own tech. 
+  
+  
+ 
+ Espionage also comes into the game so late, comparatively speaking, that it’s difficult to smoothly mesh it with the rest of the gameplay. The Civilization IV expansion, Beyond the Sword , handled spies much better by allowing you to sabotage cities, poison water, destroy buildings and stall production. Here, technology and elections are really the only trick in the bag. It’s more than a little underwhelming. 
+  
+ In addition to the new gameplay additions, Gods and Kings adds a new mode called “Empire of the Smokey Skies”. Resident Captain of Awesome, Ryan Perez, wrote quite a bit about it in his preview back in May. The mode hasn’t changed too much since then, capitalizing on the steam punk aesthetic to mix up the rigmarole. 
+  
+ It would be nice to modify some of the rules of “Smokey Skies”, because I really enjoyed messing around with the new units. Sadly, however, you can’t play “Smoky Skies” with others, and there’s no option to use dirigibles or landships in place of bombers and tanks. The scenario pulls away from known history around the discovery of steam power. uranium, aluminum and other modern materials all receive funny-sounding names indicative of their alternative universe origin. Other than that though, very little is changed. 
+ 
+ Players will be given five goals including the usual military and economic dominance objectives. In order to win, a player must be leading in three of the the five categories. At that point a timer kicks in and counts down giving everyone else one last chance to clinch victory. It's a nifty little addition, but I only played through it twice. It just isn't different enough to keep me coming back. 
+  
+ If you were a fan of the changes made in the vanilla release of Civilization V you’ll probably enjoy most of the new bits. Gods and Kings is a strong expansion overall, but it fails to live up to the series’ own pedigree. Religion adds so much subtlety to advanced strategies that, by comparison, espionage comes off as a half-assed attempt to add back an old mechanic.
+Oh yeah and they fixed the opening movie problem.

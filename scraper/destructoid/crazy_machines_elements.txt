@@ -1,0 +1,36 @@
+Everybody loves Rube Goldberg machines.  It's a fact of life.  From breakfast in Pee Wee's Big Adventure to OK Go's " This Too Shall Pass ," the art of building a contraption to perform a simple task through a series of convoluted and unnecessary steps is always fascinating. 
+ 
+ Back in the day, a game called The Incredible Machine satisfied that fascination for me.  It allowed for the construction of intricate machines using fantastic pieces, though each had noticeably programmed behavior.  In more recent years, the Crazy Machines series has updated the genre with better graphics and, more importantly, better physics. Crazy Machines Elements brings the PC franchise to Xbox Live Arcade and PlayStation Network, and it survives the transition fairly well.
+
+Crazy Machines Elements (Xbox Live Arcade [reviewed], PlayStation Network) 
+ Developer: FAKT Software 
+ Publisher: DTP Entertainment 
+ Released: August 24, 2011 
+ MSRP: 800 Microsoft Points, $9.99 
+ 
+ At its core, the gameplay in Crazy Machines Elements is the same as that in The Incredible Machine nearly twenty years ago.  Players are presented with a nearly completed Goldberg machine, and a relatively simple goal.  (Put the ball in the bucket.  Light the candle on fire.  Pop the balloon.)  Players are then given a toolbox with a limited set of tools to complete the machine and perform the task. 
+ 
+ Where the Crazy Machines franchise improves on the formula is not only in the addition of more lifelike physics, but also the addition of impossible physics.  A few of the more interesting items in the game include an inextinguishable fireball, a gravity machine which can change the direction of gravitational pull or turn it off entirely, and a clone cannon which will scan an object and shoot an exact copy of that object out of its barrel.
+
+ 
+ The puzzle difficulty curve is right at the sweet spot.  The first ten or so puzzles introduce the player to the interface, and mostly involve simple Newtonian mechanics concepts like conservation of momentum and projectile motion.  By the second set of puzzles, players are igniting fires and detonating explosives.  By the end, machines have components involving electricity, magnetism, light, robots, UFOs, and the aforementioned impossible machines. 
+ 
+ In addition to the main game mode featuring about a hundred puzzles, there is also a custom level editor that gives the player access to all of the possible pieces, along with a pretty generous budget to spend on them.  Where the puzzles in the main game mode usually have one distinct correct solution, the level editor is limited mostly by the creator's imagination.  It is likely to be a hit among fans of Minecraft or Garry's Mod , though the restriction to a two dimensional plane may stifle some ideas. 
+ 
+ A third game mode, fittingly dubbed Challenge Mode can be accessed after finishing enough of the main game puzzles.  It features a set of challenges that are presumably very difficult, but this reviewer only got to see the first one, as its extreme difficulty has kept me from accessing the succeeding challenges.  For the resolute or more capable constructors, Challenge Mode appears to be where much of the replay value can be found, as players attempt not just to achieve a static goal, but shoot for best times as well.
+
+ 
+ There are a few rough spots that can be expected when moving a PC franchise to consoles. Most commonly, control can suffer if not handled well, and it provides some annoyance in Elements . With many different commands spread across the three modes and only a finite number of buttons available, there are menus and submenus, with some buttons doing different things in different modes. While that seems like it would make sense, I couldn't count the number of times I accidentally loaded up the Leaderboards for Challenge Mode when I intended to restart the puzzle, since the command was mapped to a different button than in the Puzzle Mode. 
+ 
+ Another control issue is that for some reason, when placing a piece, the very first movement it makes is one space opposite the direction intended. While it usually isn't an issue, some puzzles require precise item placement in order to achieve the intended result. When there is only one possible spot for an item to effect the desired outcome, this little bug makes getting the piece into said spot a bit aggravating. 
+ 
+ Overall, that's an irritating byproduct of some physics-based puzzles. Some puzzles exist in which the player can know the correct solution, but still spend time placing pieces just so in order to make it work as intended. Any puzzles involving springs or projectile motion are particularly finicky, but fortunately those that suffer from this niggle are few and far between. 
+ 
+ Otherwise, the only complaint I have is more psychological than mechanical. After one completes any given puzzle, setting the Goldberg machine into motion and achieving the goal, Crazy Machines Elements replays the awesome thing that just happened. After spending upwards of thirty minutes solving a complex puzzle, it would be great if the player were given the visual reward of seeing the result of his hard work. However, in addition to the replay, the game chooses to show a static image of its ugly Einstein-doppelganger mascot giving two thumbs up in front of the action, while obstructing the really cool stuff happening behind him. It may seem like a minor thing, but this was actually my biggest complaint with Elements .
+
+ 
+ Still, there is a special kind of joy that one derives from building something, physically or digitally, and it far outweighs the little annoyances and stupid design decisions. One particularly cool part of Elements is in the Achievements. In addition to the standard ones for finishing the game, there are some that give specific instructions, such as shooting two cannonballs with one cannon. As far as I can tell, the only way to achieve these is to build a level from scratch, rather than just play a built in level. It's fascinating that many people have probably earned those Achievements through radically different means. 
+ 
+ Lastly, a special note should be made that, aside from the music in the main menu, the soundtrack is surprisingly good.  It won't move anybody to tears or recall fond memories years down the road, but for mellow atmospheric music, it does its job well. It doesn't distract from the action on screen, and it soothes to the point where spending a good chunk of time on any one puzzle doesn't feel so long. 
+ 
+ All in all, Crazy Machines Elements is a good example of its genre. While the genre itself hasn't evolved much in the past twenty years, there is still an undeniable satisfaction that one derives from building and watching Goldberg machines run. For only ten dollars, puzzle fans and creative types can find a lot to enjoy here.

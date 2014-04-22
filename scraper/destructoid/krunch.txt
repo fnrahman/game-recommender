@@ -1,0 +1,38 @@
+It's going to be tough to talk about Krunch without also mentioning games like Super Meat Boy or VVVVVV , so I'll get it out of the way now: Krunch is similar to these titles in that you will die. A lot. You will also, however, quickly learn from your mistakes and rarely blame the game for cheap deaths.
+While the inspiration is clear, Krunch is unique enough to separate itself and stand on its own two…err, to suspend itself and float on its own.
+
+Krunch (Windows [reviewed], Mac, Linux) 
+ Developer: Le Grudge & Rugged 
+ Publisher: Le Grudge & Rugged 
+ Release: December 21, 2012 
+ MSRP: $9.99
+While there is some semblance of a plot, nothing is made very clear. What is clear is the goal -- to run away and escape from whatever destructive hellhole the round protagonist begins in. On this journey, he'll encounter plenty of obstacles and dangers whose sole purpose is to destroy him and his stupid little circle face. At least, that's what I imagine they think of the protagonist, since it's all too clear that everything is out to obliterate him.
+The controls aren't as tight as something like Super Meat Boy , but in this case it is intentional as the character is floating, not standing. There is an ever-so-slight drift to the character as you let go of a direction. It takes a while to get used to, but the skill in Krunch comes with understanding and controlling the character as finely as possible.
+The character can boost by holding down the spacebar, but doing so will slowly reduce the character's health allotted for that level. The health bar also acts as the time limit to complete the level, and is constantly depleting at a slow rate. Boosting is not always wise, either, since boosting around a sharp turn is sure to result in death. Boosting into a hazard is even worse, since both of those actions reduce the allotted health and, likewise, the amount of time left to complete the level.
+jEmbed JS API   VIDEO PLAYER   jEmbed SCRIPT  $sb("dest007_9e7f13ebcba7751e45319b53a5160a98", {
+	"sbFeed": {
+		"cname":"destructoid",
+		"partnerId": 357,
+		"type": "youtube",
+		"contentId":"KCP-P3Me7NU"
+	},
+	"style" : {
+		"height":376,
+		"width":620
+	}
+});
+There are four worlds to get through in Krunch , which will take a couple of hours to complete, though it is entirely dependent on the player's mad skillz. For the record, it took me 86 minutes from start to finish. Though the timer will continually increase as you go through the game, it’s the orbs  -- or "Krebs," as the game calls them -- that you collect which will solidify your spot on the leaderboards.
+The difficulty curve is spot-on, easing into new mechanics by introducing them gently. Not sure what the glowing square will do? You'll find out real quick once you touch it and explode into pieces. Even during the fourth world, I found myself finding and working on intricacies in order to complete each level to the best of my ability.
+Although completing the game without caring about collecting Krebs may prove to be an easier feat, collecting all or most of the Krebs provides an intense challenge. Some of them are so deviously placed that, at first glance, you may deem them impossible to collect -- but the truth is you're just not good enough to get them. Yet.
+
+Perhaps the biggest game element to get used to is bouncing. After making contact with a wall or a non-lethal hazard, the character will ricochet off of it and lose any sort of momentum. Recovering from one of these bounces is often difficult and sometimes impossible. Any single mistake, depending on the level, could mean death. The obvious solution is "don't hit the walls or non-lethal hazards," to which I say GOOD LUCK! Sometimes it is possible to bounce on purpose and use it to your advantage. Sometimes.
+After a slip-up, it may become evident that the level is going to win. Plain and simple. It is not a bad thing, but it may take a while for the level to actually kill you and restart. In this vein, the absence of a quick-restart button is a bit of an oversight. Sure, it takes no more than 3-5 seconds most times for the level to kill you and then restart, but in a fast-paced game like Krunch , it can feel like an eternity.
+There are a few boss levels throughout Krunch , which don't overstep their bounds or feel out of place. They don't change the formula at all -- escaping quickly and efficiently is still the name of the game, and that's a good thing. In fact, these few levels are probably some of the most well designed of the entire bunch and easily the most exhilarating.
+The only real issue with the level design in general comes in the form of what I'm calling teleport-tubes. It's a small issue, but when you enter one of these tubes, they instantly take you somewhere else on the map. Most of the time, you will still be holding the direction you were to enter the tube and the character will keep going, resulting in an instant death and it won't immediately be clear what destroyed you. It only takes one mistake to realize, but it's slightly frustrating nonetheless.
+
+The game looks good during all of the pixelated death. I'll go ahead and recommend playing in full screen, since it is easier to see each and every pixel in a game in which a single pixel in the wrong direction can mean death.
+The visuals may not blow you away, but the music is likely to get all up in your brain. Created by Disasterpeace, known for his work on Fez, and DirkRugged, the music absolutely fits the tone. It has a bit of old-school sound courtesy of Disasterpeace and yet brings in an industrial feeling thanks to DirkRugged. It's really great.
+The sound effects are also worthy of note, created by Jordan Fehr, who worked on Donkey Kong Country Returns, Super Meat Boy, and even Hotline Miami . Some serious talent worked on this game, and it sure does leave an impression.
+
+Created by two guys, Krunch is an excellent and exciting romp to escape from near-certain death. It's short and doesn't really entice the player to return unless they're interested in leaderboard scores, but it is still a great way to kill an afternoon.
+It isn't perfect, as certain level design elements are a bit jarring and the lack of a quick-restart level option can make five seconds feel like forever. That being said, Krunch is a title that is sure to please anyone who stayed up late completing the Skyscraper Warp Zone in Super Meat Boy or ripped their hair out completing the Veni Vidi Vici room in VVVVVV . Fellow masochists, rejoice!

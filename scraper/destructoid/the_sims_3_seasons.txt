@@ -1,0 +1,30 @@
+The Sims series will always have expansion packs. It's part of the experience to slowly add more content to the game. Usually these packs add active content like new town locations, new interactions, or new career paths for your sims. Seasons adds a little bit of this stuff, but it's mostly a passive expansion in that it adds things to the background of the sims' lives.
+Seasons mostly does what you would expect. It adds seasons, weather, and holidays to the game. While it's neat to have these features, I'll just come out and say that it's not worth forty bucks.
+
+The Sims 3: Seasons (PC [reviewed], Mac) 
+ Developer: EA Play / The Sims Studio 
+ Publisher: Electronic Arts 
+ Released: November 13, 1012 
+ MSRP: $39.99
+Fall, winter, spring, and summer. Sims will get to experience all four seasons and the changing weather. Winter is cold and full of snow, and sims can make snowmen or snow angels, they can snowboard, or they can build an igloo for a little winter "Woo-Hoo" (that's gotta be cold and uncomfortable). A new outerwear section has been added to clothing options, which sims will automatically change into when they go outside depending on the temperature. If they don't wear outerwear in the cold, they can start to freeze and they will eventually die (I checked, of course). Sims can also catch a cold now and spread it around with germs.
+jEmbed JS API   VIDEO PLAYER   jEmbed SCRIPT  $sb("dest007_0150d2d185023edc2410915091ef9db5", {
+	"sbFeed": {
+		"cname":"destructoid",
+		"partnerId": 357,
+		"type": "youtube",
+		"contentId":"yB5nTGm0j3Q"
+	},
+	"style" : {
+		"height":376,
+		"width":620
+	}
+});
+In the summer, your sims can get a tan if they stay outside in the sun for long enough, and if it is really hot, they will switch to their bathing suits to keep cool. Jumping into water can also help sims keep cool. This is worth knowing, because sims can get sunburned and eventually burst into flames if they stay out in the heat for too long (I checked this too).
+As for fall and spring, these seasons are really bland and serve as transitions between the other ones. It's pretty much just like real life.
+Weather effects are very nice to look at, and sims respond to them well. When it's raining, they pull out umbrellas and are afraid of lightning, and when it's snowing, they leave footprints in the snow. It's a welcome visual upgrade to the game's engine.
+Holidays that match real-world holidays have been introduced. Sims can go on dates on "Love Day," exchange presents on "Snowflake Day," or go trick-or-treating on "Spooky Day." Holidays are fun and it's neat to have some day-specific actions that you can do. It's a good touch that helps make the feeling of these seasons more meaningful to the lives of your sims. Winter would be lame if it didn't involve Christmas.
+
+When you install Seasons and run it for the first time, one of the parks will be converted into a festival ground. Each seasons has a festival where sims can go and win prizes by completing events like hot-dog eating, ice-skating, playing soccer, or bobbing for apples. The problem with these festivals is that they are too alike. The events change, but if a sim goes once and does everything, there really isn't a need to go back again.
+This actually highlights a really big issue I have with The Sims franchise in general: any action is merely a new contextual menu option. I never feel like I am doing anything new. Sure, there are new animations, but the gameplay is always the same. Click on a thing, pick the thing you want to do, and watch something happen. A lot of the time the resulting actions are never that visibly different. It's great that the sims can do new stuff, but I really want EA to make me feel like I am doing something new.
+
+Each of these features adds a nice layer of depth to the game, but they really don't add a lot of new gameplay. There isn't any new career to follow, there aren't any exciting new public lots, and while playing, I pretty much just goofed around waiting for the seasons to change. If you find yourself playing The Sims 3 a lot anyway, then Seasons will add something to the experience. If you are waiting for a new expansion to make you get back into playing The Sims 3 , however, skip Seasons and wait for the next one.

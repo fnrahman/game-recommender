@@ -1,0 +1,41 @@
+Ahhh Death Rally , what memories you have given me back in the day. The old Remedy logo, the Apogee splash screen, the fact that it was basically Micro Machines with guns; what wasn't there to like? Now, almost 15 years after the DOS release, Death Rally is back -- on iOS this time. 
+ 
+ For the most part, the new Death Rally feels like you would expect. Fast top-down racing with guns, upgradable weapons, and new cars to unlock and upgrade. Death Rally is all about quick races on a short track where the goal appears to be simple at first sight: finish in pole position and destroy your opponents if you can. Thankfully there are a couple of design elements that make it more interesting than that.
+
+Death Rally (iPhone [reviewed]/iPad) 
+ Developers: Mountain Sheep, Remedy Entertainment, Cornfox & Brothers 
+ Publisher: Remedy Entertainment 
+ Released: March 31st, 2011 
+ MSRP: $4.99/€3.99
+Racing in Death Rally is a simple matter of pushing a virtual analog stick in the direction you want to go. While the game offers a fixed-orientation camera as a default -- where you just steer your car any way the track takes you -- you can change the camera to be oriented on the car instead. That way, the track just rotates around you as you go. It's an option, but not a recommended one as you'll end up only pushing forwards and moving your thumb to the left and right to steer. 
+ 
+ Although there has been some negative feedback on the controls, I found them to be more than serviceable. Because you generally only drive at a fixed top speed -- depending on how much you have upgraded your car -- the key to winning is to learn how to make handbrake turns. Making swift motions to turn your car 90- or 180-degrees results in a small speed boost that gives you an edge over sometimes faster cars. 
+ 
+ It would've been nice if you could enlarge the virtual stick because as someone who has pretty big hands and fingers, there was a bit of a learning curve to get the hang of it. Eventually you learn not to just press your thumb down and move it around to control your car, but to shift pressure with your thumb in the direction you want to go. If you don't, your thumb will start to hurt after a while, so don't do that.
+
+Your car will come with a standard machine gun that will automatically fire forwards if there is anything to shoot at. As you progress, you can collect parts throughout races to unlock new weapons and cars. A simple touch button lets you fire special weapons: a gatling gun, shotgun, sniper rifle, mines, and a missile launcher. Within a dozen or so races you also unlock the bumper as a secondary weapon, which lets you do damage by ramming into opponents. 
+ 
+ Finishing with a good position, destroying other cars, beating your lap and track record, and destroying a 'boss' yields you money which can be spent on car and weaponry upgrades. A boss is simply a car with a portrait hovering over it, who tends to have the best AI in any race. 
+ 
+ The combat makes the races a lot of fun, and every race feels like a new opportunity to fight your way to the finish line. Although the majority of levels come in simple three-lap races, there are additional 'challenge' races that feature things like a race without weapons, a one-lap race, a one-on-one race, a race with set vehicles, or a race with a set weapon type. 
+ 
+ While there are only around five race tracks in the game, reverse and 'mixed' tracks add a lot of longevity; you're not likely to learn them all by heart by the time you 'complete' the game. 
+ 
+ 
+ 
+ Gameplay-wise, Death Rally offers fun and brief racing on the go and you can easily find yourself starting just that one additional race because it only takes around a minute to finish it. And before you know it, you've been playing for 30 minutes. 
+ 
+ However, some odd design decisions drag the game down. While an iOS game doesn't have to be simplistic or simple by nature, having no manual or tutorial at all is ridiculous. Sure, you race a car around that shoots, how hard can it be? However, the UI is filled with elements that are never properly explained. 
+ 
+ For example, you can choose between around 5 races at any time from an elegant menu that shows your car. Going into the Garage to tailor your car and weapon setup is a seamless transition through the menu. And while the choosing your load-out is as simple as it can be, races have a skull icon and a number of blocks that are supposed to indicate the difficulty of a race. Or is it? 
+ 
+ Challenges show stars, and though it's easy enough to understand that more stars equal a tougher race, the game never really feels that much more difficult. To top it off, finishing a race gives you an overview of the money you made (by winning, destroying cars, etc.) and shows a multiplier. That can be 1.0x, or 1.5x, or even 3.0x. But what makes the multiplier go up? Killing multiple enemies doesn't seem to change it, and neither does finishing first or last. 
+ 
+ I'm all for having 'hardcore' games on iOS, but I shouldn't have to spend half an hour experimenting with things just to find out what causes what. Especially because the UI has been designed to be accessible, as you can read on the game's blog , it's mindboggling that they didn't take the time to just explain the most basic things.
+
+This confusion is only confounded by the game's two progression indicators. 'Progress' shows how far from completion you are, but you have to find out for yourself that this means you have to upgrade every single weapon and car to the maximum level.
+'Fame' shows something I still don't even understand. All I know is that if you place last it goes down, and if you place first it goes up. But whether destroying cars or setting new lap records has an effect on it is never explained, so you quickly end up ignoring the Fame meter altogether. Or at least, you'd try if it didn't fill up at a ridiculously slow rate after a race. 
+ 
+ While the game could've done with some basic user research to find out if people actually understand what it is they are seeing, it has no detrimental impact on the gameplay experience itself. Death Rally is a lot of fun to play, it looks great, runs smooth, and it's very addictive. Having Duke Nukem appear as a boss with a few signature lines is also a nice throwback to the original game too. But a simple future update like being able to enlarge the virtual stick, or including a manual, would really go a long way for the title; especially for an audience as wide as the Apple app store provides. 
+ 
+ As it stands, you'll easily get around 5 hours or more out of the game by simply upgrading everything and having fun while you do it. And even when you 'complete' it, Death Rally doesn't make you feel like you are done playing it. For the price, it's a great game that is polished on many levels that matter, yet strangely lacking in others.

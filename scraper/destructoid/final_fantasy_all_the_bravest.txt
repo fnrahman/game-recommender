@@ -1,0 +1,34 @@
+Final Fantasy is close to being the Star Wars of the videogame industry, and not in a positive way. Square Enix, the George Lucas of this particularly scenario, has done a fine job exploiting its brand to almost damaging proportions, attaching the Final Fantasy name to anything it can, regardless of quality.
+Final Fantasy All the Bravest could be seen as the culmination of that. It is to Final Fantasy what a Toys R Us shelf stocked with Jar Jar Binks dolls was to Star Wars . Only, slightly worse.
+After all, the Jar Jar Binks dolls never asked you to keep giving it money after you'd bought it.
+
+Final Fantasy All the Bravest  (iOS) 
+ Developer: Square Enix 
+ Publisher: Square Enix 
+ Released: January 17, 2013 
+ MSRP: $3.99, $3.99, $3.99, $3.99, $1.99, $2.99, $0.99, $0.99, $0.99, $0.99, $0.99, $0.99, $0.99, $0.99, $0.99, $0.99, $0.99, $0.99, $0.99, $0.99, $0.99, $0.99, $0.99, $0.99, $0.99, $0.99, $0.99, $0.99, $0.99, $0.99, $0.99, $0.99, $0.99, $0.99, $0.99, $0.99, $0.99, $0.99, $0.99, $0.99, $0.99
+Final Fantasy All the Bravest promises the return of the Active Time Battle system, boasts combat parties of up to forty heroes plucked from the series' history, and seduces fans with its nostalgic graphics and music. All the Bravest is not, however, the reminiscent tour de force it could have been. It is, instead, an exercise in providing as little entertainment as possible for the maximum financial return.
+It is an idea of a videogame, expecting money from consumers in exchange for memories they could have had by watching YouTube videos. Gameplay is practically non-existent, the software merely a conduit through which you directly deposit your dollars into Square Enix's bank account. It's a service that you both work for and pay for, while the company in charge does nothing but rake in the loot.
+The game is essentially a series of "battles" in which all you need to do is wipe your finger across the screen. Swiping or tapping on a party member causes it to launch an attack, after which a timer appears above its head to indicate when it can attack again. To win a battle, you rub furiously at the screen until the monsters are dead, then move onto the next fight. No thought required, no strategy, no alternative methods of attack. You rub, rinse, and repeat, until everything is dead. Along the way, you level up, gain items to boost attacks, acquire new heroes, and earn Gil, but everything is handled automatically, allowing you to continue rubbing with brainless abandon.
+jEmbed JS API   VIDEO PLAYER   jEmbed SCRIPT  $sb("dest007_2744984a0cc4a31b9d2d368128a5ef1a", {
+	"sbFeed": {
+		"cname":"destructoid",
+		"partnerId": 357,
+		"type": "youtube",
+		"contentId":"Eaj8IT63pok"
+	},
+	"style" : {
+		"height":376,
+		"width":620
+	}
+});
+Every three hours (in real-time), you can activate a "Fever" mode which eliminates the "Active Time" portion of the battle and allows characters to attack freely. This equates to more rubbing, requiring no extra thought or impetus from the player.
+That, literally, is Final Fantasy All the Bravest . That is the gameplay, described in its entirety. You smear your hand across your iOS device's screen until you hear the victory theme, then do it again. And again. And again. And again. Square Enix honestly could have eliminated the swiping process to make characters attack automatically, and it would have equated to the same experience, albeit with less wrist strain. Something is wrong when you could remove any form of player input without it negatively impacting your game.
+Of course, All the Bravest does not exist to be played . That's not the goal. The goal is for its publisher to make more money beyond the $3.99 asking price. You see, in order to get a party that will decently stand up to the game's boss monsters, you're expected to spend more real-world cash to acquire powerful heroes. Spending $0.99 allows you to summon a famous hero from the Final Fantasy series, selected at random. This hero will then join the party and launch attacks the same way as any other character. Being randomized, players looking for a particular character will need to spend anywhere up to 35 dollars in order to get the right one.
+
+Everything in the game is carefully designed to pressure you into buying things. The boss "difficulty" spikes are used to convince you that you really need a new hero. The inability to directly control the battle places the emphasis on purchasing more power rather than developing skills or tactics to surpass an obstacle. When you die, your party revives by one character every three minutes, in a bid to bore you into purchasing an instant-revival item. Despite being sold on nostalgia, the truly memorable Final Fantasy content is locked behind expansion packs, each costing a further $3.99.
+Make no mistake -- Final Fantasy All the Bravest did not come about through lazy design. While the mindless battles may look like the result of a total lack of effort, it was a coldly calculated, meticulously developed system crafted to draw out your wallet. It's as intricately designed a game as any other Final Fantasy installment -- the design simply wasn't used to enhance the gameplay this time around.
+In a way, I'm almost impressed. This is a game that you don't really play while it demands money for no good reason. The nerve, the sheer rotten gall of that is almost laudable. Despicable, intellectually offensive, and grotesque, most certainly -- but still deviously magnificent. What really hammers it home is the fact that, during the course of the game, you acquire masses and masses of Gil -- in-game currency that has absolutely no in-game use. It's almost as if Square Enix is gleefully mocking its users by showering them with useless coins as it vacuums up the real ones.
+
+Final Fantasy All the Bravest is not really a game. It's a cash delivery system, with you playing as the courier, your money the cargo, and Square Enix the unpaying recipient. After years of trying to monetize videogames, Square Enix has now moved on to monetizing customers themselves. It's cut out the irritating middle man that is the videogame, and found a way to simply get people to hand over money in exchange for nothing. That is what All the Bravest is. It's nothing. It's air. It's a thought. You're buying a concept in order to keep buying concepts.
+Final Fantasy All the Bravest is fucking disgusting.

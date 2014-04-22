@@ -1,0 +1,46 @@
+Special Forces: Team X looked to fill a certain void in the PC market. One without the joint effects of chest-high walls, competitive multiplayer, and a cover system. Mass Effect 3' s multiplayer helped bring third-person cover-based shooting to the PC, and it was good at best. I remember feeling as if it was pretty standard at the time. But then, oh how does the saying go? You don't know what you got ‘til…you play an absolutely terrible game that tries for the same thing.
+Yeah, that's how the saying goes.
+
+
+Special Forces: Team X (PC [reviewed], Xbox Live Arcade) 
+ Developer: Zombie Studios 
+ Publisher: Atari 
+ MSRP:  $14.99 (PC) / 1200 Microsoft Points (XBLA)
+Special Forces: Team X is a multiplayer-only, third-person cover-based shooter. It is the type of game that relies on established norms and tired design decisions to bring in an audience for a few months and then disappear forever.
+So there's shooting, and the shooting feels solid. Each gun is broken down into four stats: damage, recoil, spread, and accuracy. Holding down the fire button will, depending on the gun's recoil, force your cursor upwards, resulting in missed shots. Tapping the fire button is the most accurate way to dispose of an enemy and may take some time to master for those not hardened on shooting mechanics.
+Dying is swift in Team X , which emphasizes not only cover, but working as a team. The cover mechanics are okay, though far from perfect. Blind firing from behind cover is an option, and is sometimes necessary in certain situations. It is, however, impossible to slide along a wall with varying heights. Here's what I mean:
+
+Where the chest-high cover turns into a full-fledged wall, your character is prevented from moving. The character should automatically stand up once he reaches the larger portion and continue along the wall, not stop instantly once he reaches the end of the short wall.
+To combat this, the player must remove himself from cover, move over, then go back into cover, thereby making himself unnecessarily vulnerable. It is things like this that make the game feel unpolished. Snapping into cover does work well, at least.
+jEmbed JS API   VIDEO PLAYER   jEmbed SCRIPT  $sb("dest007_5b0a481db765299547302313d103b928", {
+	"sbFeed": {
+		"cname":"destructoid",
+		"partnerId": 357,
+		"type": "youtube",
+		"contentId":"pdC8sxNtw00"
+	},
+	"style" : {
+		"height":376,
+		"width":620
+	}
+});
+Teamwork is rewarded by a multiplier that increases while teammates are around. It works well and achieves what it is supposed to, but there's a big problem when working as a team: there is no option to use voice chat.
+Let me repeat: this is a teamwork-oriented game with no option for voice chat .
+Action in Team X is very fast-paced, so even if there were a way to type only to your teammates (there isn't) it would take too much time to say the likes of "cover me while I run ahead" or "make sure someone has our back." So, while it is easy to stay next to your teammates, it is almost impossible to work as a team.
+The unlock system is incredibly stilted and homogenizing. Leveling up happens at a decent pace, but the incentives for leveling up are mostly bland and uninspired. Pretty much every player uses the same guns at the same character levels. Even simple character aesthetic pieces are locked behind levels. You want to be Asian? Become level 12 first. Black? Better level up to 29! Want to play as a woman? Tough luck, buddy. But hey, at least you can choose between any type of camouflage right from the start!
+
+There are five game modes to choose from, but good luck finding a server with the one you want to play. If you don't want to play Team Deathmatch or Capture Point, the chances of finding a server with people in it plummet.
+High Value Target is probably the most interesting of the modes, where one player acts as the High Value Target (HVT). If the HVT dies, the player who killed him becomes the new HVT. The HVT earns three points for each kill, while his teammates earn two. The opposing team only earns one point per kill. It offers a nice back-and-forth experience, and since the maps don't allow for camping, it never becomes a standstill.
+Capture the Flag is exactly what it sounds like. Hot Zone is basically King of the Hill. With a slight exception of HVT, these modes are so paint-by-numbers and derivative that it is no wonder nobody plays them.
+
+The map system seems unique at first, allowing the players in a server to choose what each third of the map looks like. Voting is cast before the match begins, with majority ruling. In theory, this creates a unique map almost every time and prevents map knowledge from becoming an advantage. In practice, it's just the same few map sections smashed together, over and over again. Sure, the overall map is different each time, but the only part that's actually different is where the sections meet.
+Each section is exactly the same as the last time it was chosen, it's just in a different part of the map. I've memorized the map sections already, and the only thing I can't predict are the two areas of the map in which the three sections intersect. It doesn't feel like a unique map every time, it feels like the same boring sections repeated every time.
+
+There is a cavalcade of bugs and poor design elements all throughout Special Forces: Team X , and I'll do my best to list them all here.
+I've spawned in the same area of the map as an enemy when the round begins . The server browser cannot be sorted by players, mode, etc. Sometimes the server browser shows 15/16 players but when I join it, no one is in the server. There is no auto-team balance when teams become uneven in number or in skill. You can spawn on allies, but many times the game will put you somewhere else.
+When leveling up, the game says you have new unlocks but doesn't mention what they are, leaving you to search for them yourself. The perk to detect mines unlocks at level 3, but mines are not unlocked until level 38. Clicking "customize secondary" shows nothing but black bars . The perks are not listed in level order, or even alphabetically for that matter, but are instead seemingly thrown together using a dart board . The attack dogs' AI is completely broken . Oh, and a few days after release, my and many others’ stats were reset to level 1, with no indication as to why. Ugh.
+The game has a cartoony cell-shaded look, which looks nice in action and up close. The game is seemingly going for a light-hearted vibe, judging from some of the trailers and the visual style, though few things in the actual game resemble anything related to humor; it seems more like a façade than anything else.
+The sound effects are just as solid as anyone would expect. Guns go "rattatat tat," grenades go "kaboom," and beefy guys go "HEY I'M RELOADING!" when they reload. Oh, and the menu music is painfully, generically epic.
+
+I would hope that no one is so desperate for a third-person cover-based shooter on PC that they have to resort to playing Special Forces: Team X . It's bland, uninspired, unpolished, and borderline unfinished. The already paltry amount of players is sure to dwindle in the coming weeks and months, leaving Special Forces: Team X nothing more than a line in some unfortunate fans' Steam library.
+Special Forces: Team X offers nothing unique to the genre and is likely to leave players unfulfilled. What could have been an interesting, inoffensive multiplayer game turned out to be a buggy mess without so much as a hint of something fresh.

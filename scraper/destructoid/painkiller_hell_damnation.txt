@@ -1,0 +1,37 @@
+Eight years after its release, Painkiller has received numerous  expansions, mods-turned-retail-releases, and ports. Almost all of which  have been terrible and too stubborn to update the game. Nearing its  ten-year anniversary, here we are again with more Painkiller . 
+ 
+ Make  no mistake: This isn’t a celebration or reinvention. It’s a publisher  milking a great game for all it’s worth, even if the cow is skinny as a toothpick and its udders crusty  and dry. Yet, the milk is still smooth and sweet.
+OK, this metaphor is kind of gross and not going anywhere. Let's jump into the pr0f3ssional analysis, then!
+
+Painkiller Hell & Damnation (PC [reviewed], PlayStation 3, Xbox 360) 
+ Developer: The Farm 51 
+ Publisher: Nordic Games 
+ Release: October 31, 2012 [PC], January 22, 2013 [Xbox 360, PS3] 
+ MSRP: $19.99 
+ 
+ Rig: Intel i5-2500k @3.30 GHz, 8GB of RAM, GeForce GTX 580 GPU  
+ 
+ Before first-person shooters became rollercoaster rides, they were a gladiatorial sport.
+Circle-strafing is a lost art. Back when we still called them Doom -clones, first-person shooters brought twitch-based arcade action to the third-dimension. Managing six or more weapon slots, controlling crowds of enemies, and finding hidden areas were as important as accuracy. In today’s shooters, where win conditions are far more dependent on taking cover and relying on auto-aim, these skills are superfluous. 
+ 
+ For a brief time in the early ‘00s, two games managed to put an end to the belly-aching coming from old fans of the genre: Serious Sam and Painkiller . The former parodied Doom and took place mostly in large exteriors that even Quake 2 couldn’t render. Painkiller was much more faithful to Doom . It had demons, gore, and a variety of haunted indoor locales. It was a welcome shot in the arm for first-person shooters, but the series hasn’t been the same since.
+jEmbed JS API   VIDEO PLAYER 
+
+ 
+ Painkiller  was is a very well made game. The level design, enemy variety, and arsenal are among the best to ever grace a first-person shooter. The game expects you to master bunny-hopping -- it's hilarious when you see a co-op partner perform this maneuver -- and quickly switch weapons. With a keyboard, you’ll need to remap some buttons and practice stretching your fingers. With a controller … well, you’re a lost cause. While the game can be played with a 360 controller, it’s an awkward experience. Not only does the game not let you customize controls, the ones you are stuck with are just horrible. You have three different buttons for jumping, yet the D-pad only allows you to go one weapon forward or backward -- leaving down and up unused. Clearly, Farm 51 hasn’t played Doom on XBLA. 
+ 
+ Though I felt cheated, seeing that some of my favorite levels are missing from this collection, Farm 51 has done a bang-up job of cutting off the fat. Bad levels are missing but not missed, mouse-scroll now works properly, and there are buttons for immediate use of the Painkiller staff's alt-fire and stakethrower's grenades (read: melee + grenades buttons). These are small details that really change the game. Frantically applying the melee move makes ammo management much easier and crowd control more fun. By the time I worked my way through the game’s 14 levels, I was ready to start again on the hardest difficulty. And, yes, you did read that right: The game has 14 levels (one of which is a bonus level that currently has a game-breaking bug in it).  Compared to the original’s 24 levels -- not to mention the extra 10 from the Battle out of Hell expansion which Painkiller HD borrows from -- makes Farm 51’s meager offering questionable. 
+ 
+ Farm 51 brings some new enemies to the series, including one annoying shield wielding devil spawn that slows down the game and makes combat awkward at times. The best addition is the Soulcatcher, a gun that shoots saw blades that can cut through a line of weak enemies. It’s alternate fire is also useful, as it’s an ammo-free close ranged attack that slowly sucks away an enemy's health. Otherwise, this is Painkiller as you remember it. You go from arena to arena, wiping enemies out. It might sound boring, but the formula on display here makes it work. Exploding barrels and columns are always placed just right. I never grew tired or frustrating of Painkiller with this release, except when I met a boss.
+
+ 
+ Perhaps Painkiller wouldn’t be the same without the bosses, but I think that would be a good thing. Going into Painkiller HD , I completely forgot there were boss fights. This likely has more to do with repressing painful memories than being forgetful. The bosses in Painkiller are a real pain in the ass with their unavoidable attacks, obscure weaknesses, and way too much health. If I weren’t playing the game for review, these bosses would likely make me considering stop playing. Farm 51 hasn’t done anything to addresses these speed bumps throughout Painkiller 's asylums, cathedrals, and damned amusement park. 
+ 
+ Painkiller was once positioned to be the Quake 3 killer in eSports. That never happened but Farm 51 has tried to make good on the game’s multiplayer legacy. In addition to deathmatch (solo, duel, and team), HD adds Capture the Flag and Survival, a lame attempt at four-player horde mode. The biggest draw here is likely to be the co-op. You can now play the entire game with a friend, who will fill the role of a demon chick wearing a towel (don’t ask). The implementation of co-op is very sloppy. Not only do you not have any indicator of where your partner is in the map, progress with a friend doesn’t save at all. You can only go and play old levels again with a friend. I mean, what’s the point? 
+ 
+ Painkiller HD’s HD-ness comes from adopting the Unreal 3 engine. After eight years of using the same engine, it’s a welcome update. UE3 compliments Painkiller ’s dark, gothic world, adding more detail to enemy models and depth to the environments. However, it comes with a toll to frame rate that goes against the very nature of a twitch-based FPS. This didn’t negatively affect my experience but there was a noticeable difference. On the positive side, HD’s ragdoll physics are outstanding! It's hard to go back to the original once you see a line of zombies' limbs go flying all over the room.
+
+ 
+ Painkiller HD is an afternoon paintjob rather than a bold reconstruction of an iconic game. With far less levels and a lower frame rate, it’s difficult to recommend Painkiller HD over Painkiller: Black Edition (currently $10 on Steam). The addition of melee/grenade buttons, the Soulcatcher, and improved physics makes me want to stick with this HD upgrade, even if the cutscenes and bosses are still terrible. But, if I crave more Painkiller I'll load up the original for its map selection and faster action. 
+ 
+ If nothing else, Farm 51 has returned Painkiller to a title that people may no longer grimace at when they hear its name. After receiving much abuse from its original publisher, Farm 51 has put Painkiller back on its pedestal. Or, close enough.

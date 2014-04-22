@@ -1,0 +1,35 @@
+The problem with a game like Scribblenauts is that the promise of boundless freedom comes with strict boundaries. A game that promises you can conjure any item in existence to solve puzzles can be broken pretty simply in a world without rules, since electronic ninjas could theoretically solve any and all problems. Thus, rules are contrived, fences erected, and you find yourself not quite free as the bird you just created out of thin air.
+Not to mention, a game that tries to do so much has to cut corners somewhere to fit it all in. So it is that you end up with no distinction between a dragon and a wyvern, as items share models and traits, and ultimately you find that the limitless potential just got a hell of lot more limited in the journey from premise to practice.
+Scribblenauts Unlimited even promises infinite freedom in its name. As you might have already guessed, that promise is not fulfilled ... and perhaps even falls shorter than previous games in the series.
+
+Scribblenauts Unlimited (3DS, PC, Wii U [reviewed] ) 
+ Developer: 5th Cell 
+ Publisher: Warner Bros. 
+ Release: November 13, 2012 (3DS) / November 18, 2012 (Wii U) / November 20, 2012 (PC) 
+ MSRP: $39.99 (3DS) / $29.99 (PC) / $59.99 (Wii U) 
+
+For Scribblenauts ' big Wii U debut, Maxwell finds himself attempting to free his sister from a petrifying curse. The spell can only be broken by collecting Starites -- magical objects that are dropped in fragments by people whenever they're happy. Maxwell, atoning for an indolent life brought about by his magical summoning notepad, must use his scribbling powers for good and collect the Starites that appear as a result.
+It's a simple excuse to toss Maxwell into an "open world" of sorts -- and by that I mean a series of sidescrolling environments that are gradually unlocked and freely traveled to. Each environment is littered with people who have problems, which the player solves by conjuring objects based on the predicament at hand. For instance, if there's a cyborg who says he wants to look human, you simply write "wig," give it to him, and he drops a shard of Starite. Shark with toothache? Give him a dentist. There's not much more to it than that.
+jEmbed JS API   VIDEO PLAYER   jEmbed SCRIPT  $sb("dest007_3a134b45fe3b0c86311f57574a6904b7", {
+	"sbFeed": {
+		"cname":"destructoid",
+		"partnerId": 357,
+		"type": "youtube",
+		"contentId":"oHxaRMCmjT8"
+	},
+	"style" : {
+		"height":376,
+		"width":620
+	}
+});
+Unlike before, where specific puzzles were solved to get Maxwell to a Starite, the bulk of Unlimited is spent in this fairly simplistic fashion -- highlighting NPCs, working out what they need, and giving it to them. There are slightly more complex challenges, where Maxwell performs a series of tasks that tell a little self-contained narrative -- but they more or less follow the same pattern, and often basically just tell you what to write down before you do it. You may get a tiny bit of creative freedom in the type of object you draw, but the basic requirement is linear, explicitly suggested, and leaves no room to challenge the player's mind.
+Only once or twice did I ever get moderately stumped by vague clues or puzzles that required any form of thought. For most of the campaign -- which can be cleared in a handful of hours -- I was simply going through the motions, inputting words without having to think about them and watching the cute animations unfold as a result. For many of the larger challenges, your choices don't even influence the results -- for instance, if you're told to give an injured dinosaur a new tail, your decision to write, "Pink Fluffy Tail" won't be shown on the dinosaur afterwards. Attempts at creatively solving the challenges are an active waste of time.
+This problem lies at the bulk of Scribblenauts Unlimited . It's not actually worth it to be inventive. You have the option to do so much with Maxwell's notepad -- changing the size, temperament, and color of anything you desire -- yet doing so doesn't really matter. Applying adjectives to objects only really matters when the game outright tells you to apply adjectives to things, otherwise you're doing it for personal amusement -- amusement that doesn't arrive since, as stated, nothing matters. Even worse, it's entirely possible to overthink puzzles -- being too creative can render the object unrecognizable to the game. It's always best to keep it simple, dreary, and unambitious. Scribblenauts really wants to drag you down to its level.
+
+Unlimited takes advantage of the Wii U's online function to allow users to create and share their own creations. You can make a Smelly Wheeled Neon Dog or a Giant Supersonic Demonic Fly, and most of the time, you'll get a fun result. The depth of creation is greater than ever before, and includes some characters from the Zelda and Mario series for added amusement, but it all feels for naught in a game where these inventions are more pointless than ever before. Not to mention, it's all just a slight expansion on ideas that have already been in two games, so there's not exactly anything fresh to make up for a new and mundane campaign structure.
+One thing I do like is the cute character editor. As well as Maxwell, players can choose any one of his many, many siblings, and each sibling may serve as a base for personalized character avatars. Their clothing colors can be changed, limbs grown or shrunk to disproportionate sizes, and they can be named. This has no bearing on gameplay, but is nonetheless a cool little addition to the series and does go some way to providing a bit of added interest.
+
+Another waste of time is playing the game with the television switched on. You'll be using the stylus on the GamePad's touchscreen to do practically everything, from interacting with objects to writing down words. The vibrant, colorful game looks utterly gorgeous on a television, but you can only really play if you're looking at the Pad, so it's not worth looking at.
+
+Scribblenauts Unlimited still serves some purpose as a playground of silly ideas, and it still has a measure of charm left over from its original incarnation, but when it comes time to actually play it, this is the most boring and monotonous game in the series. Anything it does well was already done in the portable installments, and the new structure is utterly tedious. With Unlimited , 5th Cell had an opportunity to greatly expand on a brilliant idea and bring us something truly groundbreaking. This opportunity was squandered, and the result is a game that can't hope to live up to the lofty promise of its own name.
+Boundless freedom? Scribblenauts Unlimited doesn't even try to drag itself out of the holding pen.

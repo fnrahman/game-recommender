@@ -1,0 +1,22 @@
+Might & Magic: Clash of Heroes is one of the best puzzle RPGs to come out of a generation full of puzzle RPGs.
+Capybara Games had a huge hit on its hands when the studio combined the addictive qualities of Critter Crunch with a highly reputable existing IP, and added a few tweaks. Instead of focusing entirely on attacking the enemy, defensive capabilities were built into core gameplay, which forced you to think about multiple strategies on a constant basis.
+The departure from the one-sided style of gameplay wasn't the only ace in the hole, however, as the amazing artwork was also a huge plus. But now, that artwork is on a tiny screen, without the aid of a stylus for precision movements, without the direct developmental work of Capybara. The results...are a bit mixed.
+
+Might & Magic: Clash of Heroes (Android, iPhone [reviewed on an iPhone 4]) 
+ Developer: Tag Games 
+ Publisher: Capybara Games 
+ Released: January 24, 2013 (iOS), TBA (Android) 
+ MSRP: $4.99
+Since Jordan already did a great job explaining the basic game mechanics in his full review , I'll mostly stick to the pertinent details of the mobile version here.
+For those who haven't experienced this franchise yet, but recognize the " Might & Magic " moniker, the setup is pretty simple. This game is a prequel for the game Heroes of Might and Magic V , which follows the Ubisoft continuity for the franchise, after they took over for New World Computing.
+To be clear, this version is not a full-on Capybara Games joint -- this is a port by the mobile developer Tag Games. For the most part, the actual content of the original is pretty much 100% intact. You'll find all of the dialogue, characters, story, artwork, and other happenings untouched.
+Combat functions pretty much the same, with players selecting units to switch up in battle, and tapping a button to call in reinforcements. While it's not a major issue for me, keep in mind that the game has to be played in landscape mode.
+Since the core gameplay is turned-based, control mishaps in this sector are a bit more excusable. Although it can be a bit difficult to grab and move units around at will, you have all the time in the world to do it, and for the most part, it works. It would have been nice if there were an "undo" function though, for people that have issues acclimating to the touch environment.
+jEmbed JS API   VIDEO PLAYER 
+The portion of the game where the controls are most frustrating is everything outside of combat. Simply put, the hitboxes for menus are extremely small. You basically need to take your nails (if you have any), and precision tap exact hitboxes to select menu options consistently.
+When you're moving around the map, and in just about every menu in the game, your taps are extremely inaccurate. One of the most frustrating things I encountered is the pause button, which almost never works in battles if you need to set your phone aside or exit your current game. Choosing options when starting up a game can also be a nightmare.
+You might also notice frame-rate issues from time to time, like I did on my iPhone 4. Although it's easy to blame a lack of the latest hardware, Clash of Heroes is supported as far back as iPhone 3GS, so it's just something to be aware of.
+
+Outside of the main campaign, there's also Quick Battle, Pass & Play, and online play options. Quick Battle is basically a one-on-one with the AI, and functions essentially the exact same as an end-game fight in the main story. Pass & Play is just how it sounds, and lets you rock out a 1v1 fight locally, Advance Wars -style. The game's online mode is about what you'd expect as well, but  one has to wonder how long the mobile version's legs are compared to  say, Xbox Live, or Steam.
+In typical mobile fashion, an in-game store is available where you can buy extra content for real money. Thankfully, it isn't really an issue of taking advantage of people through pay walls, as all in-app purchase options are for unlocking different factions in multiplayer -- which can also be unlocked entirely by progressing through the game. Additionally, this mobile version also supports Ubisoft's uPlay ecosystem, if you're into that.
+Although outsourcing to Tag Games was probably a smart business move, I can't help but think how picture-perfect Clash of Heroes would have turned out if Capybara had done it themselves. With a lot of polish in terms of the controls through a future update, this could be one of the finest games on the App Store. Otherwise, just stick to the other incredible versions if possible.

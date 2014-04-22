@@ -1,0 +1,36 @@
+If I described Kentucky Route Zero as an episodic point-and-click, I'd be selling it short. Sure, it's episodic -- and, yeah, you move your mouse to point and click, but this game is something else. Something bigger. Something better .
+Kentucky Route Zero is story-driven, filled with intrigue and atmosphere. It also manages to pique my interest in its world and universe more than Telltale's The Walking Dead ever did.
+
+Kentucky Route Zero  (Windows [reviewed], Mac, Linux [beta]) 
+ Developer: Cardboard Computer 
+ Publisher: Cardboard Computer 
+ Release: January 7th, 2013 
+ MSRP: $25 (All acts) / $7 (Act 1)
+Kentucky Route Zero opens with protagonist Conway arriving in his truck at a Kentucky gas station. He has to make a delivery to Dogwood Drive, you see, and he needs a little help finding out exactly how to get there. If the locals are as trustworthy as they are kindly, then one can infer he needs to take The Zero.
+It's not long before things become bizarre.
+jEmbed JS API   VIDEO PLAYER   jEmbed SCRIPT  $sb("dest007_cc999eb03b256138e14d36c733664cda", {
+	"sbFeed": {
+		"cname":"destructoid",
+		"partnerId": 357,
+		"type": "youtube",
+		"contentId":"gGQOaz1xFOo"
+	},
+	"style" : {
+		"height":376,
+		"width":620
+	}
+});
+Gameplay is traditional for a classic adventure game. Clicking on an area will move Conway and interactive objects are clearly displayed. I didn't meaninglessly click on every pixel just to see what can and cannot be used. Also, there aren't any skill games or puzzles. Nope, this is just a straight up, good ole' fashioned story. What a story it is shaping up to be, too!
+Without spoiling anything: each encounter in Kentucky Route Zero is memorable. Some are odder than others, but each and every one left a footprint in my brain that left me with more questions than answers. The universe that Kentucky Route Zero creates is one that makes me want to wander about and see the sights until that warm southern sun sleeps below the horizon.
+The excellent writing throughout the game creates quite the memorable cast of characters. Heck, even the dog, who has no lines, is such a great character simply by the way it is used, allowing Conway to reflect on a situation as he talks aloud to his canine companion.
+It's up to the player to choose what Conway will say with each interaction, though the overarching plot remains unaffected by these actions, so far. It's more like taking on the role of an actor or even a director, allowing the player to say what just comes natural.
+
+After the first scene, the road map becomes available, allowing travel to new destinations. It is literally a GPS-esque road map that the player, indicated by a giant wheel, traverses by clicking where to go next. While the next destination is written in a handy dandy "Notes" section, with specific directions on where to go, you are free to roam about the map. Doing so will occasionally uncover a few extra events.
+A few of these events stood out due to the way they are conveyed. While most of the game has the player clicking around a 3D environment to move and interact with objects, sometimes the game breaks down into what is more or less a text adventure. These sections are just as well written as the rest of the game, but they seem out of place.
+At first I thought maybe it was a sign of laziness on the developers' part. But when I really put some thought into it, I started supposing that it had to be intentional. Perhaps a homage to the adventure genre's roots. Perhaps there are some characters, locations, and other details that the developer want the player to use imagination to conjure up, instead of whatever 3D model they display.
+
+Atmosphere is what it is all about in Kentucky Route Zero . Everything from the bleak visuals to the calming, yet ominous sound effects evoke a poignant sense of place. The visuals are often very dark and the simplistic 3D models of the characters do enough to give personality while leaving the slightest bit to imagination.
+The sound effects are subtle and at the same time realistic. It's a good thing they are realistic too, because sometimes they will be the only real thing you can hold on to. The score is especially solid, striking the exact tone just when it is needed. One track in particular is sure to keep you humming days later. It's got a very southern feel to it, with a bit of bluegrass and a bit of gospel combined into one.
+
+I did encounter a strange glitch that where Conway walked through a wall, but it took me a second to wonder if it was actually a bug or just another oddball moment. I'm pretty sure it was a bug. That's the beauty of the game. Even a bug that would normally break immersion and potentially ruin the experience had me contemplating whether or not it was meant to happen. To be honest, I'm still not really sure.
+Kentucky Route Zero evokes the feeling of old ghost stories told around a campfire. There's the familiarity of friends and family around a warm, man-made fire, but with it comes the unnerving tale of the strange and unusual. It is beautifully bizarre and perfectly poignant, and most of all, deserves your attention.

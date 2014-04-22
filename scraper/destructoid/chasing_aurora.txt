@@ -1,0 +1,32 @@
+I knew nothing about Chasing Aurora when I bought it. It won my money by being in the right place at the right time, as I needed to purchase something from the Wii U eShop and test out Nintendo's digital distribution efforts. It looked charming enough, and it wasn't $59.99 -- good enough for me.
+That may be how this game seeks to earn a majority of its cash, since it's been rather lost in the bustle for attention that has been the Wii U's launch lineup. To its credit, it's a neat little game that makes great use of the Wii U's "asynchronous multiplayer" capabilities -- that's what developers are calling it, anyway.
+Still, even at a mere $15, Chasing Aurora may be too expensive for what it is.
+
+Chasing Aurora (Wii U) 
+ Developer: Broken Rules 
+ Publisher: Broken Rules 
+ Release: November 18, 2012 
+ MSRP: $14.99
+Chasing Aurora is a competitive game for up to five players, in which cute mutant bird people engage in a variety of airborne playground games. Supporting Wii Remotes and the GamePad, the aim is for some players to act as the aggressors, while the others avoid their wrath. There is a small selection of games, all of which play on this single idea.
+One such game is Hide and Seek, in which the GamePad user flaps around the arena and attempts to hide from the Wii Remote users, keeping off the television screen and ducking behind trees to avoid detection. Another has the GamePad player as an ice bird, charged with tracking down and tagging opponents by flying into them. The final mode, Chase, is ostensibly a game of "keep away" as players race to grab a shiny object and hold onto it for a set amount of time, stopping other players from touching and retrieving it.
+jEmbed JS API   VIDEO PLAYER   jEmbed SCRIPT  $sb("dest007_46d578bd8d1bb6913b7c11fe9ced94e0", {
+	"sbFeed": {
+		"cname":"destructoid",
+		"partnerId": 357,
+		"type": "youtube",
+		"contentId":"Bv6ppkmcUEs"
+	},
+	"style" : {
+		"height":376,
+		"width":620
+	}
+});
+These games can be mixed and matched into tournaments, with players swapping the GamePad around for an even crack at the scoreboard, and there's a decent selection of colorful arenas to play in, sometimes featuring environmental hindrances such as strong blasts of wind, sneakily placed rocks, or lightning strikes.
+Controls are simple, with the left stick doing most of the flying, a button to flap wings for extra speed, and one to dive in order to quickly drop latitude. The minimalistic control layout is efficient, providing all you need to take your childhood schoolyard memories into the air. With a charming visual style, and some really nicely designed characters, Chasing Aurora is very difficult to dislike.
+
+As well as multiplayer, a series of solo time trials are on offer, giving players the task of gliding through a series of gates and trying to wrack up as a big a score as possible. There are twenty courses, but they can all be cleared very quickly, and playing alone is dull enough to where I can't imagine many would want to go back and replay them. All you end up doing is circling around some small arenas for as long as you can, and it's safe to say that doing so isn't particularly enthralling.
+Brevity may be the soul of wit, but it doesn't always make for a compelling game, and it sadly has not worked for Chasing Aurora . While the games are quite fun, the sheer lack of content on offer is disappointing. You can see everything the game has to offer in an hour, and the lack of nuance or dynamism to the game types ensures that, as amusing as it is for a while, everything gets dull fairly quickly. No matter which game you select, they're only very slight riffs on a single concept, and the pace never intensifies beyond its laid back beginnings.
+Some lengthy loading times hold back the experience a little, too. The game boots with a sizable wait, and it can take a while to load each individual match. It's a shame, because the simple 2D visuals are great, and there's some really nice music. I don't know what it's doing that requires so much loading, though.
+
+As a disposable game costing a few dollars, Chasing Aurora is something I'd recommend wholeheartedly. As a game that presents itself as worthy of standing alongside the biggest and best digital console offerings, and prices itself accordingly, this hopeful little number is left desperately wanting. While it's good for a little bit of innocent, inoffensive amusement, it just offers nowhere near enough to justify an immediate purchase. You'll likely be done with it within sixty minutes, and there's not a lot to go back to.
+It's a shame, because Chasing Aurora really ain't that bad at all. For all that it has, it's just not good enough.

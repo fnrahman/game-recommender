@@ -1,0 +1,32 @@
+I'll admit, I've struggled to keep up with the Transformers brand since Generation One. I've played the High Moon Studios games, and loved them, but the TV shows have been something of a blur to me -- be it Armada , Animated , or Prime , I'm yet to get into any of the modern incarnations.
+I wondered if maybe playing Transformers Prime: The Game would get me interested in the show. That's a lie. I knew it wouldn't, and fully expected it to be awful.
+You're reading this right now, fully expecting it to be awful, and for a pointless, albeit satisfyingly critical, review of a game you do not intend to play.
+Let me confirm right now that this review isn't going to surprise you in the least. Transformers Prime is everything you expect it to be, and nothing good.
+
+Transformers Prime: The Game (Wii, Wii U [reviewed]) 
+ Developer: Nowpro 
+ Publisher: Activision 
+ Release: October 4 (Wii), October 18 (Wii U) 
+ MSRP: $39.99 (Wii) $49.99 (Wii U)
+Transformers Prime is about as basic as a game can get. Its levels typically run between two and four minutes, consisting either of remedial brawling or on-rails vehicular sections. Usually you get about forty to sixty seconds of gameplay buffered by brief and pointless cutscenes, themselves lasting seconds long. The lengthiest stage clocked in at around seven minutes, and only because the final boss' health meter took a long time to drain. The battle itself was as good as won several minutes before then -- watching the health bar reduce was little more than busywork.
+Easy, lasting maybe two hours long, Transformers Prime 's campaign almost goes out of its way to look, sound, and play like the cheap, disposable cash-in it is. It exists for the sole purpose of making money from fans, and does nothing to hide its intentions. At only a mere 120 minutes, Prime is too long, for as repetitive and slow as it is, a running time of thirty minutes could only improve one's sentiments toward it.
+Starring one of several predetermined Autobots, each level consists mostly of simplistic button-mashing combat across a series of tiny, unfurnished arenas. Characters perform uncomplicated attacks consisting of pressing either the A or Y button up to three times in various combinations, and can lock to fire a barrage of weak gunfire with the shoulder buttons, or double tap to charge a slightly stronger blast. An obligatory power meter fills with each attack, allowing a temporary "upgrade" mode which delivers more powerful blows. Due to the lousy targeting, attacks frequently miss, or pass harmlessly through opponents. This doesn't matter, because the game is so easy you'll barely feel pressure to keep up the attack. In fact, some fights can be won simply by locking on and holding the fire button until everything's dead.
+jEmbed JS API   VIDEO PLAYER   jEmbed SCRIPT  $sb("dest007_0ae65d6f9b6b35e1db071691fbf9bf9e", {
+	"sbFeed": {
+		"cname":"destructoid",
+		"partnerId": 357,
+		"type": "youtube",
+		"contentId":"0byjpAkGIUs"
+	},
+	"style" : {
+		"height":376,
+		"width":620
+	}
+});
+Every so often, you'll encounter a boss battle against one of the Decepticons, who try to scupper your progress with predictable and repeated attack patterns, or shields that are broken by transforming into a vehicle before performing a melee attack to turn into robot form with a powerful smash. There are also linear vehicular chases which require the GamePad to be tilted left and right in order to avoid sparse obstacles. The motion control is as responsive as the vehicles are fast -- not very. There are many mobile racing games with tighter controls and better paced action, available at a fraction of the price.
+Is Transformers Prime for children? Probably. Is it unnecessarily cruel to review it? Perhaps. It did, however, arrive unbidden at my doorstep and so I'm duty bound to do something with it. I don't want to write this review. Do you even want to read it? Like the aforementioned final boss of this game, this review was over as soon as it began, and the droning, monotonous attack simply keeps occurring as a matter of formality. With each word, Transformers Prime 's health bar drains, our own remains so full of life that we could only fail if we chose to consciously do so. It's at this point the metaphor falls apart.
+There is a multiplayer mode, but before you ask who would waste their time going online with it, don't bother -- not even Activision bothered. The multiplayer mode is local only, pitting two players against each other in mindless brawling battles. A range of both Autobots and Decepticons can be chosen, though their attacks are all randomly imbalanced and the vehicle modes of flying transformers are useless, given how it's impossible to target opponents as a jet. Balance, of course, was not the goal here -- like the game itself, this mode exists for no reason other than its own sake.
+
+Graphically, things look terrible, and I suspect Prime 's little more than a sloppily upscaled version of the Wii alternative. It certainly looks like it, with its lack of textures, threadbare environments, and unimpressive animation. Not only is this game a cheap licensed brawler, it's a cheap HD port of a cheap licensed brawler. Now that's some serious respect for the Wii U.
+The highest praise one can afford this game is that it's playable. It's not broken, nor is it really that offensive. It's just a condensed exercise in bromidic game design, a brief waste of time squirted out of some mercenary developer's squalid hole. It's not terrible enough to be memorable, not good enough to justify your attention, it's just sat there, a stale dumpling on a dirty plate. I would hope even children are more discerning in their tastes than this, but we cannot know that for sure.
+All I know is, if your idea of a brilliant joke is hearing a robot say "scrap" instead of "crap" every few minutes, Transformers Prime is for you. Not only does it perform that exact joke with that same regularity, your laughing at it qualifies you as stupid enough to think Prime is worth money.
