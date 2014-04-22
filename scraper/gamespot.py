@@ -42,15 +42,11 @@ def scrape_review_text(url):
 		print title
 
 		review_section = soup.find('section', attrs={'itemprop':'description'})
-		print "3"
 		plist = []
 		paragraphs = review_section.find_all('p', recursive=False)
-		print "4"
 		for p in paragraphs:
 			plist.append(p.getText().encode("utf8","ignore"))
-		print "5"
 		filename = title + '.text'
-		print "6"
 		file = open(os.path.join(DUMP_DIR, filename), 'w')
 		file.write('\n'.join(plist))
 		file.close()
