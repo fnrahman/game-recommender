@@ -20,6 +20,7 @@ def construct_urls():
 STARTING_URLS = [START_URL + l for l in construct_urls()]
 
 def spider_reviews_list(url):
+	print "~~~~ ON PAGE " + url + " ~~~~"
 	response = requests.get(url)
 	soup = BeautifulSoup(response.content)
 	reviews = soup.find('ul', attrs={'class', 'game_list'}).find_all('div', attrs={'class':'body'})
