@@ -16,10 +16,12 @@ DUMP_DIR = os.path.join(os.getcwd(),'gamespot')
 def construct_urls():
 	# Pages range from 1 <= to <= 644
 	# remember that range(x,y) goes from x <= n < y !!!
-	# 1 - 4 done
-	# 4- 11
-	# 11- 26
-	l = map(str, range(1,26))
+	# 1 - 6 done
+	# 6 - 11 done
+	# 11- 26 done
+	# 26 - 51 done
+	# 51 - 76 done
+	l = map(str, range(76,101))
 	return l
 STARTING_URLS = [START_URL + l for l in construct_urls()]
 
