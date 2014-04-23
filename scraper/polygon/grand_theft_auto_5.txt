@@ -1,0 +1,149 @@
+With Grand Theft Auto 5, developer Rockstar North aspires to re-establish GTA as the most important video game franchise in the world, to further raise the bar, the budget, the breadth of experience of the big games.
+
+
+
+
+
+
+article .video { width: 100%; max-width: 100%; }
+#helisequence { 
+  -webkit-transform: translateZ(0);
+  -moz-transform: translateZ(0);
+  -ms-transform: translateZ(0);
+  -o-transform: translateZ(0);
+  transform: translateZ(0);
+}
+<!--
+$(function() { 
+// if this is a touch device, we exit early and just replace everythign with static
+// images via SASS
+if (Vox.Environment.touch()) {
+  return;
+}
+var $cars = $('#cars');
+var cars_video = $cars.get(0);  
+var cars_video_handler = function(direction) {
+  if (cars_video.paused) {
+    // chorus fucks these values up if we define them in markup.  instead,
+    // we force them here via javascript
+    cars_video.currentTime = 0;
+    cars_video.playbackRate = 0.5;
+    cars_video.loop = true;
+    cars_video.play();
+  } else {
+    cars_video.pause();
+  }
+};
+
+$($cars).waypoint({
+  handler: cars_video_handler,
+  offset: '100%'
+});
+
+$($cars).waypoint({
+  handler: cars_video_handler,
+  offset: function() {
+    return -$(this).height();
+  }
+});
+
+var $seq;
+var seq_frames;
+var seq_prefix;
+var seq_lastscroll = 0;
+
+var scrollHandler = _.throttle(function(e) {   
+    var st = $(window).scrollTop();
+    var up = st < seq_lastscroll;
+    seq_lastscroll = st;
+    console.log(seq_lastscroll);
+    var currentFrame = parseInt($seq.data('currentFrame'), 10);
+    currentFrame = currentFrame + (up ? -1 : 1);
+    if (currentFrame > seq_frames || currentFrame < 0) {
+      return;
+    }
+    $seq.attr('src', seq_prefix + currentFrame + ".jpg");
+    $seq.data('currentFrame', currentFrame);
+  }, 50);
+
+// load image sequences
+var activateSequence = function($elem, reverse) {
+  seq_frames = parseInt($elem.data('sequence-frames'), 10);
+  seq_prefix = $elem.data('sequence-prefix');
+  $elem.data('currentFrame', reverse ? seq_frames : 0);
+  $seq = $elem;
+  $(window).on('scroll', scrollHandler);
+};
+
+var deactivateSequence = function($elem) {
+  $(window).off('scroll', scrollHandler);
+};
+
+$(".image-sequence").each(function() {
+  var $img = $(this);
+  var frames = $img.data('sequence-frames');
+  var prefix = $img.data('sequence-prefix');
+
+  //preload frames
+  for (var i = 0; i <= frames; i++) {
+    $("<img />").attr('src', prefix + i + ".jpg").appendTo('body').hide();
+  }
+
+  $img.waypoint({
+    handler: function(direction) {
+      // up is user scrolling up out of view
+      // down is user scrolling down into view
+      if (direction == 'up') {
+        deactivateSequence($img);
+      } else {
+        activateSequence($img, false);
+      } 
+    },
+    offset: '100%'
+  });
+  $img.waypoint({
+    handler: function(direction) {
+      // up is user scrolling up into view
+      // down is user scrollin down out of view
+      if (direction == 'up') {
+        activateSequence($img, true);
+      } else {
+        deactivateSequence($img);
+      } 
+    },
+    offset: function() {
+      return -$(this).height();
+    }
+  });
+});
+
+
+});
+// -->
+The impact of 2008's Grand Theft Auto 4 and its predecessors can be seen in practically every AAA release and AAA game studio. The blockbuster game is what it is because of the Grand Theft Auto series' astonishing financial, critical and cultural success.
+Grand Theft Auto 5 is the culmination of the series, Rockstar's catalogue and arguably the entirety of AAA video games, which have become bigger and more expensive since the release of Grand Theft Auto 3 over a decade ago. The achievement of Grand Theft Auto 5 is its consistent quality. That's what makes its world feel so believable — there's almost nothing that will pull you out of it.
+Almost.
+Grand Theft Auto 5's stupendously large setting surpasses the game's well-drawn lead characters and brilliantly planned heists, and overcomes the script's snarky cynicism and spotty sexism. The fictional sun-bleached state of San Andreas is a technical achievement, a farewell kiss to this generation of consoles and the millions who own them.
+Unlike Grand Theft Auto 4, which took place in the claustrophobic corridor of Liberty City high-rises, Grand Theft Auto 5 sprawls across a broad set of counties, mimicking Los Angeles, its suburbs, the Nevada desert, upstate California and dozens of miles of underwater Pacific coast, each hiding behind a cheeky pseudonym — Los Angeles is now Los Santos, for example.
+
+The geographic and demographic scope of San Andreas resolves a number of the series' oldest and most repeated problems, namely a too-tight focus on lampooning city stereotypes and a lack of interesting things to do (the series has never been in short supply when it comes to meaningless junk). For the latter in particular, Grand Theft Auto 5 is the video game equivalent of an all-inclusive tour package. It offers a bottomless checklist of things to do, such as jet-skiing, off-road racing, bank-heisting, waterboarding, tennis playing, shopping, car upgrading, weapon modifying, flight schooling, train stealing and star touring, to name just a few.
+The hodgepodge of locales also has allowed Rockstar to lampoon a larger swath of Americans than the cosmopolitans who typically live at the center of the Grand Theft Auto stories. The franchise is still relentlessly cynical about the American experience — the college freshman worldview has plagued the series since 2001 — but Grand Theft Auto 5 is mercifully more lighthearted than its predecessors, and even occasionally vulnerable, thanks in large part to its broader stable of characters.
+Grand Theft Auto 5's inclusion of multiple protagonists makes considerable headway in the series' struggle to sustain a narrative thread over more than 30 hours of story. The three leads share the central storyline, but also have their own handful of conflicts that, over time, weave in and out of the broader picture. It's a television-style serial structure, with missions playing out like episodes, the entire game a season. Now, dozens of characters and conflicts help to shoulder the burden.
+Better yet, a single character no longer has to act as a narrative catch-all for the variety of mission types the game throws at the player. Appropriate missions are served to the most fitting character. Big-shot Hollywood missions go to Michael, a 40-something reformed criminal millionaire going through a midlife crisis. Low-level crime goes to Franklin, a disenfranchised up-and-comer conflicted about which side of right and wrong he falls on. And mayhem belongs to Trevor, a sociopath who loves to kill people and blow up expensive things.
+The characters only do missions you'd expect of them, so it's easier to buy them as people working within their own problems and limitations. They aren't driving taxis, going bowling and assassinating a gang leader the same hour. But it's the ability to swap between the three characters on the fly throughout most of the game that elevates Grand Theft Auto 5's trifecta of anti-heroes above gimmickry.
+A nifty visual sequence — reminiscent of zooming out and in on Google Maps — transports you from the location of one hero to the location of another. And this basic mechanic underpins the gameplay pillar that holds the whole thing up: heists.
+Grand Theft Auto 5 is the first game in the series explicitly about theft since the original 2D iterations of the 1990s. Over the course of the game, the three men are tasked with a number of increasingly insane and death-defying heists. They're a thrilling high point, and wouldn't be possible without the game's dramatically improved shooting and driving mechanics.
+Magnitude of scope is a staple of Grand Theft Auto, but here, for the first time, is the actualization of Rockstar's original intent: This a believable facsimile of a living world — not a one-for-one simulation, but close enough.
+The locale is a meticulous blend of the macro and the micro. When landing a helicopter, for example, the detail of the world reveals itself in layers: first, the broad panorama of the county; then, the silhouette of the Los Santos skyline; the careful architecture of a single restaurant; the street scene at the front entrance; and finally, the woman passing by, complaining into her cell phone about not landing a role in some drivel television show, her high heels making that distinct click.
+Many buildings can be seamlessly entered, and feature ornately decorated interiors befitting their residents, a personal favorite being the tacky stencil text in a young woman's apartment. Neighborhoods and counties house different stores, shops, vehicles and people. No square mile feels alike.
+Before each heist, the game offers a number of choices: whom to hire, how to break in, how to get away and so on. It's inspired — heists imbue the filler missions with a needed sense of purpose. Stealing a car, buying masks and learning how to upgrade weapons all become integral steps to a bigger job. Choices have small impacts (a cheap recruit might bail or grab a cruddy getaway vehicle) and large ones (how you break into a location can mean the difference between an assault from ground, air or sea). After some poor planning, I found myself escaping one mission via family hatchback while wearing a cartoonish pig mask. This emergent variety is already tempting me to restart the whole adventure all over again.
+Heists also benefit a hundredfold from the aforementioned ability to switch between the three leads. During a heist, the swapping option drops the Google Maps transition sequence, so you can switch between the three protagonists from second to second, seamlessly. The result is akin to film editing, with the player serving as editor, switching rapidly to the most interesting perspective for any moment.
+In one minute of a heist, I swapped between Franklin commandeering a tractor, Michael dispatching snipers and Trevor unloading a rocket launcher into a pickup truck. Swapping so drastically improves the pace of Grand Theft Auto 5 that I can't imagine the series moving forward without it.
+Swapping even aids in basic character development, always plopping you into some mundane but suggestive moment in the leads' day-to-day lives. When I plopped into Michael's world to find him sipping on whiskey and watching a classic movie, I felt like this person existed even when I wasn't playing as him.
+Little touches like this, little moments that reveal lots of character, helped me empathize with characters who are, overall, psychotic criminals. We see, if only for a few seconds, what they do in their off time. Killers, they're just like us! They eat ice cream, too!
+All of Grand Theft Auto 5's leads are deeply unsatisfied in their own ways. Crushed by the monotony of life or the thumb of the system, they seek adventure, money and mayhem. Rockstar demonstrates real progression for the series narratively and in characterization, and for open-world games in general — unless that character is or involves a woman.
+There are more interesting female characters on Grand Theft Auto 5's disc art than there are in Grand Theft Auto 5; the female cop and female criminal printed onto the disc are never seen in the game's vast world.
+I counted roughly (and generously) six semi-important female characters in the game, maybe a couple more if I include the occasional quest giver or victim of theft. None are playable. All but one are shrill buzzkills; the latter has Stockholm syndrome. And the two grisliest murders in the game happen to women. One side story involves the persistent and unsettling harassment of an absent female character, the purpose of which is to show the cruelty of Trevor, but which goes upsettingly far beyond what feels necessary to the story.
+While most of Grand Theft Auto 5 feels like an evolution of the blockbuster video game, its treatment of women is a relic from the current generation, which is too often fixated on bald men and big breasts. In terms of landscape and architecture, San Andreas is the most realistic virtual world I've visited, but the population is aggressively, comically, distractingly male. I cannot think of any piece of media more fascinated with the male phallus.
+The size and the use of the penis is discussed with fervor and frequency. By the time I literally tattooed a turgid member onto a man's chest, I could hear David Mamet groaning from whatever bridge he currently lives under. Other moments are even more egregious in subverting the game's comic, winky tone, taking Grand Theft Auto in disturbing, uncomfortable directions. One scenario asks the player to swap between slowly torturing one Middle Eastern man and racially profiling another.
+The script plays it for laughs. I felt nauseated.

@@ -1,0 +1,72 @@
+"Because I said so."
+
+It's a perennial parental favorite, capable of answering "Why?" without really answering "Why?" Broken Age's lead duo Vella and Shay may be separated by space and time but they're united by their inability to accept that classic deflection as an answer.
+That tendency to challenge "Because I said so" is the catalyst for Broken Age, Double Fine's lovely, funny new adventure.
+Well. Half an adventure. But we'll get to that.
+As thrilling as it sounds being the sole human inhabitant of a galaxy-hopping spaceship, teenage Shay is bored. He's eating the same food every day. He's seeing the same views. The automated "missions" he's sent out on — like saving helpless villagers trapped in an ice cream avalanche by eating them to freedom — were made to entertain the child he no longer is.
+
+
+<!--
+// Adapted from https://gist.github.com/paulirish/1579671 which derived from 
+// http://paulirish.com/2011/requestanimationframe-for-smart-animating/
+// http://my.opera.com/emoller/blog/2011/12/20/requestanimationframe-for-smart-er-animating
+
+// requestAnimationFrame polyfill by Erik M&ouml;ller.
+// Fixes from Paul Irish, Tino Zijdel, Andrew Mao, Klemen Slavič, Darius Bacon
+
+// MIT license
+if (!Date.now)
+    Date.now = function() { return new Date().getTime(); };
+(function() {
+    var vendors = ['webkit', 'moz'];
+    for (var i = 0; i < vendors.length && !window.requestAnimationFrame; ++i) {
+        var vp = vendors[i];
+        window.requestAnimationFrame = window[vp+'RequestAnimationFrame'];
+        window.cancelAnimationFrame = (window[vp+'CancelAnimationFrame']
+                                   || window[vp+'CancelRequestAnimationFrame']);
+    }
+    if (/iP(ad|hone|od).*OS 6/.test(window.navigator.userAgent) // iOS6 is buggy
+        || !window.requestAnimationFrame || !window.cancelAnimationFrame) {
+        var lastTime = 0;
+        window.requestAnimationFrame = function(callback) {
+            var now = Date.now();
+            var nextTime = Math.max(lastTime + 16, now);
+            return setTimeout(function() { callback(lastTime = nextTime); },
+                              nextTime - now);
+        };
+        window.cancelAnimationFrame = clearTimeout;
+    }
+}());
+
+$(function() {
+var master = $('video.master-sync').get(0);
+var $slaves = $('video.slave-sync');
+var sync = function() {
+  //console.log("'N Sync");
+  if (master.readyState === 4 ) {
+    $slaves.each(function() {
+      if (this.readyState === 4 && this.currentTime !== master.currentTime) {
+        this.currentTime = master.currentTime;
+      }
+    });
+  }
+  window.requestAnimationFrame(sync);
+};
+sync();
+});
+// -->
+
+
+
+It's all an illusion, one created by the overprotective AIs that look out for him, "Mom" and "Dad." As the ship searches for a new home for Shay, he becomes increasingly frustrated with his current one and he begins to wonder if there's not something a little more exciting than ice cream outside the confines of his ship.
+
+Fellow protagonist Vella would probably be thrilled to swap with Shay and his cushy, rainbow-colored prison. In fact, she'd be happy to be anywhere other than her home of Sugar Bunting — Broken Age opens as Vella prepares to be sacrificed as an amuse-bouche for the demonic, gargantuan Mog Chothra.
+Stuffing the beast with young girls is a tradition, designed to buy peace for the village in exchange for a few spare debutantes. But Vella, understandably, can't help wondering "Why don't we just kill the damn thing?"
+The narrative connection between these two is completely opaque as the game begins, and there's no mechanical reason to swap — the two stories have no discernable impact on each other. You could theoretically play the story of one character to completion before switching. But I found swapping a great way to take a breather on a puzzle I was stuck on, a welcome addition for an adventure game of this kind.
+And what kind of adventure game is this? Well, classic, for lack of a better term. Click where you want your character to go, find an item, figure out how to cleverly use it in the world, move forward. Save an absence of verb-specification (that's all handled contextually) Broken Age isn't that different than the games Double Fine founder Tim Schafer and his team have been making for decades.
+That's deceptively reductive — as we've seen many times before, that simple formula can go very badly. Broken Age skirts that fate with really well-balanced and smart puzzles that are never so obtuse as to require a hint system — which is good, since there isn't one to speak of — but challenging enough that I took my fair share of breaks to stare at the ceiling and pray for more intelligence than genetics and public schools provided me.
+Broken Age was funded by diehard fans of LucasArts classics like Day of the Tentacle and more recent contenders like Ben There, Dan That, and those fans will be delighted to hear that Broken Age is a worthy successor. The new Double Fine adventure surpasses its predecessors in its lush presentation, which creates the illusion of a world I'd be happy to move to, or at least vacation in. Broken Age brings a storybook to life, one with with shades of Lane Smith's off-kilter work in The Stinky Cheese Man and other Jon Scieszka books. The soundtrack is a stunner as well.
+The game's beauty made an occasional graphical bug I experienced all the more frustrating. From time to time, backgrounds would disappear, leaving only a startling blackness. Though Double Fine didn't have a solution to my issue, I'm hopeful it was isolated to my machine.
+It looks and sounds great, but characters are Broken Age's secret weapons. They're grounded while approaching absurdity and adversity with brave, heartfelt sincerity. This gives Broken Age the kind of depth that's so often lacking in other "funny" games. It's not working as hard for laughs as previous Double Fine games (or Schafer's work before that), but that makes them all the more welcome when they come.
+Being completely spellbound as I was, I wasn't prepared for the game's first half to come to such a sudden halt. This is just Act 1, after all, with Act 2 due later this year. But finishing Broken Age as it stands feels less like watching a great TV show, where many narrative threads are closed by episode's end, and more like closing a great book halfway through and deciding to take a few months off.
+I'll admit there's a little bit of Veruca Salt in this complaint. This is wonderful stuff so I do, in fact, just want it now. But there's also a lot of really important set up here, themes being established, conflicts being hinted at. I worry the impact of seeing those resolved will be blunted once so much time has elapsed upon the release of Broken Age's second act.

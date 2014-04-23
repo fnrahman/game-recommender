@@ -1,0 +1,73 @@
+Infamous: Second Son is a superhero game that purports to be about something deeper than blowing shit up.
+
+
+<!--
+// Adapted from https://gist.github.com/paulirish/1579671 which derived from 
+// http://paulirish.com/2011/requestanimationframe-for-smart-animating/
+// http://my.opera.com/emoller/blog/2011/12/20/requestanimationframe-for-smart-er-animating
+
+// requestAnimationFrame polyfill by Erik M&ouml;ller.
+// Fixes from Paul Irish, Tino Zijdel, Andrew Mao, Klemen Slavič, Darius Bacon
+
+// MIT license
+if (!Date.now)
+    Date.now = function() { return new Date().getTime(); };
+(function() {
+    var vendors = ['webkit', 'moz'];
+    for (var i = 0; i < vendors.length && !window.requestAnimationFrame; ++i) {
+        var vp = vendors[i];
+        window.requestAnimationFrame = window[vp+'RequestAnimationFrame'];
+        window.cancelAnimationFrame = (window[vp+'CancelAnimationFrame']
+                                   || window[vp+'CancelRequestAnimationFrame']);
+    }
+    if (/iP(ad|hone|od).*OS 6/.test(window.navigator.userAgent) // iOS6 is buggy
+        || !window.requestAnimationFrame || !window.cancelAnimationFrame) {
+        var lastTime = 0;
+        window.requestAnimationFrame = function(callback) {
+            var now = Date.now();
+            var nextTime = Math.max(lastTime + 16, now);
+            return setTimeout(function() { callback(lastTime = nextTime); },
+                              nextTime - now);
+        };
+        window.cancelAnimationFrame = clearTimeout;
+    }
+}());
+
+$(function() {
+var master = $('video.master-sync').get(0);
+var $slaves = $('video.slave-sync');
+var sync = function() {
+  //console.log("'N Sync");
+  if (master.readyState === 4 ) {
+    $slaves.each(function() {
+      if (this.readyState === 4 && this.currentTime !== master.currentTime) {
+        this.currentTime = master.currentTime;
+      }
+    });
+  }
+  window.requestAnimationFrame(sync);
+};
+sync();
+});
+// -->
+Surely you've heard that Stan Lee classic: "With great power comes great responsibility." That moral lesson has been focused on, deconstructed and returned to over and over in superhero comics since the 1960s. Meanwhile, superhero games have always leaned a little harder on just letting players have fun — all power, very little responsibility.
+The first two Infamous games tried with mixed success to introduce more ramifications to their virtual superhero stories, and if anything, Second Son has even nobler goals in mind. While this semi-reboot still plays with the origin story trope of a hero coming to terms with the impact of his new abilities, it also toys with darker issues: the overwhelming nature of surveillance in modern society, trading freedom for security, society-wide fear of the unknown.
+These themes form an undercurrent to Infamous: Second Son that has strong potential, but they're underdeveloped in the main narrative. By the time credits roll, the game has undeniably chosen power over responsibility yet again. Because it backs down from its grand vision, Second Son may not hit as hard as it should have. But I was having so much fun blowing shit up that I almost didn't notice.
+
+Set seven years after the universe-altering events of Infamous 2, Second Son follows new protagonist Delsin Rowe. As a rebellious graffiti artist, Delsin lives to annoy his brother Reggie, a cop on the Pacific Northwest reservation where the two live as part of the fictional Okomish tribe.
+
+This relatively peaceful existence is brought to an end when Delsin is put in contact with a conduit — the Infamous universe's name for people with superpowers — and discovers he can siphon their abilities. This gift sets Delsin apart from previous protagonist Cole in an important way: Delsin gains entirely new powers as the game progresses, beyond the regular upgrade paths afforded by the game's leveling structure.
+While you'll use your powers to navigate the city, float through the air and search for hidden blast shards (which can be cashed in to upgrade powers), combat takes up the vast majority of time in Infamous: Second Son. There are some side missions, and the handful of boss battles often have a small gimmick to figure out, but all primary progress comes back to blasting bad guys. And it's a hell of a lot of fun to do so.
+Each power set in Second Son is kept small — so as to not overextend the control scheme — but with enough options to never feel constrained by your current choice of powers. And they all feel suitably different as well. Both smoke and neon have regular shots, but smoke shots hit harder, while neon rewards you for carefully aiming at specific body parts. Both sets have more powerful, limited-ammo shots, but smoke's is a rocket that causes massive area-of-effect damage, while neon's is a more directed sniper shot that has a sizable charge-up time to take into account.
+While I eventually settled on neon as my personal favorite of the game's options, I appreciated the variety and how well the game encouraged mixing things up from mission to mission. Between blast shard upgrades and narrative progression, I always felt like I was unlocking something new to mess around with.
+A big part of the draw of these powers comes from your ability to cause lasting destruction in Second Son's playground of virtual Seattle. You won't be taking down actual buildings or legitimate landmarks in the game, but Delsin finds himself up against the DUP (Department of Unified Protection), a government agency in charge of rounding up and jailing conduits. As part of locking down Seattle for their search, the DUP has built militarized checkpoints, makeshift headquarters and other imposing structures — blights on the beautifully rendered cityscape that are just begging to be knocked down.
+Let's say you approach an intersection with a checkpoint where DUP soldiers are checking civilians for the conduit gene with a special scanner. Two watchtowers stand on either side of the checkpoint, with a small bridge extending above it. A few feet ahead, there's a giant cage where "suspicious" individuals are being held.
+If you've never played the first two Infamous games on PlayStation 3, don't worry too much about catching up. Second Son takes place in the same world as the earlier games, but there are no strong connections to them aside from a vague sense that the current state of the world is due to the events of Infamous 2. This is the closest Sucker Punch could have gotten to a reboot without actually pretending the original games never happened. That sense of it being a stand-alone story — or at least a new beginning — should work well with a PlayStation 4 audience that may have missed the Infamous games last generation.
+You could just rush in and start taking down individual agents with melee attacks or smoke shots. Or you could collapse the bridge, instantly knocking out the guard on top of it while taking out the scanner, buying yourself enough time to rip open the cage door so that you don't accidentally destroy it and hurt the innocent people inside in the ensuing shootout. The options are empowering, and no matter how much time passes in game, the cage will remain opened, the bridge will remain destroyed, and the scanner will be gone for good. Your surgical strikes against the DUP have a lasting impact.
+The best moments in the game are reserved for skillful use of your ultimate powers (or "Karma Bombs," as they're known in-game). These abilities are charged by doing good or evil acts, depending on your alignment (we'll get to that system in a second). Once charged, you can unleash them at any point by tapping a single button ... at which point you can sit back and watch the chaos unfold. A single ultimate move can handily wipe out a whole battalion of enemies, likely taking out nearby structures as well. It feels incredible to launch into the air and smash down on enemies like a comet, leaving the area cleared out.
+Though the number of powers at my disposal keeps it moving, I wish that Second Son had more activities to offer. We're on a new generation of consoles, but Second Son's general structure is identical to its PlayStation 3 ancestors: a few different tiers of activities, side missions and main missions that virtually all culminate in the goal of beating up more soldiers or thugs. You can explore a little, finding more blast shards and the like, but there's not much in the game built to support any interesting experiments with powers and navigation. That lack of vision extends to the game's narrative as well.
+While Second Son does a great job of making your combat choices feeling meaningful and engaging, I can't say the same for the handful of story choices. At a few set moments as the game progresses, a cutscene will pause and you'll be given two choices presented as blue (heroic) or red (villainous).
+On top of the 15 hours or so of content included in Infamous: Second Son at launch, Sucker Punch has an intriguing series of free side missions planned. Called "Paper Trail," this bonus story will require swapping back and forth between brief activities in-game and investigations on the internet to help progress the content and unlock new chapters. I was only able to play the first Paper Trail mission in our review build, and I'm not sure how the out-of-game online portion will function, but I'm eager to see where the story goes and what it adds to the game.
+From the very first choice 20 minutes into the game, these are obvious, binary decisions of the least interesting variety. A few missions are locked off based on whether you've chosen a good or evil path, but in terms of story, it mainly dictates Delsin's overall tone. I had trouble feeling much connection to my choices when they were so cleanly split between being a decent human and an absolute monster.
+It felt like Sucker Punch could have done better here, because they do so much better elsewhere. Second Son's moment-to-moment writing is a giant leap over previous Infamous games. Delsin, Reggie, even the game's scenery-chewing villain are infinitely more likable than Cole and Zeke, the duo that led the first two games. And cutscenes feature some of the most impressive facial capture I've ever seen in a game, which makes the natural tension present in dialogue between the two on-edge brothers even more of a joy to listen to and watch.
+But just as the serious theme of life in post-9/11 America becomes a mere backdrop to Delsin's story, the moral choices in Infamous: Second Son seem like more of a burden than a boon — like something that the game is expected to have even if it doesn't add anything of value to the story Sucker Punch is trying to tell. As a character piece alone, Second Son delivers a well-developed arc that drew me in. As a full-blown narrative, it disappointed me.

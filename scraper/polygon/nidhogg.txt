@@ -1,0 +1,64 @@
+They say the journey is more important than destination. Such is the case with Nidhogg.
+
+<!--
+// Adapted from https://gist.github.com/paulirish/1579671 which derived from 
+// http://paulirish.com/2011/requestanimationframe-for-smart-animating/
+// http://my.opera.com/emoller/blog/2011/12/20/requestanimationframe-for-smart-er-animating
+
+// requestAnimationFrame polyfill by Erik M&ouml;ller.
+// Fixes from Paul Irish, Tino Zijdel, Andrew Mao, Klemen Slavič, Darius Bacon
+
+// MIT license
+if (!Date.now)
+    Date.now = function() { return new Date().getTime(); };
+(function() {
+    var vendors = ['webkit', 'moz'];
+    for (var i = 0; i < vendors.length && !window.requestAnimationFrame; ++i) {
+        var vp = vendors[i];
+        window.requestAnimationFrame = window[vp+'RequestAnimationFrame'];
+        window.cancelAnimationFrame = (window[vp+'CancelAnimationFrame']
+                                   || window[vp+'CancelRequestAnimationFrame']);
+    }
+    if (/iP(ad|hone|od).*OS 6/.test(window.navigator.userAgent) // iOS6 is buggy
+        || !window.requestAnimationFrame || !window.cancelAnimationFrame) {
+        var lastTime = 0;
+        window.requestAnimationFrame = function(callback) {
+            var now = Date.now();
+            var nextTime = Math.max(lastTime + 16, now);
+            return setTimeout(function() { callback(lastTime = nextTime); },
+                              nextTime - now);
+        };
+        window.cancelAnimationFrame = clearTimeout;
+    }
+}());
+
+$(function() {
+var master = $('video.master-sync').get(0);
+var $slaves = $('video.slave-sync');
+var sync = function() {
+  //console.log("'N Sync");
+  if (master.readyState === 4 ) {
+    $slaves.each(function() {
+      if (this.readyState === 4 && this.currentTime !== master.currentTime) {
+        this.currentTime = master.currentTime;
+      }
+    });
+  }
+  window.requestAnimationFrame(sync);
+};
+sync();
+});
+// -->
+It should be noted that the destination is the gut of a large sky-worm.
+Fighting games usually offer the simple objective of killing (or at least severely injuring) your opponent. In Nidhogg, the death of your foe is the beginning, kicking off an intense game of tug-of-war that more closely resembles the NFL than it does Street Fighter. It's a remarkably inventive game that may not be very welcoming at first. But once embraced, Nidhogg reveals its creativity and depth.
+To understand Nidhogg, you must wrap your head around its unusual rules. Each match starts with two players facing each other in a small, 2D arena, each armed with a fencing sword known as an épée. This standoff ends when one player kills the other, whether through an unblocked stab or by knocking their foe to the ground and ripping out their heart.
+The killer is then on offense. A large arrow points in the direction of the killer's endzone while the initial victim continually respawns in their way. If the opponent manages to score a kill, they go on offense and the arrow flips to the other direction. If someone's able to reach their own endzone, they are declared the winner. Then a large sky worm eats them.
+Seriously.
+This strange tug-of-war mechanic plays out across massive, multi-screen arenas. A single game could be over in a few minutes or stretch on for a half-hour, depending on how well-matched the two players are. The constant push and pull makes every inch of progress towards your endzone feeling like a victory, and every death a major setback.
+
+Nidhogg has a good deal of violence, but it's not bloody in the traditional sense. The artistic style of the game looks like it's from the mid-1980s, with bright colors and simple, 2D sprites. Blood is represented by orange and yellow sprays of pixels, and the infamous "heart rip" would be up to interpretation were it not for a tutorial describing it as such.
+
+Despite the retro flair, there's something undeniably modern about the visuals. Each of the game's four, large arenas are filled with environmental details, like precocious, hopping squirrels or the spray from a nearby waterfall. They're also backed by an excellent electronic soundtrack that gives each battle an intense, thumping pace.
+The modernity found in Nidhogg's presentation continues in the sophistication of its combat. Simple fencing stabs cause the players to clink swords against one another, but you can raise or lower your sword placement to get around defense. Counters are equally important, as you can knock the sword from your foe's hand with a well-timed redirection. Throws, divekicks and rolls all have benefits and weaknesses. Because of all of these options, Nidhogg never feels simple, and it never feels cheap. Kills must be earned through thoughtful strategy rather than button mashing, and it's immensely satisfying when a plan comes together.
+Nidhogg's combat depth has the potential to lead to some intense battles with everyone in the same room, but local multiplayer is the only way to consistently enjoy the game. Nidhogg supports online play, but it suffers from enough lag issues to render it mostly unplayable.
+Single-player is also limited to simple matches against bots, which feel like a glorified training mode. The A.I. never reaches the complexity of a human opponent, and I never felt much fulfillment against it. It seems clear that Nidhogg was designed with a party atmosphere in mind, with tournament settings and optional variants to turn a session into a social gathering. If you're looking to fence solo or online, this is not the game for you. But Nidhogg may struggle to find a foothold even in those social situations — there are just four arenas in total, and while each is incredibly well-crafted, I felt unsatisfied with the number of options on hand during longer play sessions.
