@@ -4,10 +4,13 @@ import invertedindex.InvertedIndex;
 
 
 import java.io.File;
+import java.io.FileFilter;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.FileWriter;
+import java.io.FilenameFilter;
 import java.io.IOException;
+import java.text.DecimalFormat;
 import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Scanner;
@@ -24,26 +27,13 @@ public class VectorSpace {
 	public InvertedIndex invertedIndex;
 	public HashMap<String, HashMap<String, Double>> tfidfDocuments;
 	public TreeSet<String> vocabulary;
+	public String intputFolderPath;
+	public String outputFolderPath;
 	
-	public VectorSpace() {
-		stopwords = loadStopwords("C:/Users/Fayz/workspace/VSM/samples/stopwords.txt");
+	public VectorSpace(String inputPath, String outputPath) {
 		documents = new HashMap<String, Multiset<String>>();
 		invertedIndex = new InvertedIndex();
 		vocabulary = new TreeSet<String>();
-		//String[] reviewFolders = new String[] { "C:/Users/Fayz/workspace/VSM/samples/destructoid", "C:/Users/Fayz/workspace/VSM/samples/polygon" };
-		String[] reviewFolders = new String[] { "C:/Users/Fayz/workspace/VSM/samples/test" };
-		loadDocuments(reviewFolders);
-//		for (String s : reviewFolders) {
-//			System.out.println(s);
-//		}
-		calculateTfIdf();
-		System.out.println(vocabulary);
-		try {
-			outputGameMatrix("C:/Users/Fayz/workspace/VSM/samples/output");
-		} catch (IOException e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-		}
 	}
 	
 	public void calculateTfIdf() {
@@ -55,18 +45,30 @@ public class VectorSpace {
 				double tf = (double)doc.count(term); // (double)doc.size();
 				double termcount = (double)invertedIndex.getTermCount(term);
 				double temp = (double)documents.size() / termcount;
-				double idf = Math.log(temp)/Math.log(2.0);
-				tfidfs.put(term, tf*idf);
+				double idf = Math.log(temp);
+				double tfidf = tf*idf;
+				if (tfidf > 0.0) {
+					tfidfs.put(term, tfidf);
+				}
 			}
 			tfidfDocuments.put(docName, tfidfs);
 			System.out.println(docName);
-			System.out.println(tfidfs);
+			//System.out.println(tfidfs);
 		}
 	}
 	
-	public void loadDocuments(String[] reviewFolders) {
+	public void loadDocuments(String inputPath) {
+		File inputFolder = new File(inputPath);
+		File[] reviewFolders = inputFolder.listFiles(new FileFilter() {
+			@Override
+			public boolean accept(File pathname) {
+				return pathname.isDirectory();
+			}	
+		});
+		
 		for (int i=0; i<reviewFolders.length; ++i) {
-			File folder = new File(reviewFolders[i]);
+			File folder = reviewFolders[i];
+			System.out.println("Working on Folder: " + folder.getName());
 			File[] reviews = folder.listFiles();
 			for (File reviewFile : reviews) {
 				try {
@@ -91,16 +93,14 @@ public class VectorSpace {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
+		this.stopwords = stopwords;
 		return stopwords;
 	}
 	
 	public Multiset<String> makeDocumentVector(File reviewFile) throws Exception {
 		Porter stemmer = new Porter();
-		
 		Multiset<String> document;
-
 		String docName = standardizeFilename(reviewFile.getName());
-		System.out.println(docName);
 		
 		
 		if (documents.containsKey(docName)) {
@@ -116,12 +116,17 @@ public class VectorSpace {
 			if (!stopwords.contains(word)) {
 				String stem = stemmer.stripAffixes(word);
 				vocabulary.add(stem);
-				document.add(stem);
-				invertedIndex.add(stem, docName);
+				
+				// For some reason, blank strings are coming through
+				// This should take care of it.
+				if (stem.length() > 0) {
+					document.add(stem);
+					invertedIndex.add(stem, docName);
+				}
 			}
 		}
-		System.out.println("Number of words: " + document.size());
-		System.out.println(document.toString());
+		//System.out.println("Number of words: " + document.size());
+		//System.out.println(document.toString());
 		
 		return document;
 
@@ -132,38 +137,49 @@ public class VectorSpace {
 	}
 	
 	public void outputGameMatrix(String outputFolder) throws IOException {
+		// Check if output folder exists. If not, create it
 		File folder = new File(outputFolder);
 		if (!folder.exists())
 			folder.mkdir();
-		FileWriter vocabFw = new FileWriter(new File(outputFolder,"vocabulary"));
+		
+		// Create the file that lists all features/vocabulary
+		FileWriter vocabFw = new FileWriter(new File(outputFolder,"vocabulary.txt"));
 		for (String term : vocabulary) {
 			vocabFw.write(term + "\n");
 		}
 		vocabFw.close();
 		
+		// Create the file that lists all games.
 		TreeSet<String> games = new TreeSet<String>(documents.keySet());
-		
-		FileWriter gameFw = new FileWriter(new File(outputFolder, "games"));
+		FileWriter gameFw = new FileWriter(new File(outputFolder, "games.txt"));
 		for (String game : games) {
 			gameFw.write(game + "\n");
 		}
 		gameFw.close();
 		
-		FileWriter matrixFw = new FileWriter(new File(outputFolder, "matrix"));
+		// Create the vector space matrix, with games as rows and features as columns
+		FileWriter matrixFw = new FileWriter(new File(outputFolder, "matrix.txt"));
+		int gameNum = 1;
 		for (String game : games) {
-			StringBuilder sb = new StringBuilder();
 			HashMap<String, Double> gameDoc = tfidfDocuments.get(game);
+			int termNum = 1;
 			for (String term : vocabulary) {
-				if (!gameDoc.containsKey(term)) {
-					sb.append("0\t");
-				} else {
+				if (gameDoc.containsKey(term)) {
+					StringBuilder sb = new StringBuilder();
+					sb.append(gameNum);
+					sb.append(' ');
+					sb.append(termNum);
+					sb.append(' ');
 					sb.append(gameDoc.get(term));
-					sb.append('\t');
+					sb.append('\n');
+					matrixFw.write(sb.toString());
 				}
+				termNum++;
 			}
-			sb.append('\n');
-			matrixFw.write(sb.toString());
+			gameNum++;
+			
 		}
+		matrixFw.write(String.format("%s %s 0.0", games.size(), vocabulary.size()));
 		matrixFw.close();
 	}
 }
