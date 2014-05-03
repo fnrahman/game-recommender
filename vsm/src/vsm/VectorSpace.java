@@ -11,6 +11,7 @@ import java.io.FileWriter;
 import java.io.FilenameFilter;
 import java.io.IOException;
 import java.text.DecimalFormat;
+import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Scanner;
@@ -27,13 +28,15 @@ public class VectorSpace {
 	public InvertedIndex invertedIndex;
 	public HashMap<String, HashMap<String, Double>> tfidfDocuments;
 	public TreeSet<String> vocabulary;
-	public String intputFolderPath;
+	public String inputFolderPath;
 	public String outputFolderPath;
 	
 	public VectorSpace(String inputPath, String outputPath) {
 		documents = new HashMap<String, Multiset<String>>();
 		invertedIndex = new InvertedIndex();
 		vocabulary = new TreeSet<String>();
+		inputFolderPath = inputPath;
+		outputFolderPath = outputPath;
 	}
 	
 	public void calculateTfIdf() {
@@ -117,12 +120,8 @@ public class VectorSpace {
 				String stem = stemmer.stripAffixes(word);
 				vocabulary.add(stem);
 				
-				// For some reason, blank strings are coming through
-				// This should take care of it.
-				if (stem.length() > 0) {
-					document.add(stem);
-					invertedIndex.add(stem, docName);
-				}
+				document.add(stem);
+				invertedIndex.add(stem, docName);
 			}
 		}
 		//System.out.println("Number of words: " + document.size());
@@ -181,5 +180,49 @@ public class VectorSpace {
 		}
 		matrixFw.write(String.format("%s %s 0.0", games.size(), vocabulary.size()));
 		matrixFw.close();
+	}
+	
+	public void calculateUserVector(String outputName, ArrayList<String> games, ArrayList<Integer> scores) {
+		HashMap<String, Double> userDoc = new HashMap<String, Double>();
+		for (int i=0; i<games.size(); ++i) {
+			String game = games.get(i);
+			double score = scores.get(i)/100.0;
+			if (tfidfDocuments.containsKey(game)) {
+				HashMap<String, Double> doc = tfidfDocuments.get(game);
+				System.out.println("DOC: " + doc.toString());
+				for (String term : doc.keySet()) {
+					Double docScore = doc.get(term);
+					if (userDoc.containsKey(term))
+						userDoc.put(term, userDoc.get(term) + (docScore*score));
+					else
+						userDoc.put(term, docScore);
+				}
+			}
+ 		}
+		System.out.println("USERDOC: " + userDoc.toString());
+		
+		FileWriter userFw;
+		try {
+			userFw = new FileWriter(new File(outputFolderPath, outputName));
+			int termNum = 1;
+			for (String term : vocabulary) {
+				if (userDoc.containsKey(term)) {
+					StringBuilder sb = new StringBuilder();
+					sb.append("1 ");
+					sb.append(termNum);
+					sb.append(' ');
+					sb.append(userDoc.get(term));
+					sb.append('\n');
+					userFw.write(sb.toString());
+				}
+				termNum++;
+			}
+			userFw.write(String.format("1 %s 0.0", vocabulary.size()));
+			userFw.close();
+		} catch (IOException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		
 	}
 }
